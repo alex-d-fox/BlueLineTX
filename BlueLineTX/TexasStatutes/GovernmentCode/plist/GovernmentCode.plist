@@ -1,0 +1,1687 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. JUDICIAL BRANCH</string>
+		<array>
+			<string>21</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>APPELLATE COURTS</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>GENERAL PROVISIONS FOR TRIAL COURTS</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>DISTRICT COURTS</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string>STATUTORY COUNTY COURTS</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>CONSTITUTIONAL COUNTY COURTS</string>
+		</array>
+		<array>
+			<string>27</string>
+			<string>JUSTICE COURTS</string>
+		</array>
+		<array>
+			<string>29</string>
+			<string>MUNICIPAL COURTS</string>
+		</array>
+		<array>
+			<string>30</string>
+			<string>MUNICIPAL COURTS OF RECORD</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string>ADDITIONAL COMPENSATION OF JUSTICES OF COURTS OF APPEAL</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string> ADDITIONAL COMPENSATION OF DISTRICT JUDGES</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>STATE COMMISSION ON JUDICIAL CONDUCT</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string>CODE OF JUDICIAL CONDUCT;  CANDIDATES FOR JUDICIAL OFFICE</string>
+		</array>
+		<array>
+			<string>35</string>
+			<string> JUDICIAL COMPENSATION COMMISSION</string>
+		</array>
+		<array>
+			<string>41</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>STATE PROSECUTING ATTORNEY</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>DISTRICT ATTORNEYS</string>
+		</array>
+		<array>
+			<string>44</string>
+			<string>CRIMINAL DISTRICT ATTORNEYS</string>
+		</array>
+		<array>
+			<string>45</string>
+			<string>COUNTY ATTORNEYS</string>
+		</array>
+		<array>
+			<string>46</string>
+			<string>PROFESSIONAL PROSECUTORS</string>
+		</array>
+		<array>
+			<string>51</string>
+			<string>CLERKS</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>COURT REPORTERS AND SHORTHAND REPORTING FIRMS</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string>BAILIFFS</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>MASTERS;  MAGISTRATES;  REFEREES;  ASSOCIATE JUDGES</string>
+		</array>
+		<array>
+			<string>54a</string>
+			<string> ASSOCIATE JUDGES</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string>OTHER COURT PERSONNEL</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string>JUDICIAL AND COURT PERSONNEL TRAINING FUND</string>
+		</array>
+		<array>
+			<string>57</string>
+			<string>COURT INTERPRETERS</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>PETIT JURIES</string>
+		</array>
+		<array>
+			<string>71</string>
+			<string>TEXAS JUDICIAL COUNCIL</string>
+		</array>
+		<array>
+			<string>72</string>
+			<string>OFFICE OF COURT ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>73</string>
+			<string>ADMINISTRATION OF COURTS OF APPEALS</string>
+		</array>
+		<array>
+			<string>74</string>
+			<string>COURT ADMINISTRATION ACT</string>
+		</array>
+		<array>
+			<string>75</string>
+			<string>OTHER COURT ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>76</string>
+			<string>COMMUNITY SUPERVISION AND CORRECTIONS DEPARTMENTS</string>
+		</array>
+		<array>
+			<string>77</string>
+			<string>JUDICIAL COMMITTEE ON INFORMATION TECHNOLOGY</string>
+		</array>
+		<array>
+			<string>78</string>
+			<string> CAPITAL WRITS COMMITTEE AND OFFICE OF CAPITAL WRITS</string>
+		</array>
+		<array>
+			<string>79</string>
+			<string> TEXAS INDIGENT DEFENSE COMMISSION</string>
+		</array>
+		<array>
+			<string>81</string>
+			<string>STATE BAR</string>
+		</array>
+		<array>
+			<string>82</string>
+			<string>LICENSING OF ATTORNEYS</string>
+		</array>
+		<array>
+			<string>83</string>
+			<string>CERTAIN UNAUTHORIZED PRACTICE OF LAW</string>
+		</array>
+		<array>
+			<string>84</string>
+			<string>UNAUTHORIZED ATTORNEY COMPENSATION</string>
+		</array>
+		<array>
+			<string>91</string>
+			<string>STATE LAW LIBRARY</string>
+		</array>
+		<array>
+			<string>101</string>
+			<string>FILING FEES AND OTHER FEES AND COSTS IN CIVIL PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>COURT COSTS IN CRIMINAL PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>ADDITIONAL COURT FEES AND COSTS</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string> GUARDIANSHIP CERTIFICATION BOARD</string>
+		</array>
+		<array>
+			<string>121</string>
+			<string> GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>122</string>
+			<string> FAMILY DRUG COURT PROGRAM</string>
+		</array>
+		<array>
+			<string>123</string>
+			<string> DRUG COURT PROGRAMS</string>
+		</array>
+		<array>
+			<string>124</string>
+			<string> VETERANS COURT PROGRAM</string>
+		</array>
+		<array>
+			<string>125</string>
+			<string> MENTAL HEALTH COURT PROGRAMS</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string> GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>152</string>
+			<string> JUDICIAL BRANCH CERTIFICATION COMMISSION</string>
+		</array>
+		<array>
+			<string>153</string>
+			<string> COMMISSION ENFORCEMENT</string>
+		</array>
+		<array>
+			<string>154</string>
+			<string> COURT REPORTERS CERTIFICATION AND SHORTHAND REPORTING FIRMS REGISTRATION</string>
+		</array>
+		<array>
+			<string>155</string>
+			<string> GUARDIANSHIP CERTIFICATION</string>
+		</array>
+		<array>
+			<string>156</string>
+			<string> PROCESS SERVER CERTIFICATION</string>
+		</array>
+		<array>
+			<string>157</string>
+			<string> COURT INTERPRETERS LICENSING</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. LEGISLATIVE BRANCH</string>
+		<array>
+			<string>301</string>
+			<string>LEGISLATIVE ORGANIZATION</string>
+		</array>
+		<array>
+			<string>302</string>
+			<string>SPEAKER OF THE HOUSE OF REPRESENTATIVES</string>
+		</array>
+		<array>
+			<string>303</string>
+			<string>GOVERNOR FOR A DAY AND SPEAKER'S DAY</string>
+		</array>
+		<array>
+			<string>304</string>
+			<string>EMERGENCY INTERIM LEGISLATIVE SUCCESSION</string>
+		</array>
+		<array>
+			<string>305</string>
+			<string>REGISTRATION OF LOBBYISTS</string>
+		</array>
+		<array>
+			<string>306</string>
+			<string>LEGISLATIVE INFORMATION</string>
+		</array>
+		<array>
+			<string>311</string>
+			<string>CODE CONSTRUCTION ACT</string>
+		</array>
+		<array>
+			<string>312</string>
+			<string>CONSTRUCTION OF LAWS</string>
+		</array>
+		<array>
+			<string>313</string>
+			<string>NOTICE FOR LOCAL AND SPECIAL LAWS</string>
+		</array>
+		<array>
+			<string>314</string>
+			<string>FISCAL NOTES AND COST PROJECTIONS</string>
+		</array>
+		<array>
+			<string>315</string>
+			<string>ECONOMIC IMPACT STATEMENT</string>
+		</array>
+		<array>
+			<string>316</string>
+			<string>APPROPRIATIONS</string>
+		</array>
+		<array>
+			<string>317</string>
+			<string>STATE BUDGET EXECUTION</string>
+		</array>
+		<array>
+			<string>318</string>
+			<string>REVIEW OF REGULATORY PROGRAMS</string>
+		</array>
+		<array>
+			<string>319</string>
+			<string>LEGISLATION REGARDING JUDICIAL SYSTEM</string>
+		</array>
+		<array>
+			<string>320</string>
+			<string>UNFUNDED MANDATES ON POLITICAL SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>321</string>
+			<string>STATE AUDITOR</string>
+		</array>
+		<array>
+			<string>322</string>
+			<string>LEGISLATIVE BUDGET BOARD</string>
+		</array>
+		<array>
+			<string>323</string>
+			<string>TEXAS LEGISLATIVE COUNCIL</string>
+		</array>
+		<array>
+			<string>324</string>
+			<string>LEGISLATIVE REFERENCE LIBRARY</string>
+		</array>
+		<array>
+			<string>325</string>
+			<string>SUNSET LAW</string>
+		</array>
+		<array>
+			<string>326</string>
+			<string>COOPERATION BETWEEN LEGISLATIVE AGENCIES</string>
+		</array>
+		<array>
+			<string>328</string>
+			<string> CRIMINAL JUSTICE LEGISLATIVE OVERSIGHT COMMITTEE</string>
+		</array>
+		<array>
+			<string>391</string>
+			<string>RESOLUTIONS FOR STATE SYMBOLS, PLACE DESIGNATIONS, AND RECOGNITION DAYS, WEEKS, AND MONTHS</string>
+		</array>
+		<array>
+			<string>392</string>
+			<string> PERSON FIRST RESPECTFUL LANGUAGE INITIATIVE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. EXECUTIVE BRANCH</string>
+		<array>
+			<string>401</string>
+			<string>GOVERNOR AND LIEUTENANT GOVERNOR</string>
+		</array>
+		<array>
+			<string>402</string>
+			<string>ATTORNEY GENERAL</string>
+		</array>
+		<array>
+			<string>403</string>
+			<string>COMPTROLLER OF PUBLIC ACCOUNTS</string>
+		</array>
+		<array>
+			<string>404</string>
+			<string>STATE TREASURY OPERATIONS OF COMPTROLLER</string>
+		</array>
+		<array>
+			<string>405</string>
+			<string>SECRETARY OF STATE</string>
+		</array>
+		<array>
+			<string>406</string>
+			<string>NOTARY PUBLIC;  COMMISSIONER OF DEEDS</string>
+		</array>
+		<array>
+			<string>411</string>
+			<string>DEPARTMENT OF PUBLIC SAFETY OF THE STATE OF TEXAS</string>
+		</array>
+		<array>
+			<string>413</string>
+			<string>CRIMINAL JUSTICE POLICY COUNCIL</string>
+		</array>
+		<array>
+			<string>414</string>
+			<string> TEXAS CRIME STOPPERS COUNCIL</string>
+		</array>
+		<array>
+			<string>417</string>
+			<string>STATE FIRE MARSHAL</string>
+		</array>
+		<array>
+			<string>418</string>
+			<string>EMERGENCY MANAGEMENT</string>
+		</array>
+		<array>
+			<string>419</string>
+			<string>TEXAS COMMISSION ON FIRE PROTECTION</string>
+		</array>
+		<array>
+			<string>420</string>
+			<string>SEXUAL ASSAULT PREVENTION AND CRISIS SERVICES</string>
+		</array>
+		<array>
+			<string>420a</string>
+			<string> OFFICE OF VIOLENT SEX OFFENDER MANAGEMENT</string>
+		</array>
+		<array>
+			<string>421</string>
+			<string>HOMELAND SECURITY</string>
+		</array>
+		<array>
+			<string>422</string>
+			<string> INTERNET-BASED SEXUAL EXPLOITATION OF MINOR</string>
+		</array>
+		<array>
+			<string>423</string>
+			<string>USE OF UNMANNED AIRCRAFT</string>
+		</array>
+		<array>
+			<string>431</string>
+			<string>STATE MILITIA</string>
+		</array>
+		<array>
+			<string>432</string>
+			<string>TEXAS CODE OF MILITARY JUSTICE</string>
+		</array>
+		<array>
+			<string>433</string>
+			<string>STATE OF EMERGENCY</string>
+		</array>
+		<array>
+			<string>434</string>
+			<string>VETERAN ASSISTANCE AGENCIES</string>
+		</array>
+		<array>
+			<string>436</string>
+			<string>TEXAS MILITARY PREPAREDNESS COMMISSION</string>
+		</array>
+		<array>
+			<string>437</string>
+			<string> TEXAS MILITARY</string>
+		</array>
+		<array>
+			<string>441</string>
+			<string>LIBRARIES AND ARCHIVES</string>
+		</array>
+		<array>
+			<string>442</string>
+			<string>TEXAS HISTORICAL COMMISSION</string>
+		</array>
+		<array>
+			<string>443</string>
+			<string>STATE PRESERVATION BOARD</string>
+		</array>
+		<array>
+			<string>444</string>
+			<string>TEXAS COMMISSION ON THE ARTS</string>
+		</array>
+		<array>
+			<string>445</string>
+			<string>TEXAS STATE HISTORY MUSEUM</string>
+		</array>
+		<array>
+			<string>447</string>
+			<string>STATE ENERGY CONSERVATION OFFICE</string>
+		</array>
+		<array>
+			<string>449</string>
+			<string> TEXAS HOLOCAUST AND GENOCIDE COMMISSION</string>
+		</array>
+		<array>
+			<string>450</string>
+			<string> EDUCATIONAL PROGRAMS TO ADVANCE THE TEACHING OF TEXAS HISTORY</string>
+		</array>
+		<array>
+			<string>464</string>
+			<string>BUILDING MATERIALS AND SYSTEMS TESTING LABORATORY</string>
+		</array>
+		<array>
+			<string>466</string>
+			<string>STATE LOTTERY</string>
+		</array>
+		<array>
+			<string>467</string>
+			<string>TEXAS LOTTERY COMMISSION</string>
+		</array>
+		<array>
+			<string>468</string>
+			<string>STATE DEMOGRAPHER</string>
+		</array>
+		<array>
+			<string>469</string>
+			<string>ELIMINATION OF ARCHITECTURAL BARRIERS</string>
+		</array>
+		<array>
+			<string>472</string>
+			<string> SELF-DIRECTED SEMI-INDEPENDENT AGENCIES</string>
+		</array>
+		<array>
+			<string>481</string>
+			<string>TEXAS ECONOMIC DEVELOPMENT AND TOURISM OFFICE</string>
+		</array>
+		<array>
+			<string>485</string>
+			<string>MUSIC, FILM, TELEVISION, AND MULTIMEDIA INDUSTRIES</string>
+		</array>
+		<array>
+			<string>485a</string>
+			<string> MEDIA PRODUCTION DEVELOPMENT ZONES</string>
+		</array>
+		<array>
+			<string>487</string>
+			<string> OFFICE OF RURALAFFAIRS IN DEPARTMENT OF AGRICULTURE</string>
+		</array>
+		<array>
+			<string>488</string>
+			<string>SOUTHEAST TEXAS BIOTECHNOLOGY PARK</string>
+		</array>
+		<array>
+			<string>489</string>
+			<string>TEXAS ECONOMIC DEVELOPMENT BANK</string>
+		</array>
+		<array>
+			<string>490</string>
+			<string> FUNDING FOR EMERGING TECHNOLOGY</string>
+		</array>
+		<array>
+			<string>490a</string>
+			<string>TEXAS ENTREPRENEURSHIP NETWORK</string>
+		</array>
+		<array>
+			<string>490b</string>
+			<string> TEXAS-MEXICO STRATEGIC INVESTMENT COMMISSION</string>
+		</array>
+		<array>
+			<string>490c</string>
+			<string> PROMOTION OF TEXAS MANUFACTURED PRODUCTS</string>
+		</array>
+		<array>
+			<string>490e</string>
+			<string> TASK FORCE ON ECONOMIC GROWTH AND ENDANGERED SPECIES</string>
+		</array>
+		<array>
+			<string>490f</string>
+			<string> TEXAS 2036 COMMISSION</string>
+		</array>
+		<array>
+			<string>491</string>
+			<string>TEXAS BOARD OF CRIMINAL JUSTICE, TEXAS DEPARTMENT OF CRIMINAL JUSTICE:  GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>492</string>
+			<string>TEXAS BOARD OF CRIMINAL JUSTICE:  GENERAL DUTIES;  MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>493</string>
+			<string>TEXAS DEPARTMENT OF CRIMINAL JUSTICE:  ORGANIZATION</string>
+		</array>
+		<array>
+			<string>494</string>
+			<string>INSTITUTIONAL DIVISION:  POLICY, DIRECTOR, AND STAFF</string>
+		</array>
+		<array>
+			<string>495</string>
+			<string>CONTRACTS FOR CORRECTIONAL FACILITIES AND SERVICES</string>
+		</array>
+		<array>
+			<string>496</string>
+			<string>LAND AND PROPERTY</string>
+		</array>
+		<array>
+			<string>497</string>
+			<string>INDUSTRY AND AGRICULTURE;  LABOR OF INMATES</string>
+		</array>
+		<array>
+			<string>498</string>
+			<string>INMATE CLASSIFICATION AND GOOD TIME</string>
+		</array>
+		<array>
+			<string>499</string>
+			<string>POPULATION MANAGEMENT;  SPECIAL PROGRAMS</string>
+		</array>
+		<array>
+			<string>500</string>
+			<string>MISCELLANEOUS DISCIPLINARY MATTERS</string>
+		</array>
+		<array>
+			<string>501</string>
+			<string>INMATE WELFARE</string>
+		</array>
+		<array>
+			<string>507</string>
+			<string>STATE JAIL DIVISION</string>
+		</array>
+		<array>
+			<string>508</string>
+			<string>PAROLE AND MANDATORY SUPERVISION</string>
+		</array>
+		<array>
+			<string>509</string>
+			<string>COMMUNITY JUSTICE ASSISTANCE DIVISION</string>
+		</array>
+		<array>
+			<string>510</string>
+			<string>INTERSTATE COMPACT FOR ADULT OFFENDER SUPERVISION</string>
+		</array>
+		<array>
+			<string>511</string>
+			<string>COMMISSION ON JAIL STANDARDS</string>
+		</array>
+		<array>
+			<string>531</string>
+			<string>HEALTH AND HUMAN SERVICES COMMISSION</string>
+		</array>
+		<array>
+			<string>533</string>
+			<string>IMPLEMENTATION OF MEDICAID MANAGED CARE PROGRAM</string>
+		</array>
+		<array>
+			<string>534</string>
+			<string> SYSTEM REDESIGN FOR DELIVERY OF MEDICAID ACUTE CARE SERVICES AND LONG-TERM SERVICES AND SUPPORTS TO PERSONS WITH INTELLECTUAL AND DEVELOPMENTAL DISABILITIES</string>
+		</array>
+		<array>
+			<string>535</string>
+			<string> PROVISION OF HUMAN SERVICES AND OTHERSOCIAL SERVICES THROUGH FAITH- AND COMMUNITY-BASED ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>536</string>
+			<string> MEDICAID AND CHILD HEALTH PLAN PROGRAMS:  QUALITY-BASED OUTCOMES AND PAYMENTS</string>
+		</array>
+		<array>
+			<string>537</string>
+			<string> MEDICAID REFORM WAIVER</string>
+		</array>
+		<array>
+			<string>538</string>
+			<string> MEDICAID QUALITY IMPROVEMENT PROCESS FOR CLINICAL INITIATIVES</string>
+		</array>
+		<array>
+			<string>539</string>
+			<string> COMMUNITY COLLABORATIVES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. OPEN GOVERNMENT;  ETHICS</string>
+		<array>
+			<string>551</string>
+			<string>OPEN MEETINGS</string>
+		</array>
+		<array>
+			<string>552</string>
+			<string>PUBLIC INFORMATION</string>
+		</array>
+		<array>
+			<string>553</string>
+			<string>PUBLIC DISCLOSURE</string>
+		</array>
+		<array>
+			<string>554</string>
+			<string>PROTECTION FOR REPORTING VIOLATIONS OF LAW</string>
+		</array>
+		<array>
+			<string>555</string>
+			<string>STATE AGENCY RECORDS RELATING TO LICENSE HOLDERS OR OTHER REGULATED PERSONS</string>
+		</array>
+		<array>
+			<string>556</string>
+			<string>POLITICAL ACTIVITIES BY CERTAIN PUBLIC ENTITIES AND INDIVIDUALS</string>
+		</array>
+		<array>
+			<string>557</string>
+			<string>SEDITION, SABOTAGE, AND COMMUNISM</string>
+		</array>
+		<array>
+			<string>558</string>
+			<string>INTERPRETERS FOR DEAF OR HEARING IMPAIRED PERSONS</string>
+		</array>
+		<array>
+			<string>559</string>
+			<string>STATE GOVERNMENT PRIVACY POLICIES</string>
+		</array>
+		<array>
+			<string>560</string>
+			<string>BIOMETRIC IDENTIFIER</string>
+		</array>
+		<array>
+			<string>571</string>
+			<string>TEXAS ETHICS COMMISSION</string>
+		</array>
+		<array>
+			<string>572</string>
+			<string>PERSONAL FINANCIAL DISCLOSURE, STANDARDS OF CONDUCT, AND CONFLICT OF INTEREST</string>
+		</array>
+		<array>
+			<string>573</string>
+			<string>DEGREES OF RELATIONSHIP;  NEPOTISM PROHIBITIONS</string>
+		</array>
+		<array>
+			<string>574</string>
+			<string>DUAL OFFICE HOLDING</string>
+		</array>
+		<array>
+			<string>575</string>
+			<string>ACCEPTANCE OF GIFT BY STATE AGENCY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. PUBLIC OFFICERS AND EMPLOYEES</string>
+		<array>
+			<string>601</string>
+			<string>ELECTION AND OFFICE HOLDING</string>
+		</array>
+		<array>
+			<string>602</string>
+			<string>ADMINISTRATION OF OATHS</string>
+		</array>
+		<array>
+			<string>603</string>
+			<string>PROVISION OF DOCUMENTS AND FEES OF OFFICE</string>
+		</array>
+		<array>
+			<string>604</string>
+			<string>OFFICIAL BONDS</string>
+		</array>
+		<array>
+			<string>605</string>
+			<string>EIGHT-HOUR WORKDAY</string>
+		</array>
+		<array>
+			<string>606</string>
+			<string>SOCIAL SECURITY</string>
+		</array>
+		<array>
+			<string>607</string>
+			<string> BENEFITS RELATING TO CERTAIN DISEASES AND ILLNESSES</string>
+		</array>
+		<array>
+			<string>608</string>
+			<string>PAYROLL DEDUCTION FOR SAVINGS BONDS</string>
+		</array>
+		<array>
+			<string>609</string>
+			<string>DEFERRED COMPENSATION PLANS</string>
+		</array>
+		<array>
+			<string>610</string>
+			<string>CHILD CARE EXPENSE SALARY REDUCTIONS</string>
+		</array>
+		<array>
+			<string>611</string>
+			<string>LODGING, MEAL, AND TRAVEL REIMBURSEMENT</string>
+		</array>
+		<array>
+			<string>612</string>
+			<string>LIABILITY INSURANCE</string>
+		</array>
+		<array>
+			<string>613</string>
+			<string>REEMPLOYMENT FOLLOWING MILITARY SERVICE</string>
+		</array>
+		<array>
+			<string>614</string>
+			<string>PEACE OFFICERS AND FIRE FIGHTERS</string>
+		</array>
+		<array>
+			<string>615</string>
+			<string>FINANCIAL ASSISTANCE TO SURVIVORS OF CERTAIN LAW ENFORCEMENT OFFICERS, FIRE FIGHTERS, AND OTHERS</string>
+		</array>
+		<array>
+			<string>616</string>
+			<string>EMERGENCY INTERIM PUBLIC OFFICE SUCCESSION</string>
+		</array>
+		<array>
+			<string>617</string>
+			<string>COLLECTIVE BARGAINING AND STRIKES</string>
+		</array>
+		<array>
+			<string>618</string>
+			<string>UNIFORM FACSIMILE SIGNATURE OF PUBLIC OFFICIALS ACT</string>
+		</array>
+		<array>
+			<string>651</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>652</string>
+			<string>VACANCIES</string>
+		</array>
+		<array>
+			<string>653</string>
+			<string>BONDS COVERING CERTAIN STATE OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>654</string>
+			<string>POSITION CLASSIFICATION</string>
+		</array>
+		<array>
+			<string>655</string>
+			<string>MERIT SELECTION</string>
+		</array>
+		<array>
+			<string>656</string>
+			<string>JOB NOTICES AND TRAINING</string>
+		</array>
+		<array>
+			<string>657</string>
+			<string>VETERAN'S EMPLOYMENT PREFERENCES</string>
+		</array>
+		<array>
+			<string>658</string>
+			<string>HOURS OF LABOR</string>
+		</array>
+		<array>
+			<string>659</string>
+			<string>COMPENSATION</string>
+		</array>
+		<array>
+			<string>660</string>
+			<string>TRAVEL EXPENSES</string>
+		</array>
+		<array>
+			<string>661</string>
+			<string>LEAVE</string>
+		</array>
+		<array>
+			<string>662</string>
+			<string>HOLIDAYS AND RECOGNITION DAYS, WEEKS, AND MONTHS</string>
+		</array>
+		<array>
+			<string>663</string>
+			<string>CHILD CARE SERVICES FOR STATE EMPLOYEES</string>
+		</array>
+		<array>
+			<string>664</string>
+			<string>STATE EMPLOYEES HEALTH FITNESS AND EDUCATION</string>
+		</array>
+		<array>
+			<string>665</string>
+			<string>IMPEACHMENT AND REMOVAL</string>
+		</array>
+		<array>
+			<string>666</string>
+			<string>RECOVERING EXCESS COMPENSATION PAID TO A STATE OFFICER OR EMPLOYEE</string>
+		</array>
+		<array>
+			<string>667</string>
+			<string>MULTIPLE EMPLOYMENTS WITH STATE</string>
+		</array>
+		<array>
+			<string>668</string>
+			<string>MEMBERSHIP DUES</string>
+		</array>
+		<array>
+			<string>669</string>
+			<string>RESTRICTIONS ON CERTAIN ACTIONS INVOLVING EXECUTIVE HEAD OF STATE AGENCY</string>
+		</array>
+		<array>
+			<string>670</string>
+			<string>HUMAN RESOURCES STAFFING AND FUNCTIONS</string>
+		</array>
+		<array>
+			<string>671</string>
+			<string> HEALTH SERVICES IN STATE OFFICE COMPLEXES</string>
+		</array>
+		<array>
+			<string>672</string>
+			<string> EMPLOYMENT PREFERENCE FOR FORMER FOSTER CHILDREN</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. INTERGOVERNMENTAL RELATIONS</string>
+		<array>
+			<string>742</string>
+			<string>COORDINATING RELATIONSHIPS BETWEEN LOCAL GOVERNMENTS AND FEDERAL AGENCIES</string>
+		</array>
+		<array>
+			<string>751</string>
+			<string>OFFICE OF STATE-FEDERAL RELATIONS</string>
+		</array>
+		<array>
+			<string>752</string>
+			<string>IMMIGRATION</string>
+		</array>
+		<array>
+			<string>761</string>
+			<string>SOUTHERN STATES ENERGY COMPACT</string>
+		</array>
+		<array>
+			<string>762</string>
+			<string>COMMISSION ON UNIFORM STATE LAWS</string>
+		</array>
+		<array>
+			<string>763</string>
+			<string>AGREEMENTS BETWEEN BORDER MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>764</string>
+			<string>TRI-STATE CORRIDOR COMMISSION</string>
+		</array>
+		<array>
+			<string>771</string>
+			<string>INTERAGENCY COOPERATION ACT</string>
+		</array>
+		<array>
+			<string>772</string>
+			<string>GOVERNMENTAL PLANNING</string>
+		</array>
+		<array>
+			<string>773</string>
+			<string>COORDINATION OF REGULATORY AGENCY INFORMATION GATHERING</string>
+		</array>
+		<array>
+			<string>774</string>
+			<string>EXCHANGE OF INFORMATION BETWEEN REGULATORY AGENCIES</string>
+		</array>
+		<array>
+			<string>775</string>
+			<string>COORDINATION OF COLONIA INITIATIVES</string>
+		</array>
+		<array>
+			<string>776</string>
+			<string>TEXAS INVASIVE SPECIES COORDINATING COMMITTEE</string>
+		</array>
+		<array>
+			<string>782</string>
+			<string>CULTURAL BASIN ACT</string>
+		</array>
+		<array>
+			<string>783</string>
+			<string>UNIFORM GRANT AND CONTRACT MANAGEMENT</string>
+		</array>
+		<array>
+			<string>791</string>
+			<string>INTERLOCAL COOPERATION CONTRACTS</string>
+		</array>
+		<array>
+			<string>792</string>
+			<string>INTERNATIONAL COOPERATION AGREEMENTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. PUBLIC RETIREMENT SYSTEMS</string>
+		<array>
+			<string>801</string>
+			<string>STATE PENSION REVIEW BOARD</string>
+		</array>
+		<array>
+			<string>802</string>
+			<string>ADMINISTRATIVE REQUIREMENTS</string>
+		</array>
+		<array>
+			<string>803</string>
+			<string>PROPORTIONATE RETIREMENT PROGRAM</string>
+		</array>
+		<array>
+			<string>804</string>
+			<string>DOMESTIC RELATIONS ORDERS AND SPOUSAL CONSENT</string>
+		</array>
+		<array>
+			<string>805</string>
+			<string>CREDIT TRANSFER BETWEEN EMPLOYEES RETIREMENT SYSTEM OF TEXAS AND TEACHER RETIREMENT SYSTEM OF TEXAS</string>
+		</array>
+		<array>
+			<string>806</string>
+			<string> PROHIBITION ON INVESTMENT IN SUDAN</string>
+		</array>
+		<array>
+			<string>807</string>
+			<string> PROHIBITION ON INVESTMENT IN IRAN</string>
+		</array>
+		<array>
+			<string>810</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>811</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>812</string>
+			<string>MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>813</string>
+			<string>CREDITABLE SERVICE</string>
+		</array>
+		<array>
+			<string>814</string>
+			<string>BENEFITS</string>
+		</array>
+		<array>
+			<string>815</string>
+			<string>ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>821</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>822</string>
+			<string>MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>823</string>
+			<string>CREDITABLE SERVICE</string>
+		</array>
+		<array>
+			<string>824</string>
+			<string>BENEFITS</string>
+		</array>
+		<array>
+			<string>825</string>
+			<string>ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>830</string>
+			<string>OPTIONAL RETIREMENT PROGRAM</string>
+		</array>
+		<array>
+			<string>831</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>832</string>
+			<string>MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>833</string>
+			<string>CREDITABLE SERVICE</string>
+		</array>
+		<array>
+			<string>834</string>
+			<string>BENEFITS</string>
+		</array>
+		<array>
+			<string>835</string>
+			<string>ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>836</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>837</string>
+			<string>MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>838</string>
+			<string>CREDITABLE SERVICE</string>
+		</array>
+		<array>
+			<string>839</string>
+			<string>BENEFITS</string>
+		</array>
+		<array>
+			<string>840</string>
+			<string>ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>841</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>842</string>
+			<string>MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>843</string>
+			<string>CREDITABLE SERVICE</string>
+		</array>
+		<array>
+			<string>844</string>
+			<string>BENEFITS</string>
+		</array>
+		<array>
+			<string>845</string>
+			<string>ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>851</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>852</string>
+			<string>MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>853</string>
+			<string>CREDITABLE SERVICE</string>
+		</array>
+		<array>
+			<string>854</string>
+			<string>BENEFITS</string>
+		</array>
+		<array>
+			<string>855</string>
+			<string>ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>861</string>
+			<string> GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>862</string>
+			<string> MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>863</string>
+			<string> CREDITABLE SERVICE</string>
+		</array>
+		<array>
+			<string>864</string>
+			<string> BENEFITS</string>
+		</array>
+		<array>
+			<string>865</string>
+			<string> ADMINISTRATION</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. PUBLIC SECURITIES</string>
+		<array>
+			<string>1201</string>
+			<string>PUBLIC SECURITY PROCEDURES ACT</string>
+		</array>
+		<array>
+			<string>1202</string>
+			<string>EXAMINATION AND REGISTRATION OF PUBLIC SECURITIES</string>
+		</array>
+		<array>
+			<string>1203</string>
+			<string>REGISTRAR FOR PUBLIC SECURITY</string>
+		</array>
+		<array>
+			<string>1204</string>
+			<string>INTEREST RATE</string>
+		</array>
+		<array>
+			<string>1205</string>
+			<string>PUBLIC SECURITY DECLARATORY JUDGMENT ACTIONS</string>
+		</array>
+		<array>
+			<string>1206</string>
+			<string>REPLACEMENT FOR DAMAGED, DESTROYED, LOST, OR STOLEN PUBLIC SECURITIES</string>
+		</array>
+		<array>
+			<string>1207</string>
+			<string>REFUNDING BONDS</string>
+		</array>
+		<array>
+			<string>1208</string>
+			<string>SECURITY FOR PUBLIC SECURITIES</string>
+		</array>
+		<array>
+			<string>1231</string>
+			<string>BOND REVIEW BOARD</string>
+		</array>
+		<array>
+			<string>1232</string>
+			<string>TEXAS PUBLIC FINANCE AUTHORITY</string>
+		</array>
+		<array>
+			<string>1233</string>
+			<string>COLLEGE OPPORTUNITY ACT</string>
+		</array>
+		<array>
+			<string>1251</string>
+			<string>BOND ELECTIONS</string>
+		</array>
+		<array>
+			<string>1252</string>
+			<string>REVOCATION OF AUTHORITY TO ISSUE BONDS</string>
+		</array>
+		<array>
+			<string>1301</string>
+			<string>COUNTY BONDS</string>
+		</array>
+		<array>
+			<string>1302</string>
+			<string>DESTRUCTION OF COUNTY SECURITY</string>
+		</array>
+		<array>
+			<string>1303</string>
+			<string>OTHER USE OF COUNTY BOND PROCEEDS</string>
+		</array>
+		<array>
+			<string>1331</string>
+			<string>MUNICIPAL BONDS</string>
+		</array>
+		<array>
+			<string>1332</string>
+			<string>USE OF MUNICIPAL BOND PROCEEDS FOR OTHER PURPOSES</string>
+		</array>
+		<array>
+			<string>1333</string>
+			<string>REVOCATION OF UNSOLD MUNICIPAL BONDS BY PETITION</string>
+		</array>
+		<array>
+			<string>1371</string>
+			<string>OBLIGATIONS FOR CERTAIN PUBLIC IMPROVEMENTS</string>
+		</array>
+		<array>
+			<string>1372</string>
+			<string> PRIVATE ACTIVITY BONDS AND CERTAIN OTHER BONDS</string>
+		</array>
+		<array>
+			<string>1401</string>
+			<string>BONDS FOR CERTAIN CRIMINAL JUSTICE OR MENTAL HEALTH AND MENTAL RETARDATION FACILITIES</string>
+		</array>
+		<array>
+			<string>1403</string>
+			<string>GENERAL OBLIGATION BONDS FOR CERTAIN BORDER COLONIA PROJECTS</string>
+		</array>
+		<array>
+			<string>1431</string>
+			<string>ANTICIPATION NOTES</string>
+		</array>
+		<array>
+			<string>1432</string>
+			<string>BONDS FOR LOCAL GOVERNMENT SPORTS CENTERS</string>
+		</array>
+		<array>
+			<string>1433</string>
+			<string>BONDS FOR DEVELOPMENT OF EMPLOYMENT, INDUSTRIAL, AND HEALTH RESOURCES</string>
+		</array>
+		<array>
+			<string>1434</string>
+			<string>COUNTY AND MUNICIPAL HIGHER EDUCATION IMPROVEMENT BONDS</string>
+		</array>
+		<array>
+			<string>1435</string>
+			<string>BONDS FOR PARKS AND FAIRGROUND FACILITIES IN CERTAIN MUNICIPALITIES AND COUNTIES</string>
+		</array>
+		<array>
+			<string>1471</string>
+			<string>BONDS FOR COUNTY ROADS</string>
+		</array>
+		<array>
+			<string>1472</string>
+			<string>REFUNDING OF COUNTY BONDS FOR CAUSEWAYS</string>
+		</array>
+		<array>
+			<string>1473</string>
+			<string>OBLIGATIONS FOR COUNTY BUILDINGS</string>
+		</array>
+		<array>
+			<string>1474</string>
+			<string>BONDS FOR COUNTY WATER IMPROVEMENTS</string>
+		</array>
+		<array>
+			<string>1475</string>
+			<string>COUNTY BONDS AND WARRANTS FOR NAVIGATION PURPOSES</string>
+		</array>
+		<array>
+			<string>1476</string>
+			<string>CERTIFICATES OF INDEBTEDNESS IN COUNTIES WITH POPULATION OF MORE THAN TWO MILLION</string>
+		</array>
+		<array>
+			<string>1477</string>
+			<string>OBLIGATIONS FOR OTHER COUNTY PURPOSES</string>
+		</array>
+		<array>
+			<string>1478</string>
+			<string>ADDITIONAL AUTHORITY FOR CERTAIN COASTAL COUNTIES TO ISSUE ROAD BONDS</string>
+		</array>
+		<array>
+			<string>1479</string>
+			<string> COUNTY BONDS FOR FACILITIES ONSTATE HIGHWAY SYSTEM</string>
+		</array>
+		<array>
+			<string>1501</string>
+			<string>OBLIGATIONS FOR MUNICIPAL UTILITIES</string>
+		</array>
+		<array>
+			<string>1502</string>
+			<string>PUBLIC SECURITIES FOR MUNICIPAL UTILITIES, PARKS, OR POOLS</string>
+		</array>
+		<array>
+			<string>1503</string>
+			<string>OBLIGATIONS FOR MUNICIPAL AIRPORTS</string>
+		</array>
+		<array>
+			<string>1504</string>
+			<string>OBLIGATIONS FOR MUNICIPAL BUILDINGS</string>
+		</array>
+		<array>
+			<string>1505</string>
+			<string>OBLIGATIONS FOR COASTAL MUNICIPALITIES FOR COASTAL MATTERS</string>
+		</array>
+		<array>
+			<string>1506</string>
+			<string>BONDS FOR MUNICIPAL PARKING AND TRANSPORTATION FACILITIES</string>
+		</array>
+		<array>
+			<string>1507</string>
+			<string>OBLIGATIONS RELATING TO MUNICIPAL DEBT AND EXPENSES</string>
+		</array>
+		<array>
+			<string>1508</string>
+			<string>OBLIGATIONS FOR MUNICIPAL PARKS, RECREATIONAL FACILITIES, AND AIRPORTS</string>
+		</array>
+		<array>
+			<string>1509</string>
+			<string>OBLIGATIONS FOR OTHER MUNICIPAL PURPOSES</string>
+		</array>
+		<array>
+			<string>1510</string>
+			<string> BONDS FOR HIGHWAY PROJECTS OR FACILITIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10. GENERAL GOVERNMENT</string>
+		<array>
+			<string>2001</string>
+			<string>ADMINISTRATIVE PROCEDURE</string>
+		</array>
+		<array>
+			<string>2002</string>
+			<string>TEXAS REGISTER AND ADMINISTRATIVE CODE</string>
+		</array>
+		<array>
+			<string>2003</string>
+			<string>STATE OFFICE OF ADMINISTRATIVE HEARINGS</string>
+		</array>
+		<array>
+			<string>2004</string>
+			<string>REPRESENTATION BEFORE STATE AGENCIES</string>
+		</array>
+		<array>
+			<string>2005</string>
+			<string>MISCELLANEOUS PROVISIONS RELATING TO STATE LICENSES AND PERMITS</string>
+		</array>
+		<array>
+			<string>2006</string>
+			<string>AGENCY ACTIONS AFFECTING SMALL BUSINESSES</string>
+		</array>
+		<array>
+			<string>2007</string>
+			<string>GOVERNMENTAL ACTION AFFECTING PRIVATE PROPERTY RIGHTS</string>
+		</array>
+		<array>
+			<string>2008</string>
+			<string>NEGOTIATED RULEMAKING</string>
+		</array>
+		<array>
+			<string>2009</string>
+			<string>ALTERNATIVE DISPUTE RESOLUTION FOR USE BY GOVERNMENTAL BODIES</string>
+		</array>
+		<array>
+			<string>2051</string>
+			<string>GOVERNMENT DOCUMENTS, PUBLICATIONS, AND NOTICES</string>
+		</array>
+		<array>
+			<string>2052</string>
+			<string>STATE AGENCY REPORTS AND PUBLICATIONS</string>
+		</array>
+		<array>
+			<string>2053</string>
+			<string>REPORT BY GOVERNOR ON ORGANIZATION AND EFFICIENCY OF STATE AGENCIES</string>
+		</array>
+		<array>
+			<string>2054</string>
+			<string>INFORMATION RESOURCES</string>
+		</array>
+		<array>
+			<string>2055</string>
+			<string> ELECTRONIC GRANT SYSTEM</string>
+		</array>
+		<array>
+			<string>2056</string>
+			<string>STRATEGIC PLANS OF OPERATION</string>
+		</array>
+		<array>
+			<string>2058</string>
+			<string>RECOGNITION OF FEDERAL CENSUS</string>
+		</array>
+		<array>
+			<string>2059</string>
+			<string> TEXAS COMPUTER NETWORK SECURITY SYSTEM</string>
+		</array>
+		<array>
+			<string>2101</string>
+			<string>ACCOUNTING PROCEDURES</string>
+		</array>
+		<array>
+			<string>2102</string>
+			<string>INTERNAL AUDITING</string>
+		</array>
+		<array>
+			<string>2103</string>
+			<string>EXPENDITURES BY STATE AGENCIES</string>
+		</array>
+		<array>
+			<string>2104</string>
+			<string>CONSERVATORSHIP AS A RESULT OF FISCAL MISMANAGEMENT</string>
+		</array>
+		<array>
+			<string>2105</string>
+			<string>ADMINISTRATION OF BLOCK GRANTS</string>
+		</array>
+		<array>
+			<string>2106</string>
+			<string>INDIRECT COST RECOVERY PROGRAM</string>
+		</array>
+		<array>
+			<string>2107</string>
+			<string>COLLECTION OF DELINQUENT OBLIGATIONS TO STATE</string>
+		</array>
+		<array>
+			<string>2108</string>
+			<string> SAVINGS INCENTIVE PROGRAM FOR STATE AGENCY</string>
+		</array>
+		<array>
+			<string>2109</string>
+			<string>VOLUNTEERS</string>
+		</array>
+		<array>
+			<string>2110</string>
+			<string>STATE AGENCY ADVISORY COMMITTEES</string>
+		</array>
+		<array>
+			<string>2111</string>
+			<string>STATE AGENCY REPORTING OF TECHNOLOGICAL INNOVATIONS</string>
+		</array>
+		<array>
+			<string>2112</string>
+			<string>UTILITY BILLING AUDITS BY STATE AGENCIES AND INSTITUTIONS OF HIGHER EDUCATION</string>
+		</array>
+		<array>
+			<string>2113</string>
+			<string>USE OF APPROPRIATED MONEY</string>
+		</array>
+		<array>
+			<string>2114</string>
+			<string>CUSTOMER SERVICE</string>
+		</array>
+		<array>
+			<string>2115</string>
+			<string> RECOVERY OF CERTAIN STATE AGENCY OVERPAYMENTS</string>
+		</array>
+		<array>
+			<string>2151</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2152</string>
+			<string> TEXAS FACILITIES COMMISSION</string>
+		</array>
+		<array>
+			<string>2155</string>
+			<string>PURCHASING:  GENERAL RULES AND PROCEDURES</string>
+		</array>
+		<array>
+			<string>2156</string>
+			<string>PURCHASING METHODS</string>
+		</array>
+		<array>
+			<string>2157</string>
+			<string>PURCHASING:  PURCHASE OF AUTOMATED INFORMATION SYSTEMS</string>
+		</array>
+		<array>
+			<string>2158</string>
+			<string>PURCHASING:  MISCELLANEOUS PROVISIONS FOR PURCHASE OF CERTAIN GOODS AND SERVICES</string>
+		</array>
+		<array>
+			<string>2161</string>
+			<string>HISTORICALLY UNDERUTILIZED BUSINESSES</string>
+		</array>
+		<array>
+			<string>2162</string>
+			<string>STATE COUNCIL ON COMPETITIVE GOVERNMENT</string>
+		</array>
+		<array>
+			<string>2163</string>
+			<string>COMMERCIALLY AVAILABLE ACTIVITIES</string>
+		</array>
+		<array>
+			<string>2165</string>
+			<string>STATE BUILDINGS, GROUNDS, AND PROPERTY</string>
+		</array>
+		<array>
+			<string>2166</string>
+			<string> BUILDING CONSTRUCTION AND ACQUISITION AND DISPOSITION OF REAL PROPERTY</string>
+		</array>
+		<array>
+			<string>2167</string>
+			<string>LEASE OF SPACE FOR STATE AGENCIES</string>
+		</array>
+		<array>
+			<string>2170</string>
+			<string>TELECOMMUNICATIONS SERVICES</string>
+		</array>
+		<array>
+			<string>2171</string>
+			<string>TRAVEL AND VEHICLE FLEET SERVICES</string>
+		</array>
+		<array>
+			<string>2172</string>
+			<string>MISCELLANEOUS GENERAL SERVICES PROVIDED BY COMMISSION</string>
+		</array>
+		<array>
+			<string>2175</string>
+			<string>SURPLUS AND SALVAGE PROPERTY</string>
+		</array>
+		<array>
+			<string>2176</string>
+			<string>MAIL</string>
+		</array>
+		<array>
+			<string>2201</string>
+			<string>TEXAS CAPITAL TRUST FUND</string>
+		</array>
+		<array>
+			<string>2203</string>
+			<string>USE OF STATE PROPERTY</string>
+		</array>
+		<array>
+			<string>2204</string>
+			<string>ACQUISITION OF LAND FOR STATE AND FEDERAL PURPOSES</string>
+		</array>
+		<array>
+			<string>2205</string>
+			<string>AIRCRAFT POOLING</string>
+		</array>
+		<array>
+			<string>2206</string>
+			<string> EMINENT DOMAIN</string>
+		</array>
+		<array>
+			<string>2251</string>
+			<string>PAYMENT FOR GOODS AND SERVICES</string>
+		</array>
+		<array>
+			<string>2252</string>
+			<string>CONTRACTS WITH GOVERNMENTAL ENTITY</string>
+		</array>
+		<array>
+			<string>2253</string>
+			<string>PUBLIC WORK PERFORMANCE AND PAYMENT BONDS</string>
+		</array>
+		<array>
+			<string>2254</string>
+			<string>PROFESSIONAL AND CONSULTING SERVICES</string>
+		</array>
+		<array>
+			<string>2255</string>
+			<string>PRIVATE DONORS OR ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>2256</string>
+			<string>PUBLIC FUNDS INVESTMENT</string>
+		</array>
+		<array>
+			<string>2257</string>
+			<string>COLLATERAL FOR PUBLIC FUNDS</string>
+		</array>
+		<array>
+			<string>2258</string>
+			<string>PREVAILING WAGE RATES</string>
+		</array>
+		<array>
+			<string>2259</string>
+			<string>SELF-INSURANCE BY GOVERNMENTAL UNITS</string>
+		</array>
+		<array>
+			<string>2260</string>
+			<string>RESOLUTION OF CERTAIN CONTRACT CLAIMS AGAINST THE STATE</string>
+		</array>
+		<array>
+			<string>2261</string>
+			<string>STATE CONTRACTING STANDARDS AND OVERSIGHT</string>
+		</array>
+		<array>
+			<string>2262</string>
+			<string>STATEWIDE CONTRACT MANAGEMENT</string>
+		</array>
+		<array>
+			<string>2263</string>
+			<string>ETHICS AND DISCLOSURE REQUIREMENTS FOR OUTSIDE FINANCIAL ADVISORS AND SERVICE PROVIDERS</string>
+		</array>
+		<array>
+			<string>2264</string>
+			<string> RESTRICTIONS ON USE OF CERTAIN PUBLICSUBSIDIES</string>
+		</array>
+		<array>
+			<string>2265</string>
+			<string>REQUIRED PUBLICATION AND REPORTING BY GOVERNMENTAL ENTITIES</string>
+		</array>
+		<array>
+			<string>2266</string>
+			<string> FINANCIAL ACCOUNTING AND REPORTING</string>
+		</array>
+		<array>
+			<string>2267</string>
+			<string> PUBLIC AND PRIVATE FACILITIES AND INFRASTRUCTURE</string>
+		</array>
+		<array>
+			<string>2268</string>
+			<string> PARTNERSHIP ADVISORY COMMISSION</string>
+		</array>
+		<array>
+			<string>2269</string>
+			<string> CONTRACTING AND DELIVERY PROCEDURES FOR CONSTRUCTION PROJECTS</string>
+		</array>
+		<array>
+			<string>2302</string>
+			<string>COGENERATION</string>
+		</array>
+		<array>
+			<string>2303</string>
+			<string>ENTERPRISE ZONES</string>
+		</array>
+		<array>
+			<string>2304</string>
+			<string>HOUSING REHABILITATION</string>
+		</array>
+		<array>
+			<string>2305</string>
+			<string>RESTITUTION FOR OIL OVERCHARGES</string>
+		</array>
+		<array>
+			<string>2306</string>
+			<string>TEXAS DEPARTMENT OF HOUSING AND COMMUNITY AFFAIRS</string>
+		</array>
+		<array>
+			<string>2308</string>
+			<string>WORKFORCE INVESTMENT ACT</string>
+		</array>
+		<array>
+			<string>2309</string>
+			<string>NATIONAL DEFENSE IMPACTED REGION ASSISTANCE</string>
+		</array>
+		<array>
+			<string>2310</string>
+			<string>DEFENSE ECONOMIC READJUSTMENT ZONE</string>
+		</array>
+		<array>
+			<string>2311</string>
+			<string> ENERGY SECURITY TECHNOLOGIES FOR CRITICAL GOVERNMENTAL FACILITIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11. STATE SYMBOLS AND HONORS;  PRESERVATION</string>
+		<array>
+			<string>3100</string>
+			<string>STATE FLAG</string>
+		</array>
+		<array>
+			<string>3101</string>
+			<string>STATE SYMBOLS</string>
+		</array>
+		<array>
+			<string>3102</string>
+			<string>TEXAS DISTINGUISHED SERVICE MEDAL</string>
+		</array>
+		<array>
+			<string>3103</string>
+			<string>STATE OF TEXAS ANNIVERSARY REMEMBRANCE DAY MEDAL</string>
+		</array>
+		<array>
+			<string>3104</string>
+			<string> POET LAUREATE, STATE MUSICIAN, STATE HISTORIAN, AND STATE ARTISTS</string>
+		</array>
+		<array>
+			<string>3105</string>
+			<string> TEXAS PEACE OFFICERS' MEMORIAL MONUMENT</string>
+		</array>
+		<array>
+			<string>3106</string>
+			<string>STAR OF TEXAS AWARDS</string>
+		</array>
+		<array>
+			<string>3151</string>
+			<string>PRESERVATION OF VIEW OF STATE CAPITOL</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,1210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. HEALTH</string>
+		<array>
+			<string>11</string>
+			<string>ORGANIZATION OF TEXAS DEPARTMENT OF HEALTH</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>POWERS AND DUTIES OF TEXAS DEPARTMENT OF HEALTH</string>
+		</array>
+		<array>
+			<string>13</string>
+			<string>HEALTH DEPARTMENT HOSPITALS AND RESPIRATORY FACILITIES</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string>PRIMARY HEALTH CARE</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>MATERNAL AND INFANT HEALTH IMPROVEMENT</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>PHENYLKETONURIA, OTHER HERITABLE DISEASES, HYPOTHYROIDISM, AND CERTAIN OTHER DISORDERS</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string> MATERNAL MORTALITY AND MORBIDITY TASK FORCE</string>
+		</array>
+		<array>
+			<string>35</string>
+			<string>CHILDREN WITH SPECIAL HEALTH CARE NEEDS</string>
+		</array>
+		<array>
+			<string>36</string>
+			<string>SPECIAL SENSES AND COMMUNICATION DISORDERS</string>
+		</array>
+		<array>
+			<string>37</string>
+			<string>ABNORMAL SPINAL CURVATURE IN CHILDREN</string>
+		</array>
+		<array>
+			<string>39</string>
+			<string>CHILDREN'S OUTREACH HEART PROGRAM</string>
+		</array>
+		<array>
+			<string>40</string>
+			<string>EPILEPSY</string>
+		</array>
+		<array>
+			<string>41</string>
+			<string>HEMOPHILIA</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>KIDNEY HEALTH CARE</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>ORAL HEALTH IMPROVEMENT</string>
+		</array>
+		<array>
+			<string>45</string>
+			<string>DISTRIBUTION OF CHILD PASSENGER SAFETY SEAT SYSTEMS</string>
+		</array>
+		<array>
+			<string>47</string>
+			<string>HEARING LOSS IN NEWBORNS</string>
+		</array>
+		<array>
+			<string>48</string>
+			<string>PROMOTORAS AND COMMUNITY HEALTH WORKERS</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>INDIGENT HEALTH CARE AND TREATMENT ACT</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>CHILD HEALTH PLAN FOR CERTAIN LOW-INCOME CHILDREN</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>HEALTH BENEFITS PLAN FOR CERTAIN CHILDREN</string>
+		</array>
+		<array>
+			<string>64</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>75</string>
+			<string> REGIONAL OR LOCAL HEALTH CARE PROGRAMS FOR EMPLOYEES OF SMALL EMPLOYERS</string>
+		</array>
+		<array>
+			<string>81</string>
+			<string>COMMUNICABLE DISEASES</string>
+		</array>
+		<array>
+			<string>82</string>
+			<string>CANCER REGISTRY</string>
+		</array>
+		<array>
+			<string>84</string>
+			<string>REPORTING OF OCCUPATIONAL CONDITIONS</string>
+		</array>
+		<array>
+			<string>85</string>
+			<string>ACQUIRED IMMUNE DEFICIENCY SYNDROME AND HUMAN IMMUNODEFICIENCY VIRUS INFECTION</string>
+		</array>
+		<array>
+			<string>86</string>
+			<string>BREAST CANCER AND LUNG CANCER</string>
+		</array>
+		<array>
+			<string>87</string>
+			<string>BIRTH DEFECTS</string>
+		</array>
+		<array>
+			<string>88</string>
+			<string>REPORTS OF CHILDHOOD LEAD POISONING</string>
+		</array>
+		<array>
+			<string>89</string>
+			<string>SCREENING AND TREATMENT FOR TUBERCULOSIS IN JAILS AND OTHER CORRECTIONAL FACILITIES</string>
+		</array>
+		<array>
+			<string>92</string>
+			<string>INJURY PREVENTION AND CONTROL</string>
+		</array>
+		<array>
+			<string>93</string>
+			<string>PREVENTION OF CARDIOVASCULAR DISEASE AND STROKE</string>
+		</array>
+		<array>
+			<string>94</string>
+			<string>STATE PLAN FOR HEPATITIS C;  EDUCATION AND PREVENTION PROGRAM</string>
+		</array>
+		<array>
+			<string>95</string>
+			<string> DIABETES</string>
+		</array>
+		<array>
+			<string>95a</string>
+			<string> REPORTS ON PREVENTION AND TREATMENT OF DIABETES</string>
+		</array>
+		<array>
+			<string>96</string>
+			<string> RESPIRATORY SYNCYTIAL VIRUS</string>
+		</array>
+		<array>
+			<string>97</string>
+			<string> ARTHRITIS CONTROL AND PREVENTION</string>
+		</array>
+		<array>
+			<string>98</string>
+			<string> REPORTING OF HEALTH CARE-ASSOCIATED INFECTIONS AND PREVENTABLE ADVERSE EVENTS</string>
+		</array>
+		<array>
+			<string>101</string>
+			<string>TEXAS COUNCIL ON ALZHEIMER'S DISEASE AND RELATED DISORDERS</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string> CANCER PREVENTION AND RESEARCH INSTITUTE OF TEXAS</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>TEXAS DIABETES COUNCIL</string>
+		</array>
+		<array>
+			<string>103a</string>
+			<string> TEXAS BLEEDING DISORDERS ADVISORY COUNCIL</string>
+		</array>
+		<array>
+			<string>104</string>
+			<string>STATEWIDE HEALTH COORDINATING COUNCIL AND STATE HEALTH PLAN</string>
+		</array>
+		<array>
+			<string>105</string>
+			<string>HEALTH PROFESSIONS RESOURCE CENTER</string>
+		</array>
+		<array>
+			<string>107a</string>
+			<string> CENTER FOR ELIMINATION OF DISPROPORTIONALITY AND DISPARITIES</string>
+		</array>
+		<array>
+			<string>108</string>
+			<string>TEXAS HEALTH CARE INFORMATION COUNCIL</string>
+		</array>
+		<array>
+			<string>112</string>
+			<string>BORDER HEALTH FOUNDATION</string>
+		</array>
+		<array>
+			<string>114</string>
+			<string> INTERAGENCY OBESITY COUNCIL</string>
+		</array>
+		<array>
+			<string>115</string>
+			<string> TASK FORCE FOR CHILDREN WITH SPECIAL NEEDS</string>
+		</array>
+		<array>
+			<string>116</string>
+			<string> EARLY CHILDHOOD HEALTH AND NUTRITION INTERAGENCY COUNCIL</string>
+		</array>
+		<array>
+			<string>117</string>
+			<string> PUBLIC HEALTH FUNDING AND POLICY COMMITTEE</string>
+		</array>
+		<array>
+			<string>121</string>
+			<string>LOCAL PUBLIC HEALTH REORGANIZATION ACT</string>
+		</array>
+		<array>
+			<string>122</string>
+			<string>POWERS AND DUTIES OF COUNTIES AND MUNICIPALITIES RELATING TO PUBLIC HEALTH</string>
+		</array>
+		<array>
+			<string>141</string>
+			<string>YOUTH CAMPS</string>
+		</array>
+		<array>
+			<string>142</string>
+			<string>HOME AND COMMUNITY SUPPORT SERVICES</string>
+		</array>
+		<array>
+			<string>143</string>
+			<string>INDUSTRIAL HOMEWORK</string>
+		</array>
+		<array>
+			<string>144</string>
+			<string>RENDERERS</string>
+		</array>
+		<array>
+			<string>145</string>
+			<string>TANNING FACILITIES</string>
+		</array>
+		<array>
+			<string>146</string>
+			<string>TATTOO AND CERTAIN BODY PIERCING STUDIOS</string>
+		</array>
+		<array>
+			<string>161</string>
+			<string>PUBLIC HEALTH PROVISIONS</string>
+		</array>
+		<array>
+			<string>162</string>
+			<string>BLOOD BANKS AND DONATION OF BLOOD</string>
+		</array>
+		<array>
+			<string>163</string>
+			<string>EDUCATION PROGRAM ABOUT SEXUAL CONDUCT AND SUBSTANCE ABUSE</string>
+		</array>
+		<array>
+			<string>164</string>
+			<string>TREATMENT FACILITIES MARKETING AND ADMISSION PRACTICES</string>
+		</array>
+		<array>
+			<string>165</string>
+			<string>BREAST-FEEDING</string>
+		</array>
+		<array>
+			<string>166</string>
+			<string>ADVANCE DIRECTIVES</string>
+		</array>
+		<array>
+			<string>167</string>
+			<string>FEMALE GENITAL MUTILATION</string>
+		</array>
+		<array>
+			<string>168</string>
+			<string> CARE OF STUDENTS WITH DIABETES</string>
+		</array>
+		<array>
+			<string>169</string>
+			<string>FIRST OFFENDER PROSTITUTION PREVENTION PROGRAM</string>
+		</array>
+		<array>
+			<string>169a</string>
+			<string> PROSTITUTION PREVENTION PROGRAM</string>
+		</array>
+		<array>
+			<string>170</string>
+			<string>PROHIBITED ACTS REGARDING ABORTION</string>
+		</array>
+		<array>
+			<string>171</string>
+			<string>ABORTION</string>
+		</array>
+		<array>
+			<string>181</string>
+			<string>MEDICAL RECORDS PRIVACY</string>
+		</array>
+		<array>
+			<string>182</string>
+			<string> TEXAS HEALTH SERVICES AUTHORITY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. VITAL STATISTICS</string>
+		<array>
+			<string>191</string>
+			<string>ADMINISTRATION OF VITAL STATISTICS RECORDS</string>
+		</array>
+		<array>
+			<string>192</string>
+			<string>BIRTH RECORDS</string>
+		</array>
+		<array>
+			<string>193</string>
+			<string>DEATH RECORDS</string>
+		</array>
+		<array>
+			<string>194</string>
+			<string>MARRIAGE AND DIVORCE RECORDS</string>
+		</array>
+		<array>
+			<string>195</string>
+			<string>ENFORCEMENT OF VITAL STATISTICS REPORTING</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. HEALTH FACILITIES</string>
+		<array>
+			<string>221</string>
+			<string>HEALTH FACILITIES DEVELOPMENT ACT</string>
+		</array>
+		<array>
+			<string>222</string>
+			<string>HEALTH CARE FACILITY SURVEY, CONSTRUCTION, INSPECTION, AND REGULATION</string>
+		</array>
+		<array>
+			<string>223</string>
+			<string>HOSPITAL PROJECT FINANCING ACT</string>
+		</array>
+		<array>
+			<string>224</string>
+			<string> POLICY ON VACCINE PREVENTABLE DISEASES</string>
+		</array>
+		<array>
+			<string>225</string>
+			<string>HEALTH PLANNING AND CAPITAL EXPENDITURE REVIEW</string>
+		</array>
+		<array>
+			<string>241</string>
+			<string>HOSPITALS</string>
+		</array>
+		<array>
+			<string>242</string>
+			<string>CONVALESCENT AND NURSING HOMES AND RELATED INSTITUTIONS</string>
+		</array>
+		<array>
+			<string>243</string>
+			<string>AMBULATORY SURGICAL CENTERS</string>
+		</array>
+		<array>
+			<string>244</string>
+			<string>BIRTHING CENTERS</string>
+		</array>
+		<array>
+			<string>245</string>
+			<string>ABORTION FACILITIES</string>
+		</array>
+		<array>
+			<string>246</string>
+			<string>CONTINUING CARE FACILITIES</string>
+		</array>
+		<array>
+			<string>247</string>
+			<string>ASSISTED LIVING FACILITIES</string>
+		</array>
+		<array>
+			<string>248</string>
+			<string>SPECIAL CARE FACILITIES</string>
+		</array>
+		<array>
+			<string>248a</string>
+			<string> PRESCRIBED PEDIATRIC EXTENDED CARE CENTERS</string>
+		</array>
+		<array>
+			<string>250</string>
+			<string>NURSE AIDE REGISTRY AND CRIMINAL HISTORY CHECKS OF EMPLOYEES AND APPLICANTS FOR EMPLOYMENT IN CERTAIN FACILITIES SERVING THE ELDERLY, PERSONS WITH DISABILITIES, OR PERSONS WITH TERMINAL ILLNESSES</string>
+		</array>
+		<array>
+			<string>251</string>
+			<string>END STAGE RENAL DISEASE FACILITIES</string>
+		</array>
+		<array>
+			<string>252</string>
+			<string>INTERMEDIATE CARE FACILITIES FOR THE MENTALLY RETARDED</string>
+		</array>
+		<array>
+			<string>253</string>
+			<string>EMPLOYEE MISCONDUCT REGISTRY</string>
+		</array>
+		<array>
+			<string>254</string>
+			<string> FREESTANDING EMERGENCY MEDICAL CARE FACILITIES</string>
+		</array>
+		<array>
+			<string>255</string>
+			<string>QUALITY ASSURANCE EARLY WARNING SYSTEM FOR LONG-TERM CARE FACILITIES;  RAPID RESPONSE TEAMS</string>
+		</array>
+		<array>
+			<string>256</string>
+			<string> SAFE PATIENT HANDLING AND MOVEMENT PRACTICES</string>
+		</array>
+		<array>
+			<string>257</string>
+			<string> NURSE STAFFING</string>
+		</array>
+		<array>
+			<string>258</string>
+			<string> MANDATORY OVERTIME FOR NURSES PROHIBITED</string>
+		</array>
+		<array>
+			<string>259</string>
+			<string> SURGICAL TECHNOLOGISTSAT HEALTH CARE FACILITIES</string>
+		</array>
+		<array>
+			<string>260</string>
+			<string>BOARDING HOME FACILITIES</string>
+		</array>
+		<array>
+			<string>260a</string>
+			<string> REPORTS OF ABUSE, NEGLECT, AND EXPLOITATION OF RESIDENTS OF CERTAIN FACILITIES</string>
+		</array>
+		<array>
+			<string>261</string>
+			<string>MUNICIPAL HOSPITALS</string>
+		</array>
+		<array>
+			<string>262</string>
+			<string>MUNICIPAL HOSPITAL AUTHORITIES</string>
+		</array>
+		<array>
+			<string>263</string>
+			<string>COUNTY HOSPITALS AND OTHER HEALTH FACILITIES</string>
+		</array>
+		<array>
+			<string>264</string>
+			<string>COUNTY HOSPITAL AUTHORITIES</string>
+		</array>
+		<array>
+			<string>265</string>
+			<string>JOINT MUNICIPAL AND COUNTY HOSPITALS</string>
+		</array>
+		<array>
+			<string>281</string>
+			<string>HOSPITAL DISTRICTS IN COUNTIES OF AT LEAST 190,000</string>
+		</array>
+		<array>
+			<string>282</string>
+			<string>HOSPITAL DISTRICTS IN COUNTIES OF 75,000 OR LESS</string>
+		</array>
+		<array>
+			<string>283</string>
+			<string>OPTIONAL HOSPITAL DISTRICT LAW OF 1957</string>
+		</array>
+		<array>
+			<string>284</string>
+			<string>SPECIAL PROVISIONS RELATING TO HOSPITAL DISTRICT BONDS</string>
+		</array>
+		<array>
+			<string>285</string>
+			<string>SPECIAL PROVISIONS RELATING TO HOSPITAL DISTRICTS</string>
+		</array>
+		<array>
+			<string>286</string>
+			<string>HOSPITAL DISTRICTS CREATED BY VOTER APPROVAL</string>
+		</array>
+		<array>
+			<string>287</string>
+			<string>HEALTH SERVICES DISTRICTS</string>
+		</array>
+		<array>
+			<string>288</string>
+			<string> HEALTH CARE FUNDING DISTRICTS IN CERTAIN COUNTIES LOCATED ON TEXAS-MEXICO BORDER</string>
+		</array>
+		<array>
+			<string>289</string>
+			<string>COUNTY HEALTH CARE FUNDING DISTRICTSIN CERTAIN COUNTIES LOCATED ON TEXAS-MEXICO BORDER THATHAVE POPULATION OF LESS THAN 300,000</string>
+		</array>
+		<array>
+			<string>290</string>
+			<string>COUNTY HEALTH CARE FUNDING DISTRICTSIN CERTAIN COUNTIES WITH POPULATION OF1.8 MILLION OR LESS</string>
+		</array>
+		<array>
+			<string>301</string>
+			<string>COOPERATIVE ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>311</string>
+			<string>POWERS AND DUTIES OF HOSPITALS</string>
+		</array>
+		<array>
+			<string>312</string>
+			<string>MEDICAL AND DENTAL CLINICAL EDUCATION IN PUBLIC HOSPITALS</string>
+		</array>
+		<array>
+			<string>313</string>
+			<string>CONSENT TO MEDICAL TREATMENT ACT</string>
+		</array>
+		<array>
+			<string>314</string>
+			<string>COOPERATIVE AGREEMENTS AMONG HOSPITALS</string>
+		</array>
+		<array>
+			<string>315</string>
+			<string> AUTHORITY TO BORROW MONEY FOR PUBLIC HOSPITALS</string>
+		</array>
+		<array>
+			<string>316</string>
+			<string> ESTABLISHMENT OF HEALTH CARE COLLABORATIVES</string>
+		</array>
+		<array>
+			<string>321</string>
+			<string>PROVISION OF MENTAL HEALTH, CHEMICAL DEPENDENCY, AND REHABILITATION SERVICES</string>
+		</array>
+		<array>
+			<string>322</string>
+			<string> USE OF RESTRAINT AND SECLUSION IN CERTAINHEALTH CARE FACILITIES</string>
+		</array>
+		<array>
+			<string>323</string>
+			<string>EMERGENCY SERVICES FOR SURVIVORSOF SEXUAL ASSAULT</string>
+		</array>
+		<array>
+			<string>324</string>
+			<string> CONSUMER ACCESS TO HEALTH CARE INFORMATION</string>
+		</array>
+		<array>
+			<string>325</string>
+			<string> NOTICE OF SEX OFFENDER STATUS TO RESIDENTS OF GROUP HOME</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. SANITATION AND ENVIRONMENTAL QUALITY</string>
+		<array>
+			<string>341</string>
+			<string>MINIMUM STANDARDS OF SANITATION AND HEALTH PROTECTION MEASURES</string>
+		</array>
+		<array>
+			<string>342</string>
+			<string>LOCAL REGULATION OF SANITATION</string>
+		</array>
+		<array>
+			<string>343</string>
+			<string>ABATEMENT OF PUBLIC NUISANCES</string>
+		</array>
+		<array>
+			<string>344</string>
+			<string>MOSQUITO CONTROL DISTRICTS</string>
+		</array>
+		<array>
+			<string>345</string>
+			<string>BEDDING</string>
+		</array>
+		<array>
+			<string>361</string>
+			<string>SOLID WASTE DISPOSAL ACT</string>
+		</array>
+		<array>
+			<string>362</string>
+			<string>SOLID WASTE RESOURCE RECOVERY FINANCING ACT</string>
+		</array>
+		<array>
+			<string>363</string>
+			<string>MUNICIPAL SOLID WASTE</string>
+		</array>
+		<array>
+			<string>364</string>
+			<string>COUNTY SOLID WASTE</string>
+		</array>
+		<array>
+			<string>365</string>
+			<string>LITTER</string>
+		</array>
+		<array>
+			<string>366</string>
+			<string>ON-SITE SEWAGE DISPOSAL SYSTEMS</string>
+		</array>
+		<array>
+			<string>367</string>
+			<string> ON-SITE WASTEWATER TREATMENT RESEARCH</string>
+		</array>
+		<array>
+			<string>368</string>
+			<string>COUNTY REGULATION OF TRANSPORTATION OF WASTE</string>
+		</array>
+		<array>
+			<string>369</string>
+			<string>PLASTIC CONTAINERS</string>
+		</array>
+		<array>
+			<string>370</string>
+			<string>TOXIC CHEMICAL RELEASE REPORTING</string>
+		</array>
+		<array>
+			<string>371</string>
+			<string>USED OIL COLLECTION, MANAGEMENT, AND RECYCLING</string>
+		</array>
+		<array>
+			<string>372</string>
+			<string>ENVIRONMENTAL PERFORMANCE STANDARDS FOR PLUMBING FIXTURES</string>
+		</array>
+		<array>
+			<string>373</string>
+			<string>WATER CONSERVATION</string>
+		</array>
+		<array>
+			<string>374</string>
+			<string>DRY CLEANER ENVIRONMENTAL RESPONSE</string>
+		</array>
+		<array>
+			<string>375</string>
+			<string> REMOVAL OF CONVENIENCE SWITCHES</string>
+		</array>
+		<array>
+			<string>382</string>
+			<string>CLEAN AIR ACT</string>
+		</array>
+		<array>
+			<string>383</string>
+			<string>CLEAN AIR FINANCING ACT</string>
+		</array>
+		<array>
+			<string>384</string>
+			<string>AREA EMISSION REDUCTION CREDIT ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>385</string>
+			<string>INDOOR AIR QUALITY IN GOVERNMENT BUILDINGS</string>
+		</array>
+		<array>
+			<string>386</string>
+			<string>TEXAS EMISSIONS REDUCTION PLAN</string>
+		</array>
+		<array>
+			<string>387</string>
+			<string> AIR QUALITY RESEARCH SUPPORT PROGRAM</string>
+		</array>
+		<array>
+			<string>388</string>
+			<string>TEXAS BUILDING ENERGY PERFORMANCE STANDARDS</string>
+		</array>
+		<array>
+			<string>389</string>
+			<string>EMISSIONS REDUCTION RECOGNITION EFFORTS</string>
+		</array>
+		<array>
+			<string>390</string>
+			<string> CLEAN SCHOOL BUS PROGRAM</string>
+		</array>
+		<array>
+			<string>391</string>
+			<string> NEW TECHNOLOGY IMPLEMENTATION FOR FACILITIES AND STATIONARY SOURCES</string>
+		</array>
+		<array>
+			<string>392</string>
+			<string> TEXAS CLEAN FLEET PROGRAM</string>
+		</array>
+		<array>
+			<string>393</string>
+			<string> ALTERNATIVE FUELING FACILITIES PROGRAM</string>
+		</array>
+		<array>
+			<string>394</string>
+			<string> TEXAS NATURAL GAS VEHICLE GRANT PROGRAM</string>
+		</array>
+		<array>
+			<string>401</string>
+			<string>RADIOACTIVE MATERIALS AND OTHER SOURCES OF RADIATION</string>
+		</array>
+		<array>
+			<string>403</string>
+			<string>TEXAS LOW-LEVEL RADIOACTIVE WASTE DISPOSAL COMPACT</string>
+		</array>
+		<array>
+			<string>425</string>
+			<string>REGULATION OF CERTAIN OUTDOOR LIGHTING</string>
+		</array>
+		<array>
+			<string>427</string>
+			<string>TEXAS ENVIRONMENTAL HEALTH INSTITUTE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. FOOD, DRUGS, ALCOHOL, AND HAZARDOUS SUBSTANCES</string>
+		<array>
+			<string>431</string>
+			<string>TEXAS FOOD, DRUG, AND COSMETIC ACT</string>
+		</array>
+		<array>
+			<string>432</string>
+			<string>FOOD, DRUG, DEVICE, AND COSMETIC SALVAGE ACT</string>
+		</array>
+		<array>
+			<string>433</string>
+			<string>TEXAS MEAT AND POULTRY INSPECTION ACT</string>
+		</array>
+		<array>
+			<string>434</string>
+			<string>PUBLIC HEALTH PROVISIONS RELATING TO PRODUCTION OF BAKED GOODS</string>
+		</array>
+		<array>
+			<string>435</string>
+			<string>DAIRY PRODUCTS</string>
+		</array>
+		<array>
+			<string>436</string>
+			<string>AQUATIC LIFE</string>
+		</array>
+		<array>
+			<string>437</string>
+			<string>REGULATION OF FOOD SERVICE ESTABLISHMENTS, RETAIL FOOD STORES, MOBILE FOOD UNITS, AND ROADSIDE FOOD VENDORS</string>
+		</array>
+		<array>
+			<string>438</string>
+			<string>PUBLIC HEALTH MEASURES RELATING TO FOOD</string>
+		</array>
+		<array>
+			<string>439</string>
+			<string>MANUFACTURE AND DISTRIBUTION OF CERTAIN DRUGS</string>
+		</array>
+		<array>
+			<string>440</string>
+			<string>FROZEN DESSERTS MANUFACTURER LICENSING ACT</string>
+		</array>
+		<array>
+			<string>441</string>
+			<string>REGULATION OF BOTTLED AND VENDED DRINKING WATER</string>
+		</array>
+		<array>
+			<string>461</string>
+			<string>TEXAS COMMISSION ON ALCOHOL AND DRUG ABUSE</string>
+		</array>
+		<array>
+			<string>462</string>
+			<string>TREATMENT OF CHEMICALLY DEPENDENT PERSONS</string>
+		</array>
+		<array>
+			<string>463</string>
+			<string>CONTRIBUTING TO DELINQUENCY OF HABITUAL DRUNKARD OR NARCOTIC ADDICT</string>
+		</array>
+		<array>
+			<string>464</string>
+			<string>FACILITIES TREATING ALCOHOLICS AND DRUG-DEPENDENT PERSONS</string>
+		</array>
+		<array>
+			<string>465</string>
+			<string>LOCAL DRUG AND ALCOHOL EDUCATION PROGRAMS</string>
+		</array>
+		<array>
+			<string>466</string>
+			<string>REGULATION OF NARCOTIC DRUG TREATMENT PROGRAMS</string>
+		</array>
+		<array>
+			<string>467</string>
+			<string>PEER ASSISTANCE PROGRAMS</string>
+		</array>
+		<array>
+			<string>468</string>
+			<string> PROGRAMS AND INITIATIVES TO PREVENTTHE MANUFACTURE AND USE OF METHAMPHETAMINE</string>
+		</array>
+		<array>
+			<string>481</string>
+			<string>TEXAS CONTROLLED SUBSTANCES ACT</string>
+		</array>
+		<array>
+			<string>482</string>
+			<string>SIMULATED CONTROLLED SUBSTANCES</string>
+		</array>
+		<array>
+			<string>483</string>
+			<string>DANGEROUS DRUGS</string>
+		</array>
+		<array>
+			<string>485</string>
+			<string>ABUSABLE VOLATILE CHEMICALS</string>
+		</array>
+		<array>
+			<string>486</string>
+			<string> OVER-THE-COUNTER SALES OF EPHEDRINE, PSEUDOEPHEDRINE, AND NORPSEUDOEPHEDRINE</string>
+		</array>
+		<array>
+			<string>501</string>
+			<string>HAZARDOUS SUBSTANCES</string>
+		</array>
+		<array>
+			<string>502</string>
+			<string>HAZARD COMMUNICATION ACT</string>
+		</array>
+		<array>
+			<string>503</string>
+			<string>HEALTH RISK ASSESSMENT OF TOXIC SUBSTANCES AND HARMFUL PHYSICAL AGENTS</string>
+		</array>
+		<array>
+			<string>505</string>
+			<string>MANUFACTURING FACILITY COMMUNITY RIGHT-TO-KNOW ACT</string>
+		</array>
+		<array>
+			<string>506</string>
+			<string>PUBLIC EMPLOYER COMMUNITY RIGHT-TO-KNOW ACT</string>
+		</array>
+		<array>
+			<string>507</string>
+			<string>NONMANUFACTURING FACILITIES COMMUNITY RIGHT-TO-KNOW ACT</string>
+		</array>
+		<array>
+			<string>508</string>
+			<string>AREA QUARANTINE FOR ENVIRONMENTAL OR TOXIC AGENT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. MENTAL HEALTH AND MENTAL RETARDATION</string>
+		<array>
+			<string>531</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO THE TEXAS DEPARTMENT OF MENTAL HEALTH AND MENTAL RETARDATION</string>
+		</array>
+		<array>
+			<string>532</string>
+			<string>ORGANIZATION OF TEXAS DEPARTMENT OF MENTAL HEALTH AND MENTAL RETARDATION</string>
+		</array>
+		<array>
+			<string>533</string>
+			<string>POWERS AND DUTIES</string>
+		</array>
+		<array>
+			<string>534</string>
+			<string>COMMUNITY SERVICES</string>
+		</array>
+		<array>
+			<string>535</string>
+			<string>SUPPORT SERVICES</string>
+		</array>
+		<array>
+			<string>551</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>552</string>
+			<string>STATE HOSPITALS</string>
+		</array>
+		<array>
+			<string>553</string>
+			<string>STATE SCHOOLS</string>
+		</array>
+		<array>
+			<string>554</string>
+			<string>STATE CENTERS AND HOMES</string>
+		</array>
+		<array>
+			<string>555</string>
+			<string> STATE SUPPORTED LIVING CENTERS</string>
+		</array>
+		<array>
+			<string>571</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>572</string>
+			<string> VOLUNTARY MENTAL HEALTH SERVICES</string>
+		</array>
+		<array>
+			<string>573</string>
+			<string>EMERGENCY DETENTION</string>
+		</array>
+		<array>
+			<string>574</string>
+			<string>COURT-ORDERED MENTAL HEALTH SERVICES</string>
+		</array>
+		<array>
+			<string>575</string>
+			<string>ADMISSION AND TRANSFER PROCEDURES FOR INPATIENT SERVICES</string>
+		</array>
+		<array>
+			<string>576</string>
+			<string>RIGHTS OF PATIENTS</string>
+		</array>
+		<array>
+			<string>577</string>
+			<string>PRIVATE MENTAL HOSPITALS AND OTHER MENTAL HEALTH FACILITIES</string>
+		</array>
+		<array>
+			<string>578</string>
+			<string>ELECTROCONVULSIVE AND OTHER THERAPIES</string>
+		</array>
+		<array>
+			<string>579</string>
+			<string> MENTAL HEALTH JAIL DIVERSION PILOT PROGRAM; HARRIS COUNTY</string>
+		</array>
+		<array>
+			<string>591</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>592</string>
+			<string>RIGHTS OF PERSONS WITH MENTAL RETARDATION</string>
+		</array>
+		<array>
+			<string>593</string>
+			<string>ADMISSION AND COMMITMENT TO MENTAL RETARDATION SERVICES</string>
+		</array>
+		<array>
+			<string>594</string>
+			<string>TRANSFER AND DISCHARGE</string>
+		</array>
+		<array>
+			<string>595</string>
+			<string>RECORDS</string>
+		</array>
+		<array>
+			<string>597</string>
+			<string>CAPACITY OF CLIENTS TO CONSENT TO TREATMENT</string>
+		</array>
+		<array>
+			<string>611</string>
+			<string>MENTAL HEALTH RECORDS</string>
+		</array>
+		<array>
+			<string>612</string>
+			<string>INTERSTATE COMPACT ON MENTAL HEALTH</string>
+		</array>
+		<array>
+			<string>613</string>
+			<string>KIDNEY DONATION BY WARD WITH MENTAL RETARDATION</string>
+		</array>
+		<array>
+			<string>614</string>
+			<string>TEXAS CORRECTIONAL OFFICE ON OFFENDERS WITH MEDICAL OR MENTAL IMPAIRMENTS</string>
+		</array>
+		<array>
+			<string>615</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. DEATH AND DISPOSITION OF THE BODY</string>
+		<array>
+			<string>671</string>
+			<string>DETERMINATION OF DEATH AND AUTOPSY REPORTS</string>
+		</array>
+		<array>
+			<string>671a</string>
+			<string> NOTICE REQUIRED AT PRIVATE AUTOPSY FACILITY</string>
+		</array>
+		<array>
+			<string>672</string>
+			<string>ADULT FATALITY REVIEW AND INVESTIGATION</string>
+		</array>
+		<array>
+			<string>673</string>
+			<string>SUDDEN INFANT DEATH SYNDROME</string>
+		</array>
+		<array>
+			<string>674</string>
+			<string> FETAL AND INFANT MORTALITY REVIEW</string>
+		</array>
+		<array>
+			<string>691</string>
+			<string>ANATOMICAL BOARD OF THE STATE OF TEXAS</string>
+		</array>
+		<array>
+			<string>692</string>
+			<string>TEXAS ANATOMICAL GIFT ACT</string>
+		</array>
+		<array>
+			<string>692a</string>
+			<string> REVISED UNIFORM ANATOMICAL GIFT ACT</string>
+		</array>
+		<array>
+			<string>693</string>
+			<string>REMOVAL OF BODY PARTS, BODY TISSUE, AND CORNEAL TISSUE</string>
+		</array>
+		<array>
+			<string>694</string>
+			<string>BURIAL</string>
+		</array>
+		<array>
+			<string>695</string>
+			<string> IN-CASKET IDENTIFICATION</string>
+		</array>
+		<array>
+			<string>696</string>
+			<string> DISPOSITION OF UNCLAIMED CREMATED REMAINS</string>
+		</array>
+		<array>
+			<string>711</string>
+			<string>GENERAL PROVISIONS RELATING TO CEMETERIES</string>
+		</array>
+		<array>
+			<string>712</string>
+			<string>PERPETUAL CARE CEMETERIES</string>
+		</array>
+		<array>
+			<string>713</string>
+			<string>LOCAL REGULATION OF CEMETERIES</string>
+		</array>
+		<array>
+			<string>714</string>
+			<string>MISCELLANEOUS PROVISIONS RELATING TO CEMETERIES</string>
+		</array>
+		<array>
+			<string>715</string>
+			<string>CERTAIN HISTORIC CEMETERIES</string>
+		</array>
+		<array>
+			<string>716</string>
+			<string>CREMATORIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. SAFETY</string>
+		<array>
+			<string>751</string>
+			<string>MASS GATHERINGS</string>
+		</array>
+		<array>
+			<string>752</string>
+			<string>HIGH VOLTAGE OVERHEAD LINES</string>
+		</array>
+		<array>
+			<string>753</string>
+			<string>FLAMMABLE LIQUIDS</string>
+		</array>
+		<array>
+			<string>754</string>
+			<string>ELEVATORS, ESCALATORS, AND RELATED EQUIPMENT</string>
+		</array>
+		<array>
+			<string>755</string>
+			<string>BOILERS</string>
+		</array>
+		<array>
+			<string>756</string>
+			<string>MISCELLANEOUS HAZARDOUS CONDITIONS</string>
+		</array>
+		<array>
+			<string>757</string>
+			<string>POOL YARD ENCLOSURES</string>
+		</array>
+		<array>
+			<string>758</string>
+			<string>BICYCLE SAFETY</string>
+		</array>
+		<array>
+			<string>759</string>
+			<string>ROLLER-SKATING CENTERS</string>
+		</array>
+		<array>
+			<string>760</string>
+			<string>ICE SKATING CENTERS</string>
+		</array>
+		<array>
+			<string>765</string>
+			<string>CRIMINAL HISTORY RECORD INFORMATION CHECKS OF EMPLOYEES OF RESIDENTIAL DWELLING PROJECTS</string>
+		</array>
+		<array>
+			<string>766</string>
+			<string> FIRE SAFETY IN RESIDENTIAL DWELLINGS</string>
+		</array>
+		<array>
+			<string>768</string>
+			<string> CHILDREN PARTICIPATING IN RODEOS</string>
+		</array>
+		<array>
+			<string>771</string>
+			<string>STATE ADMINISTRATION OF EMERGENCY COMMUNICATIONS</string>
+		</array>
+		<array>
+			<string>772</string>
+			<string>LOCAL ADMINISTRATION OF EMERGENCY COMMUNICATIONS</string>
+		</array>
+		<array>
+			<string>773</string>
+			<string>EMERGENCY MEDICAL SERVICES</string>
+		</array>
+		<array>
+			<string>774</string>
+			<string>LOCAL PROVISION OF EMERGENCY MEDICAL SERVICES</string>
+		</array>
+		<array>
+			<string>775</string>
+			<string>EMERGENCY SERVICES DISTRICTS</string>
+		</array>
+		<array>
+			<string>777</string>
+			<string>REGIONAL POISON CONTROL CENTERS</string>
+		</array>
+		<array>
+			<string>778</string>
+			<string>EMERGENCY MANAGEMENT ASSISTANCE COMPACT</string>
+		</array>
+		<array>
+			<string>779</string>
+			<string>AUTOMATED EXTERNAL DEFIBRILLATORS</string>
+		</array>
+		<array>
+			<string>780</string>
+			<string>TRAUMA FACILITIES AND EMERGENCY MEDICAL SERVICES</string>
+		</array>
+		<array>
+			<string>781</string>
+			<string> PERSONAL EMERGENCY RESPONSE SYSTEMS</string>
+		</array>
+		<array>
+			<string>782</string>
+			<string> REGIONAL EMERGENCY MEDICAL SERVICES</string>
+		</array>
+		<array>
+			<string>784</string>
+			<string> CRITICAL INCIDENT STRESS MANAGEMENT AND CRISIS RESPONSE SERVICES</string>
+		</array>
+		<array>
+			<string>785</string>
+			<string> SEARCH AND RESCUE DOGS</string>
+		</array>
+		<array>
+			<string>791</string>
+			<string>FIRE ESCAPES</string>
+		</array>
+		<array>
+			<string>792</string>
+			<string>SMOKE DETECTORS IN HOTELS</string>
+		</array>
+		<array>
+			<string>793</string>
+			<string>DISABLING FIRE EXIT ALARMS</string>
+		</array>
+		<array>
+			<string>795</string>
+			<string>USE OF CERTAIN FIRE TRUCKS</string>
+		</array>
+		<array>
+			<string>796</string>
+			<string> CIGARETTE FIRE SAFETY STANDARDS</string>
+		</array>
+		<array>
+			<string>797</string>
+			<string> PORTABLE FIRE EXTINGUISHERS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10. HEALTH AND SAFETY OF ANIMALS</string>
+		<array>
+			<string>821</string>
+			<string>TREATMENT AND DISPOSITION OF ANIMALS</string>
+		</array>
+		<array>
+			<string>822</string>
+			<string>REGULATION OF ANIMALS</string>
+		</array>
+		<array>
+			<string>823</string>
+			<string>ANIMAL SHELTERS</string>
+		</array>
+		<array>
+			<string>825</string>
+			<string>PREDATORY ANIMALS AND ANIMAL PESTS</string>
+		</array>
+		<array>
+			<string>826</string>
+			<string>RABIES</string>
+		</array>
+		<array>
+			<string>828</string>
+			<string>DOG AND CAT STERILIZATION</string>
+		</array>
+		<array>
+			<string>829</string>
+			<string> ANIMAL CONTROL OFFICER TRAINING</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11. CIVIL COMMITMENT OF SEXUALLY VIOLENT PREDATORS</string>
+		<array>
+			<string>841</string>
+			<string>CIVIL COMMITMENT OF SEXUALLY VIOLENT PREDATORS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 12. HEALTH AND MENTAL HEALTH</string>
+		<array>
+			<string>1001</string>
+			<string>DEPARTMENT OF STATE HEALTH SERVICES</string>
+		</array>
+		<array>
+			<string>1002</string>
+			<string> TEXAS INSTITUTE OF HEALTH CARE QUALITY AND EFFICIENCY</string>
+		</array>
+		<array>
+			<string>1003</string>
+			<string> AUTOLOGOUS STEM CELL BANK FOR RECIPIENTS OF BLOOD AND TISSUE COMPONENTS WHO ARE THE LIVE HUMAN DONORS OF THE ADULT STEM CELLS</string>
+		</array>
+	</array>
+</array>
+</plist>

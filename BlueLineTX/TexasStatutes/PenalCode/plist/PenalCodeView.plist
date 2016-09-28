@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>TITLE 1. INTRODUCTORY PROVISIONS</string>
+		<array>
+			<string>PenalCode1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>PenalCode2</string>
+			<string>BURDEN OF PROOF</string>
+		</array>
+		<array>
+			<string>PenalCode3</string>
+			<string>MULTIPLE PROSECUTIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. GENERAL PRINCIPLES OF CRIMINAL RESPONSIBILITY</string>
+		<array>
+			<string>PenalCode6</string>
+			<string>CULPABILITY GENERALLY</string>
+		</array>
+		<array>
+			<string>PenalCode7</string>
+			<string>CRIMINAL RESPONSIBILITY FOR CONDUCT OF ANOTHER</string>
+		</array>
+		<array>
+			<string>PenalCode8</string>
+			<string>GENERAL DEFENSES TO CRIMINAL RESPONSIBILITY</string>
+		</array>
+		<array>
+			<string>PenalCode9</string>
+			<string>JUSTIFICATION EXCLUDING CRIMINAL RESPONSIBILITY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. PUNISHMENTS</string>
+		<array>
+			<string>PenalCode12</string>
+			<string>PUNISHMENTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. INCHOATE OFFENSES</string>
+		<array>
+			<string>PenalCode15</string>
+			<string>PREPARATORY OFFENSES</string>
+		</array>
+		<array>
+			<string>PenalCode16</string>
+			<string>CRIMINAL INSTRUMENTS, INTERCEPTION OF WIRE OR ORAL COMMUNICATION, AND INSTALLATION OF TRACKING DEVICE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. OFFENSES AGAINST THE PERSON</string>
+		<array>
+			<string>PenalCode19</string>
+			<string>CRIMINAL HOMICIDE</string>
+		</array>
+		<array>
+			<string>PenalCode20</string>
+			<string>KIDNAPPING, UNLAWFUL RESTRAINT, AND SMUGGLING OF PERSONS</string>
+		</array>
+		<array>
+			<string>PenalCode20a</string>
+			<string>TRAFFICKING OF PERSONS</string>
+		</array>
+		<array>
+			<string>PenalCode21</string>
+			<string>SEXUAL OFFENSES</string>
+		</array>
+		<array>
+			<string>PenalCode22</string>
+			<string>ASSAULTIVE OFFENSES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. OFFENSES AGAINST THE FAMILY</string>
+		<array>
+			<string>PenalCode25</string>
+			<string>OFFENSES AGAINST THE FAMILY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. OFFENSES AGAINST PROPERTY</string>
+		<array>
+			<string>PenalCode28</string>
+			<string>ARSON, CRIMINAL MISCHIEF, AND OTHER PROPERTY DAMAGE OR DESTRUCTION</string>
+		</array>
+		<array>
+			<string>PenalCode29</string>
+			<string>ROBBERY</string>
+		</array>
+		<array>
+			<string>PenalCode30</string>
+			<string>BURGLARY AND CRIMINAL TRESPASS</string>
+		</array>
+		<array>
+			<string>PenalCode31</string>
+			<string>THEFT</string>
+		</array>
+		<array>
+			<string>PenalCode32</string>
+			<string>FRAUD</string>
+		</array>
+		<array>
+			<string>PenalCode33</string>
+			<string>COMPUTER CRIMES</string>
+		</array>
+		<array>
+			<string>PenalCode33a</string>
+			<string>TELECOMMUNICATIONS CRIMES</string>
+		</array>
+		<array>
+			<string>PenalCode34</string>
+			<string>MONEY LAUNDERING</string>
+		</array>
+		<array>
+			<string>PenalCode35</string>
+			<string>INSURANCE FRAUD</string>
+		</array>
+		<array>
+			<string>PenalCode35a</string>
+			<string>MEDICAID FRAUD</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. OFFENSES AGAINST PUBLIC ADMINISTRATION</string>
+		<array>
+			<string>PenalCode36</string>
+			<string>BRIBERY AND CORRUPT INFLUENCE</string>
+		</array>
+		<array>
+			<string>PenalCode37</string>
+			<string>PERJURY AND OTHER FALSIFICATION</string>
+		</array>
+		<array>
+			<string>PenalCode38</string>
+			<string>OBSTRUCTING GOVERNMENTAL OPERATION</string>
+		</array>
+		<array>
+			<string>PenalCode39</string>
+			<string>ABUSE OF OFFICE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. OFFENSES AGAINST PUBLIC ORDER AND DECENCY</string>
+		<array>
+			<string>PenalCode42</string>
+			<string>DISORDERLY CONDUCT AND RELATED OFFENSES</string>
+		</array>
+		<array>
+			<string>PenalCode43</string>
+			<string>PUBLIC INDECENCY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10. OFFENSES AGAINST PUBLIC HEALTH, SAFETY, AND MORALS</string>
+		<array>
+			<string>PenalCode46</string>
+			<string>WEAPONS</string>
+		</array>
+		<array>
+			<string>PenalCode47</string>
+			<string>GAMBLING</string>
+		</array>
+		<array>
+			<string>PenalCode48</string>
+			<string>CONDUCT AFFECTING PUBLIC HEALTH</string>
+		</array>
+		<array>
+			<string>PenalCode49</string>
+			<string>INTOXICATION AND ALCOHOLIC BEVERAGE OFFENSES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11. ORGANIZED CRIME</string>
+		<array>
+			<string>PenalCode71</string>
+			<string>ORGANIZED CRIME</string>
+		</array>
+	</array>
+</array>
+</plist>

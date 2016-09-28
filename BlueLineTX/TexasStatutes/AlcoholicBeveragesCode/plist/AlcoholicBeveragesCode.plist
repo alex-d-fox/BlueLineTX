@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>CIVIL LIABILITIES FOR SERVING BEVERAGES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. ADMINISTRATION OF CODE</string>
+		<array>
+			<string>5</string>
+			<string>ALCOHOLIC BEVERAGE COMMISSION</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string>ACTIVITIES SUBJECT TO REGULATION</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. LICENSES AND PERMITS</string>
+		<array>
+			<string>11</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO PERMITS</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>BREWER'S PERMIT</string>
+		</array>
+		<array>
+			<string>12a</string>
+			<string> BREWER'S SELF-DISTRIBUTION PERMIT</string>
+		</array>
+		<array>
+			<string>13</string>
+			<string>NONRESIDENT BREWER'S PERMIT</string>
+		</array>
+		<array>
+			<string>14</string>
+			<string>DISTILLER'S AND RECTIFIER'S PERMIT</string>
+		</array>
+		<array>
+			<string>15</string>
+			<string> DISTILLER'S AGENT'S PERMIT</string>
+		</array>
+		<array>
+			<string>16</string>
+			<string>WINERY PERMIT</string>
+		</array>
+		<array>
+			<string>17</string>
+			<string> WINERY FESTIVAL PERMIT</string>
+		</array>
+		<array>
+			<string>18</string>
+			<string>WINE BOTTLER'S PERMIT</string>
+		</array>
+		<array>
+			<string>19</string>
+			<string>WHOLESALER'S PERMIT</string>
+		</array>
+		<array>
+			<string>20</string>
+			<string>GENERAL CLASS B WHOLESALER'S PERMIT</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>LOCAL CLASS B WHOLESALER'S PERMIT</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>PACKAGE STORE PERMIT</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>LOCAL DISTRIBUTOR'S PERMIT</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>WINE ONLY PACKAGE STORE PERMIT</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string>WINE AND BEER RETAILER'S PERMIT</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>WINE AND BEER RETAILER'S OFF-PREMISE PERMIT</string>
+		</array>
+		<array>
+			<string>27</string>
+			<string>TEMPORARY AND SPECIAL WINE AND BEER RETAILER'S PERMITS</string>
+		</array>
+		<array>
+			<string>28</string>
+			<string>MIXED BEVERAGE PERMIT</string>
+		</array>
+		<array>
+			<string>29</string>
+			<string>MIXED BEVERAGE LATE HOURS PERMIT</string>
+		</array>
+		<array>
+			<string>30</string>
+			<string>DAILY TEMPORARY MIXED BEVERAGE PERMIT</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string>CATERER'S PERMIT</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>PRIVATE CLUB REGISTRATION PERMIT</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>OTHER PRIVATE CLUB PERMITS</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string>AIRLINE BEVERAGE PERMIT</string>
+		</array>
+		<array>
+			<string>35</string>
+			<string>AGENT'S PERMIT</string>
+		</array>
+		<array>
+			<string>36</string>
+			<string>MANUFACTURER'S AGENT'S PERMIT</string>
+		</array>
+		<array>
+			<string>37</string>
+			<string>NONRESIDENT SELLER'S PERMIT</string>
+		</array>
+		<array>
+			<string>38</string>
+			<string>INDUSTRIAL PERMIT</string>
+		</array>
+		<array>
+			<string>41</string>
+			<string>CARRIER PERMIT</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>PRIVATE CARRIER PERMIT</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>LOCAL CARTAGE PERMIT</string>
+		</array>
+		<array>
+			<string>44</string>
+			<string>BEVERAGE CARTAGE PERMIT</string>
+		</array>
+		<array>
+			<string>45</string>
+			<string>STORAGE PERMIT</string>
+		</array>
+		<array>
+			<string>46</string>
+			<string>BONDED WAREHOUSE PERMIT</string>
+		</array>
+		<array>
+			<string>47</string>
+			<string>LOCAL INDUSTRIAL ALCOHOL MANUFACTURER'S PERMIT</string>
+		</array>
+		<array>
+			<string>48</string>
+			<string>PASSENGER TRAIN BEVERAGE PERMIT</string>
+		</array>
+		<array>
+			<string>49</string>
+			<string>MARKET RESEARCH PACKAGER'S PERMIT</string>
+		</array>
+		<array>
+			<string>50</string>
+			<string> PROMOTIONAL PERMIT</string>
+		</array>
+		<array>
+			<string>51</string>
+			<string>MINIBAR PERMIT</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>PACKAGE STORE TASTING PERMIT</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string>TEMPORARY CHARITABLE AUCTION PERMIT</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string> OUT-OF-STATE WINERY DIRECT SHIPPER'S PERMIT</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string> MANUFACTURER'S AGENT'S WAREHOUSING PERMIT</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO LICENSES</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>MANUFACTURER'S LICENSE</string>
+		</array>
+		<array>
+			<string>62a</string>
+			<string> MANUFACTURER'S SELF-DISTRIBUTION LICENSE</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>NONRESIDENT MANUFACTURER'S LICENSE</string>
+		</array>
+		<array>
+			<string>64</string>
+			<string>GENERAL DISTRIBUTOR'S LICENSE</string>
+		</array>
+		<array>
+			<string>65</string>
+			<string>LOCAL DISTRIBUTOR'S LICENSE</string>
+		</array>
+		<array>
+			<string>66</string>
+			<string>BRANCH DISTRIBUTOR'S LICENSE</string>
+		</array>
+		<array>
+			<string>67</string>
+			<string>IMPORTER'S LICENSE</string>
+		</array>
+		<array>
+			<string>68</string>
+			<string>IMPORTER'S CARRIER'S LICENSE</string>
+		</array>
+		<array>
+			<string>69</string>
+			<string>RETAIL DEALER'S ON-PREMISE LICENSE</string>
+		</array>
+		<array>
+			<string>70</string>
+			<string>RETAIL DEALER'S ON-PREMISE LATE HOURS LICENSE</string>
+		</array>
+		<array>
+			<string>71</string>
+			<string>RETAIL DEALER'S OFF-PREMISE LICENSE</string>
+		</array>
+		<array>
+			<string>72</string>
+			<string>TEMPORARY LICENSES</string>
+		</array>
+		<array>
+			<string>73</string>
+			<string>AGENT'S BEER LICENSE</string>
+		</array>
+		<array>
+			<string>74</string>
+			<string>BREWPUB LICENSE</string>
+		</array>
+		<array>
+			<string>75</string>
+			<string>STORAGE LICENSE</string>
+		</array>
+		<array>
+			<string>81</string>
+			<string> COMMON NUISANCE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. REGULATORY AND PENAL PROVISIONS</string>
+		<array>
+			<string>101</string>
+			<string>GENERAL CRIMINAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>INTRA-INDUSTRY RELATIONSHIPS</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>ILLICIT BEVERAGES</string>
+		</array>
+		<array>
+			<string>104</string>
+			<string>REGULATION OF RETAILERS</string>
+		</array>
+		<array>
+			<string>105</string>
+			<string>HOURS OF SALE AND CONSUMPTION</string>
+		</array>
+		<array>
+			<string>106</string>
+			<string>PROVISIONS RELATING TO AGE</string>
+		</array>
+		<array>
+			<string>107</string>
+			<string>TRANSPORTATION AND IMPORTATION</string>
+		</array>
+		<array>
+			<string>108</string>
+			<string>ADVERTISING</string>
+		</array>
+		<array>
+			<string>109</string>
+			<string>MISCELLANEOUS REGULATORY PROVISIONS</string>
+		</array>
+		<array>
+			<string>110</string>
+			<string>TEXAS WINE MARKETING ASSISTANCE PROGRAM IN DEPARTMENT OF AGRICULTURE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. TAXATION</string>
+		<array>
+			<string>201</string>
+			<string>LIQUOR TAXES</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>BEER TAX</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string>BONDS</string>
+		</array>
+		<array>
+			<string>205</string>
+			<string>REVENUE ALLOCATION</string>
+		</array>
+		<array>
+			<string>206</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO TAXATION</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. LOCAL OPTION ELECTIONS</string>
+		<array>
+			<string>251</string>
+			<string> LOCAL OPTION STATUS</string>
+		</array>
+	</array>
+</array>
+</plist>

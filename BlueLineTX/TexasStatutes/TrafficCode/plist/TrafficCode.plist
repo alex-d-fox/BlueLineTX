@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. GENERAL PROVISIONS RELATING TO CARRIERS</string>
+		<array>
+			<string>5</string>
+			<string>DUTIES AND LIABILITIES OF COMMON CARRIERS</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string>SALE OF UNCLAIMED GOODS</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>CONNECTING CARRIERS</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>PROTECTING MOVEMENT OF COMMERCE</string>
+		</array>
+		<array>
+			<string>20</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. AVIATION</string>
+		<array>
+			<string>21</string>
+			<string>ADMINISTRATION OF AERONAUTICS</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>COUNTY AND MUNICIPAL AIRPORTS</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>AIRPORT SECURITY PERSONNEL</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>OPERATION OF AIRCRAFT</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string> NOTICE OF CONSTRUCTION OF WIRELESS COMMUNICATION FACILITY</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>AQUATIC AIRCRAFT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. NAVIGATION</string>
+		<array>
+			<string>51</string>
+			<string>TEXAS COASTAL WATERWAY ACT</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>TEXAS DEEPWATER PORT PROCEDURES ACT</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>HARBOR AND PORT FACILITIES IN CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string>FUNDING OF PORT SECURITY, PROJECTS, AND STUDIES</string>
+		</array>
+		<array>
+			<string>60</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>COMPULSORY PILOTAGE</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>NAVIGATION DISTRICT PILOT BOARDS</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>PILOT BOARDS</string>
+		</array>
+		<array>
+			<string>64</string>
+			<string>RATES OF PILOTAGE</string>
+		</array>
+		<array>
+			<string>65</string>
+			<string>PILOTS FOR MATAGORDA AND LAVACA BAYS</string>
+		</array>
+		<array>
+			<string>66</string>
+			<string>HOUSTON PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>67</string>
+			<string>GALVESTON COUNTY PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>68</string>
+			<string>BRAZORIA COUNTY PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>69</string>
+			<string>JEFFERSON AND ORANGE COUNTY PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>70</string>
+			<string>PORT OF CORPUS CHRISTI PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. RAILROADS</string>
+		<array>
+			<string>81</string>
+			<string> GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>91</string>
+			<string>RAIL FACILITIES</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string>REGULATION BY TEXAS DEPARTMENT OF TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>112</string>
+			<string> POWERS AND DUTIES OF RAILROADS</string>
+		</array>
+		<array>
+			<string>131</string>
+			<string> MISCELLANEOUS RAILWAYS</string>
+		</array>
+		<array>
+			<string>171</string>
+			<string> FREIGHT RAIL DISTRICTS</string>
+		</array>
+		<array>
+			<string>172</string>
+			<string> RURAL RAIL TRANSPORTATION DISTRICTS</string>
+		</array>
+		<array>
+			<string>173</string>
+			<string> INTERMUNICIPAL COMMUTER RAIL DISTRICTS</string>
+		</array>
+		<array>
+			<string>174</string>
+			<string> COMMUTER RAIL DISTRICTS</string>
+		</array>
+		<array>
+			<string>191</string>
+			<string> STRUCTURES AND MATERIALS NEAR RAILROAD OR RAILWAY</string>
+		</array>
+		<array>
+			<string>192</string>
+			<string> ENGINEER'S OPERATOR PERMIT AND TRAIN OPERATOR PERMIT</string>
+		</array>
+		<array>
+			<string>193</string>
+			<string> HAZARDOUS MATERIALS</string>
+		</array>
+		<array>
+			<string>194</string>
+			<string> PROVISION OF UTILITIES BY CERTAIN RAILWAY CORPORATIONS</string>
+		</array>
+		<array>
+			<string>199</string>
+			<string> MISCELLANEOUS PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. ROADWAYS</string>
+		<array>
+			<string>201</string>
+			<string>GENERAL PROVISIONS AND ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>CONTROL OF TRANSPORTATION ASSETS</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>MODERNIZATION OF STATE HIGHWAYS;  CONTROLLED ACCESS HIGHWAYS</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string>TRAVEL INFORMATION</string>
+		</array>
+		<array>
+			<string>221</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>222</string>
+			<string>FUNDING AND FEDERAL AID</string>
+		</array>
+		<array>
+			<string>223</string>
+			<string>BIDS AND CONTRACTS FOR HIGHWAY PROJECTS</string>
+		</array>
+		<array>
+			<string>224</string>
+			<string>ACQUISITION, CONSTRUCTION, AND MAINTENANCE</string>
+		</array>
+		<array>
+			<string>225</string>
+			<string>STATE HIGHWAY NAMES</string>
+		</array>
+		<array>
+			<string>226</string>
+			<string>EMERGENCY HIGHWAY CALL BOX SYSTEM</string>
+		</array>
+		<array>
+			<string>228</string>
+			<string> STATE HIGHWAY TOLL PROJECTS</string>
+		</array>
+		<array>
+			<string>250</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>251</string>
+			<string>GENERAL COUNTY AUTHORITY RELATING TO ROADS AND BRIDGES</string>
+		</array>
+		<array>
+			<string>252</string>
+			<string>SYSTEMS OF COUNTY ROAD ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>253</string>
+			<string>COUNTY IMPROVEMENT OF SUBDIVISION ROADS</string>
+		</array>
+		<array>
+			<string>254</string>
+			<string>DRAINAGE ON PUBLIC ROADS</string>
+		</array>
+		<array>
+			<string>255</string>
+			<string>COUNTY REGULATION OF SIGHT DISTANCES</string>
+		</array>
+		<array>
+			<string>256</string>
+			<string>FUNDS AND TAXES FOR COUNTY ROADS</string>
+		</array>
+		<array>
+			<string>257</string>
+			<string>ROAD DISTRICTS</string>
+		</array>
+		<array>
+			<string>258</string>
+			<string>CLARIFICATION OF EXISTENCE OF PUBLIC INTEREST IN ROAD BY ADOPTION OF COUNTY ROAD MAP</string>
+		</array>
+		<array>
+			<string>280</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>281</string>
+			<string>ACQUISITION OF PUBLIC INTEREST IN PRIVATE ROAD BY CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>282</string>
+			<string>TOLL UNDERPASS OR TUNNEL IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>283</string>
+			<string>CAUSEWAYS, BRIDGES, AND TUNNELS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>284</string>
+			<string> CAUSEWAYS, BRIDGES, TUNNELS, TURNPIKES, FERRIES, AND HIGHWAYS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>285</string>
+			<string>COUNTY REGULATION OF ROADSIDE VENDOR AND SOLICITOR IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>286</string>
+			<string>ROAD LAWS RELATING TO SPECIFIC COUNTIES</string>
+		</array>
+		<array>
+			<string>311</string>
+			<string>GENERAL PROVISIONS RELATING TO MUNICIPAL STREETS</string>
+		</array>
+		<array>
+			<string>312</string>
+			<string>CONTROL OF HIGHWAY ASSETS</string>
+		</array>
+		<array>
+			<string>313</string>
+			<string>STREET IMPROVEMENTS AND ASSESSMENTS IN CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>314</string>
+			<string>PURCHASE OR CONDEMNATION OF PROPERTY FOR HIGHWAYS BY CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>315</string>
+			<string>ARTIFICIAL LIGHTING</string>
+		</array>
+		<array>
+			<string>316</string>
+			<string>USE OF MUNICIPAL STREETS AND SIDEWALKS FOR PUBLIC CONVENIENCES AND AMENITIES OR FOR PRIVATE USES</string>
+		</array>
+		<array>
+			<string>317</string>
+			<string>ELIMINATION OF GRADE-LEVEL STREET CROSSINGS BY RAILROAD LINES IN MUNICIPALITIES WITH POPULATION OF MORE THAN 100,000</string>
+		</array>
+		<array>
+			<string>341</string>
+			<string>PRIVATE CAUSEWAYS</string>
+		</array>
+		<array>
+			<string>342</string>
+			<string>FERRIES AND CERTAIN TOLL BRIDGES</string>
+		</array>
+		<array>
+			<string>361</string>
+			<string>STATE HIGHWAY TURNPIKE PROJECTS</string>
+		</array>
+		<array>
+			<string>362</string>
+			<string>TURNPIKES AND TOLL PROJECTS</string>
+		</array>
+		<array>
+			<string>363</string>
+			<string>COUNTY TOLL BRIDGES</string>
+		</array>
+		<array>
+			<string>364</string>
+			<string>TOLL BRIDGES IN COUNTIES BORDERING THE RIO GRANDE</string>
+		</array>
+		<array>
+			<string>365</string>
+			<string>ROAD DISTRICT TOLL ROADS</string>
+		</array>
+		<array>
+			<string>366</string>
+			<string>REGIONAL TOLLWAY AUTHORITIES</string>
+		</array>
+		<array>
+			<string>367</string>
+			<string>MUNICIPAL TOLL BRIDGES OVER RIO GRANDE</string>
+		</array>
+		<array>
+			<string>370</string>
+			<string>REGIONAL MOBILITY AUTHORITIES</string>
+		</array>
+		<array>
+			<string>371</string>
+			<string> COMPREHENSIVE DEVELOPMENT AGREEMENTS FOR HIGHWAY TOLL PROJECTS</string>
+		</array>
+		<array>
+			<string>372</string>
+			<string> PROVISIONS APPLICABLE TO MORE THAN ONE TYPE OF TOLL PROJECT</string>
+		</array>
+		<array>
+			<string>373</string>
+			<string> TOLL PROJECTS LOCATED IN TERRITORY OF LOCAL TOLL PROJECT ENTITY</string>
+		</array>
+		<array>
+			<string>391</string>
+			<string>HIGHWAY BEAUTIFICATION ON INTERSTATE AND PRIMARY SYSTEMS AND CERTAIN ROADS</string>
+		</array>
+		<array>
+			<string>392</string>
+			<string>HIGHWAY BEAUTIFICATION ON STATE HIGHWAY RIGHT-OF-WAY</string>
+		</array>
+		<array>
+			<string>393</string>
+			<string>OUTDOOR SIGNS ON PUBLIC RIGHTS-OF-WAY</string>
+		</array>
+		<array>
+			<string>394</string>
+			<string>REGULATION OF OUTDOOR SIGNS ON RURAL ROADS</string>
+		</array>
+		<array>
+			<string>395</string>
+			<string>OUTDOOR SIGNS AND MOTORIST INFORMATION PANELS ON TOLL ROADS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>396</string>
+			<string>AUTOMOBILE WRECKING AND SALVAGE YARDS</string>
+		</array>
+		<array>
+			<string>397</string>
+			<string>AUTOMOBILE WRECKING AND SALVAGE YARDS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>430</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>431</string>
+			<string>TEXAS TRANSPORTATION CORPORATION ACT</string>
+		</array>
+		<array>
+			<string>441</string>
+			<string>ROAD UTILITY DISTRICTS</string>
+		</array>
+		<array>
+			<string>451</string>
+			<string>METROPOLITAN RAPID TRANSIT AUTHORITIES</string>
+		</array>
+		<array>
+			<string>452</string>
+			<string>REGIONAL TRANSPORTATION AUTHORITIES</string>
+		</array>
+		<array>
+			<string>453</string>
+			<string>MUNICIPAL TRANSIT DEPARTMENTS</string>
+		</array>
+		<array>
+			<string>454</string>
+			<string>MUNICIPAL MASS TRANSPORTATION SYSTEMS</string>
+		</array>
+		<array>
+			<string>455</string>
+			<string>GENERAL POWERS AND DUTIES OF DEPARTMENT OF TRANSPORTATION REGARDING MASS TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>456</string>
+			<string>STATE FINANCING OF PUBLIC TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>457</string>
+			<string>COUNTY MASS TRANSIT AUTHORITY</string>
+		</array>
+		<array>
+			<string>458</string>
+			<string>RURAL AND URBAN TRANSIT DISTRICTS</string>
+		</array>
+		<array>
+			<string>460</string>
+			<string>COORDINATED COUNTY TRANSPORTATION AUTHORITIES</string>
+		</array>
+		<array>
+			<string>461</string>
+			<string>STATEWIDE COORDINATION OF PUBLIC TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>462</string>
+			<string>SOUTHERN HIGH-SPEED RAIL COMPACT</string>
+		</array>
+		<array>
+			<string>471</string>
+			<string>RAILROAD AND ROADWAY CROSSINGS</string>
+		</array>
+		<array>
+			<string>472</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. VEHICLES AND TRAFFIC</string>
+		<array>
+			<string>501</string>
+			<string>CERTIFICATE OF TITLE ACT</string>
+		</array>
+		<array>
+			<string>502</string>
+			<string>REGISTRATION OF VEHICLES</string>
+		</array>
+		<array>
+			<string>503</string>
+			<string>DEALER'S AND MANUFACTURER'S VEHICLE LICENSE PLATES</string>
+		</array>
+		<array>
+			<string>504</string>
+			<string>LICENSE PLATES</string>
+		</array>
+		<array>
+			<string>520</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>521</string>
+			<string>DRIVER'S LICENSES AND CERTIFICATES</string>
+		</array>
+		<array>
+			<string>521a</string>
+			<string> ELECTION IDENTIFICATION CERTIFICATE</string>
+		</array>
+		<array>
+			<string>522</string>
+			<string>COMMERCIAL DRIVER'S LICENSES</string>
+		</array>
+		<array>
+			<string>523</string>
+			<string>DRIVER'S LICENSE COMPACT OF 1993</string>
+		</array>
+		<array>
+			<string>524</string>
+			<string>ADMINISTRATIVE SUSPENSION OF DRIVER'S LICENSE FOR FAILURE TO PASS TEST FOR INTOXICATION</string>
+		</array>
+		<array>
+			<string>525</string>
+			<string>MOTORCYCLE AND BICYCLE AWARENESS</string>
+		</array>
+		<array>
+			<string>541</string>
+			<string>DEFINITIONS</string>
+		</array>
+		<array>
+			<string>542</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>543</string>
+			<string>ARREST AND PROSECUTION OF VIOLATORS</string>
+		</array>
+		<array>
+			<string>544</string>
+			<string>TRAFFIC SIGNS, SIGNALS, AND MARKINGS</string>
+		</array>
+		<array>
+			<string>545</string>
+			<string>OPERATION AND MOVEMENT OF VEHICLES</string>
+		</array>
+		<array>
+			<string>546</string>
+			<string>OPERATION OF AUTHORIZED EMERGENCY VEHICLES AND CERTAIN OTHER VEHICLES</string>
+		</array>
+		<array>
+			<string>547</string>
+			<string>VEHICLE EQUIPMENT</string>
+		</array>
+		<array>
+			<string>548</string>
+			<string>COMPULSORY INSPECTION OF VEHICLES</string>
+		</array>
+		<array>
+			<string>550</string>
+			<string>ACCIDENTS AND ACCIDENT REPORTS</string>
+		</array>
+		<array>
+			<string>551</string>
+			<string>OPERATION OF BICYCLES, MOPEDS, AND PLAY VEHICLES</string>
+		</array>
+		<array>
+			<string>552</string>
+			<string>PEDESTRIANS</string>
+		</array>
+		<array>
+			<string>553</string>
+			<string>ENACTMENT AND ENFORCEMENT OF CERTAIN TRAFFIC LAWS IN CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>600</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>601</string>
+			<string>MOTOR VEHICLE SAFETY RESPONSIBILITY ACT</string>
+		</array>
+		<array>
+			<string>621</string>
+			<string>GENERAL PROVISIONS RELATING TO VEHICLE SIZE AND WEIGHT</string>
+		</array>
+		<array>
+			<string>622</string>
+			<string>SPECIAL PROVISIONS AND EXCEPTIONS FOR OVERSIZE OR OVERWEIGHT VEHICLES</string>
+		</array>
+		<array>
+			<string>623</string>
+			<string>PERMITS FOR OVERSIZE OR OVERWEIGHT VEHICLES</string>
+		</array>
+		<array>
+			<string>642</string>
+			<string>IDENTIFYING MARKINGS ON COMMERCIAL MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>643</string>
+			<string>MOTOR CARRIER REGISTRATION</string>
+		</array>
+		<array>
+			<string>644</string>
+			<string>COMMERCIAL MOTOR VEHICLE SAFETY STANDARDS</string>
+		</array>
+		<array>
+			<string>645</string>
+			<string>SINGLE STATE REGISTRATION</string>
+		</array>
+		<array>
+			<string>646</string>
+			<string>MOTOR TRANSPORTATION BROKERS</string>
+		</array>
+		<array>
+			<string>647</string>
+			<string>MOTOR TRANSPORTATION OF MIGRANT AGRICULTURAL WORKERS</string>
+		</array>
+		<array>
+			<string>648</string>
+			<string>FOREIGN COMMERCIAL MOTOR TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>661</string>
+			<string>PROTECTIVE HEADGEAR FOR MOTORCYCLE OPERATORS AND PASSENGERS</string>
+		</array>
+		<array>
+			<string>662</string>
+			<string>MOTORCYCLE OPERATOR TRAINING AND SAFETY</string>
+		</array>
+		<array>
+			<string>663</string>
+			<string> CERTAIN OFF-HIGHWAY VEHICLES</string>
+		</array>
+		<array>
+			<string>680</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>681</string>
+			<string>PRIVILEGED PARKING</string>
+		</array>
+		<array>
+			<string>682</string>
+			<string>ADMINISTRATIVE ADJUDICATION OF VEHICLE PARKING AND STOPPING OFFENSES</string>
+		</array>
+		<array>
+			<string>683</string>
+			<string>ABANDONED MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>686</string>
+			<string>VALET PARKING SERVICES</string>
+		</array>
+		<array>
+			<string>701</string>
+			<string>COUNTY TRAFFIC OFFICERS</string>
+		</array>
+		<array>
+			<string>702</string>
+			<string>CONTRACTS FOR ENFORCEMENT OF CERTAIN ARREST WARRANTS</string>
+		</array>
+		<array>
+			<string>703</string>
+			<string>NONRESIDENT VIOLATOR COMPACT OF 1977</string>
+		</array>
+		<array>
+			<string>705</string>
+			<string>ALLOWING DANGEROUS DRIVER TO BORROW MOTOR VEHICLE</string>
+		</array>
+		<array>
+			<string>706</string>
+			<string>DENIAL OF RENEWAL OF LICENSE FOR FAILURE TO APPEAR</string>
+		</array>
+		<array>
+			<string>707</string>
+			<string> PHOTOGRAPHIC TRAFFIC SIGNALENFORCEMENT SYSTEM</string>
+		</array>
+		<array>
+			<string>708</string>
+			<string>DRIVER RESPONSIBILITY PROGRAM</string>
+		</array>
+		<array>
+			<string>720</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>721</string>
+			<string>INSCRIPTION REQUIRED ON STATE, MUNICIPAL, AND COUNTY MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>722</string>
+			<string>AUTOMOBILE CLUB SERVICES</string>
+		</array>
+		<array>
+			<string>723</string>
+			<string>TEXAS TRAFFIC SAFETY ACT</string>
+		</array>
+		<array>
+			<string>724</string>
+			<string>IMPLIED CONSENT</string>
+		</array>
+		<array>
+			<string>725</string>
+			<string>TRANSPORTATION OF LOOSE MATERIALS</string>
+		</array>
+		<array>
+			<string>726</string>
+			<string>TESTING AND INSPECTION OF MOTOR VEHICLES BY CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>727</string>
+			<string>MODIFICATION OF, TAMPERING WITH, AND EQUIPMENT OF MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>728</string>
+			<string>SALE OR TRANSFER OF MOTOR VEHICLES AND MASTER KEYS</string>
+		</array>
+		<array>
+			<string>729</string>
+			<string>OPERATION OF MOTOR VEHICLE BY MINOR</string>
+		</array>
+		<array>
+			<string>730</string>
+			<string>MOTOR VEHICLE RECORDS DISCLOSURE ACT</string>
+		</array>
+		<array>
+			<string>750</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>1001</string>
+			<string> ORGANIZATION OF DEPARTMENT</string>
+		</array>
+		<array>
+			<string>1002</string>
+			<string> RULES</string>
+		</array>
+		<array>
+			<string>1003</string>
+			<string> DEPARTMENT PROCEDURES</string>
+		</array>
+		<array>
+			<string>1004</string>
+			<string> PUBLIC ACCESS</string>
+		</array>
+		<array>
+			<string>1005</string>
+			<string> STANDARDS OF CONDUCT</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. PARKS AND WILDLIFE DEPARTMENT</string>
+		<array>
+			<string>11</string>
+			<string>PARKS AND WILDLIFE DEPARTMENT</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>POWERS AND DUTIES CONCERNING WILDLIFE</string>
+		</array>
+		<array>
+			<string>13</string>
+			<string>POWERS AND DUTIES CONCERNING PARKS AND OTHER RECREATIONAL AREAS</string>
+		</array>
+		<array>
+			<string>14</string>
+			<string>POWERS AND DUTIES CONCERNING WETLANDS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. PARKS</string>
+		<array>
+			<string>21</string>
+			<string>TEXAS PARK DEVELOPMENT FUND</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>STATE PARKS</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>NATIONAL PARKS, NATIONAL SEASHORES, AND OTHER FEDERAL LANDS</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>STATE ASSISTANCE FOR LOCAL PARKS</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string>WATER DISTRICT AND RIVER AUTHORITY PARKS</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>PROTECTION OF PUBLIC PARKS AND RECREATIONAL LANDS</string>
+		</array>
+		<array>
+			<string>28</string>
+			<string>TEXAS TRAILS SYSTEM</string>
+		</array>
+		<array>
+			<string>29</string>
+			<string> OFF-HIGHWAY VEHICLE TRAIL AND RECREATIONAL AREA PROGRAM</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. WATER SAFETY</string>
+		<array>
+			<string>31</string>
+			<string>WATER SAFETY</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>FLOATING CABINS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. WILDLIFE AND PLANT CONSERVATION</string>
+		<array>
+			<string>41</string>
+			<string>RECIPROCAL HUNTING AND FISHING PRIVILEGES</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>GENERAL HUNTING LICENSE</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>SPECIAL LICENSES AND PERMITS</string>
+		</array>
+		<array>
+			<string>44</string>
+			<string>GAME BREEDER'S LICENSE</string>
+		</array>
+		<array>
+			<string>45</string>
+			<string>GAME BIRD BREEDER'S LICENSE</string>
+		</array>
+		<array>
+			<string>46</string>
+			<string>FISHING LICENSES</string>
+		</array>
+		<array>
+			<string>47</string>
+			<string>COMMERCIAL FISHING LICENSES</string>
+		</array>
+		<array>
+			<string>49</string>
+			<string>FALCONRY PERMIT</string>
+		</array>
+		<array>
+			<string>50</string>
+			<string>COMBINATION HUNTING AND FISHING LICENSE</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>UNIFORM WILDLIFE REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO HUNTING</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>GAME AND NONGAME ANIMALS</string>
+		</array>
+		<array>
+			<string>64</string>
+			<string>BIRDS</string>
+		</array>
+		<array>
+			<string>65</string>
+			<string>ALLIGATORS</string>
+		</array>
+		<array>
+			<string>66</string>
+			<string> FISH AND AQUATIC PLANTS</string>
+		</array>
+		<array>
+			<string>67</string>
+			<string>NONGAME SPECIES</string>
+		</array>
+		<array>
+			<string>68</string>
+			<string>ENDANGERED SPECIES</string>
+		</array>
+		<array>
+			<string>71</string>
+			<string>LICENSES AND REGULATIONS</string>
+		</array>
+		<array>
+			<string>76</string>
+			<string>OYSTERS</string>
+		</array>
+		<array>
+			<string>77</string>
+			<string>SHRIMP</string>
+		</array>
+		<array>
+			<string>78</string>
+			<string>MUSSELS, CLAMS, AND CRABS</string>
+		</array>
+		<array>
+			<string>79</string>
+			<string>EXTENDED FISHERY JURISDICTION</string>
+		</array>
+		<array>
+			<string>81</string>
+			<string>MANAGEMENT AREAS AND PRESERVES:  GENERAL AUTHORITY</string>
+		</array>
+		<array>
+			<string>82</string>
+			<string>STATUTORY SANCTUARIES AND PRESERVES</string>
+		</array>
+		<array>
+			<string>83</string>
+			<string>FEDERAL-STATE AGREEMENTS</string>
+		</array>
+		<array>
+			<string>86</string>
+			<string>MARL, SAND, GRAVEL, SHELL, AND MUDSHELL</string>
+		</array>
+		<array>
+			<string>88</string>
+			<string>ENDANGERED PLANTS</string>
+		</array>
+		<array>
+			<string>89</string>
+			<string>ARTIFICIAL REEFS</string>
+		</array>
+		<array>
+			<string>90</string>
+			<string>ACCESS TO PROTECTED FRESHWATER AREAS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. COMPACTS</string>
+		<array>
+			<string>91</string>
+			<string>GULF STATES COMPACT</string>
+		</array>
+		<array>
+			<string>92</string>
+			<string> INTERSTATE WILDLIFE VIOLATOR COMPACT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. LOCAL AND SPECIAL LAWS</string>
+		<array>
+			<string>114</string>
+			<string>BELL COUNTY</string>
+		</array>
+		<array>
+			<string>130</string>
+			<string>CALLAHAN COUNTY</string>
+		</array>
+		<array>
+			<string>131</string>
+			<string>CAMERON COUNTY</string>
+		</array>
+		<array>
+			<string>134</string>
+			<string>CASS COUNTY</string>
+		</array>
+		<array>
+			<string>136</string>
+			<string>CHAMBERS COUNTY</string>
+		</array>
+		<array>
+			<string>143</string>
+			<string>COLLIN COUNTY</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>HARRISON COUNTY</string>
+		</array>
+		<array>
+			<string>216</string>
+			<string>HUNT COUNTY</string>
+		</array>
+		<array>
+			<string>223</string>
+			<string>JEFFERSON COUNTY</string>
+		</array>
+		<array>
+			<string>237</string>
+			<string>KLEBERG COUNTY</string>
+		</array>
+		<array>
+			<string>246</string>
+			<string>LIBERTY COUNTY</string>
+		</array>
+		<array>
+			<string>258</string>
+			<string>MARION COUNTY</string>
+		</array>
+		<array>
+			<string>272</string>
+			<string>MORRIS COUNTY</string>
+		</array>
+		<array>
+			<string>281</string>
+			<string>ORANGE COUNTY</string>
+		</array>
+		<array>
+			<string>283</string>
+			<string>PANOLA COUNTY</string>
+		</array>
+		<array>
+			<string>284</string>
+			<string> DIMMIT, EDWARDS, FRIO, KENEDY, LLANO, MAVERICK, REAL, UVALDE, AND ZAVALA COUNTIES</string>
+		</array>
+		<array>
+			<string>350</string>
+			<string> WOOD COUNTY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7, PARKS AND WILDLIFE CODE</string>
+		<array>
+			<string>355</string>
+			<string>PENALTIES FOR VIOLATIONS OF TITLE 7, PARKS AND WILDLIFE CODE</string>
+		</array>
+	</array>
+</array>
+</plist>

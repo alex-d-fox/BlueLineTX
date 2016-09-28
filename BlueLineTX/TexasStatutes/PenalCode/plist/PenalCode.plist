@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. INTRODUCTORY PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>BURDEN OF PROOF</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>MULTIPLE PROSECUTIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. GENERAL PRINCIPLES OF CRIMINAL RESPONSIBILITY</string>
+		<array>
+			<string>6</string>
+			<string>CULPABILITY GENERALLY</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>CRIMINAL RESPONSIBILITY FOR CONDUCT OF ANOTHER</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>GENERAL DEFENSES TO CRIMINAL RESPONSIBILITY</string>
+		</array>
+		<array>
+			<string>9</string>
+			<string>JUSTIFICATION EXCLUDING CRIMINAL RESPONSIBILITY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. PUNISHMENTS</string>
+		<array>
+			<string>12</string>
+			<string>PUNISHMENTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. INCHOATE OFFENSES</string>
+		<array>
+			<string>15</string>
+			<string>PREPARATORY OFFENSES</string>
+		</array>
+		<array>
+			<string>16</string>
+			<string>CRIMINAL INSTRUMENTS, INTERCEPTION OF WIRE OR ORAL COMMUNICATION, AND INSTALLATION OF TRACKING DEVICE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. OFFENSES AGAINST THE PERSON</string>
+		<array>
+			<string>19</string>
+			<string>CRIMINAL HOMICIDE</string>
+		</array>
+		<array>
+			<string>20</string>
+			<string> KIDNAPPING, UNLAWFUL RESTRAINT, ANDSMUGGLING OF PERSONS</string>
+		</array>
+		<array>
+			<string>20a</string>
+			<string>TRAFFICKING OF PERSONS</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>SEXUAL OFFENSES</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>ASSAULTIVE OFFENSES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. OFFENSES AGAINST THE FAMILY</string>
+		<array>
+			<string>25</string>
+			<string>OFFENSES AGAINST THE FAMILY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. OFFENSES AGAINST PROPERTY</string>
+		<array>
+			<string>28</string>
+			<string>ARSON, CRIMINAL MISCHIEF, AND OTHER PROPERTY DAMAGE OR DESTRUCTION</string>
+		</array>
+		<array>
+			<string>29</string>
+			<string>ROBBERY</string>
+		</array>
+		<array>
+			<string>30</string>
+			<string>BURGLARY AND CRIMINAL TRESPASS</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string>THEFT</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>FRAUD</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>COMPUTER CRIMES</string>
+		</array>
+		<array>
+			<string>33a</string>
+			<string>TELECOMMUNICATIONS CRIMES</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string>MONEY LAUNDERING</string>
+		</array>
+		<array>
+			<string>35</string>
+			<string>INSURANCE FRAUD</string>
+		</array>
+		<array>
+			<string>35a</string>
+			<string> MEDICAID FRAUD</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. OFFENSES AGAINST PUBLIC ADMINISTRATION</string>
+		<array>
+			<string>36</string>
+			<string>BRIBERY AND CORRUPT INFLUENCE</string>
+		</array>
+		<array>
+			<string>37</string>
+			<string>PERJURY AND OTHER FALSIFICATION</string>
+		</array>
+		<array>
+			<string>38</string>
+			<string>OBSTRUCTING GOVERNMENTAL OPERATION</string>
+		</array>
+		<array>
+			<string>39</string>
+			<string>ABUSE OF OFFICE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. OFFENSES AGAINST PUBLIC ORDER AND DECENCY</string>
+		<array>
+			<string>42</string>
+			<string>DISORDERLY CONDUCT AND RELATED OFFENSES</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>PUBLIC INDECENCY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10. OFFENSES AGAINST PUBLIC HEALTH, SAFETY, AND MORALS</string>
+		<array>
+			<string>46</string>
+			<string>WEAPONS</string>
+		</array>
+		<array>
+			<string>47</string>
+			<string>GAMBLING</string>
+		</array>
+		<array>
+			<string>48</string>
+			<string>CONDUCT AFFECTING PUBLIC HEALTH</string>
+		</array>
+		<array>
+			<string>49</string>
+			<string>INTOXICATION AND ALCOHOLIC BEVERAGE OFFENSES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11. ORGANIZED CRIME</string>
+		<array>
+			<string>71</string>
+			<string>ORGANIZED CRIME</string>
+		</array>
+	</array>
+</array>
+</plist>

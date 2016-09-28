@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>TrafficCode1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. GENERAL PROVISIONS RELATING TO CARRIERS</string>
+		<array>
+			<string>TrafficCode5</string>
+			<string>DUTIES AND LIABILITIES OF COMMON CARRIERS</string>
+		</array>
+		<array>
+			<string>TrafficCode6</string>
+			<string>SALE OF UNCLAIMED GOODS</string>
+		</array>
+		<array>
+			<string>TrafficCode7</string>
+			<string>CONNECTING CARRIERS</string>
+		</array>
+		<array>
+			<string>TrafficCode8</string>
+			<string>PROTECTING MOVEMENT OF COMMERCE</string>
+		</array>
+		<array>
+			<string>TrafficCode20</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. AVIATION</string>
+		<array>
+			<string>TrafficCode21</string>
+			<string>ADMINISTRATION OF AERONAUTICS</string>
+		</array>
+		<array>
+			<string>TrafficCode22</string>
+			<string>COUNTY AND MUNICIPAL AIRPORTS</string>
+		</array>
+		<array>
+			<string>TrafficCode23</string>
+			<string>AIRPORT SECURITY PERSONNEL</string>
+		</array>
+		<array>
+			<string>TrafficCode24</string>
+			<string>OPERATION OF AIRCRAFT</string>
+		</array>
+		<array>
+			<string>TrafficCode25</string>
+			<string>NOTICE OF CONSTRUCTION OF WIRELESS COMMUNICATION FACILITY</string>
+		</array>
+		<array>
+			<string>TrafficCode26</string>
+			<string>AQUATIC AIRCRAFT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. NAVIGATION</string>
+		<array>
+			<string>TrafficCode51</string>
+			<string>TEXAS COASTAL WATERWAY ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode52</string>
+			<string>TEXAS DEEPWATER PORT PROCEDURES ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode54</string>
+			<string>HARBOR AND PORT FACILITIES IN CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode55</string>
+			<string>FUNDING OF PORT SECURITY, PROJECTS, AND STUDIES</string>
+		</array>
+		<array>
+			<string>TrafficCode60</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode61</string>
+			<string>COMPULSORY PILOTAGE</string>
+		</array>
+		<array>
+			<string>TrafficCode62</string>
+			<string>NAVIGATION DISTRICT PILOT BOARDS</string>
+		</array>
+		<array>
+			<string>TrafficCode63</string>
+			<string>PILOT BOARDS</string>
+		</array>
+		<array>
+			<string>TrafficCode64</string>
+			<string>RATES OF PILOTAGE </string>
+		</array>
+		<array>
+			<string>TrafficCode65</string>
+			<string>PILOTS FOR MATAGORDA AND LAVACA BAYS</string>
+		</array>
+		<array>
+			<string>TrafficCode66</string>
+			<string>HOUSTON PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode67</string>
+			<string>GALVESTON COUNTY PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode68</string>
+			<string>BRAZORIA COUNTY PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode69</string>
+			<string>JEFFERSON AND ORANGE COUNTY PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode70</string>
+			<string>PORT OF CORPUS CHRISTI PILOTS LICENSING AND REGULATORY ACT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. RAILROADS</string>
+		<array>
+			<string>TrafficCode81</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode91</string>
+			<string>RAIL FACILITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode111</string>
+			<string>REGULATION BY TEXAS DEPARTMENT OF TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>TrafficCode112</string>
+			<string>POWERS AND DUTIES OF RAILROADS</string>
+		</array>
+		<array>
+			<string>TrafficCode131</string>
+			<string>MISCELLANEOUS RAILWAYS</string>
+		</array>
+		<array>
+			<string>TrafficCode171</string>
+			<string>FREIGHT RAIL DISTRICTS</string>
+		</array>
+		<array>
+			<string>TrafficCode172</string>
+			<string>RURAL RAIL TRANSPORTATION DISTRICTS</string>
+		</array>
+		<array>
+			<string>TrafficCode173</string>
+			<string>INTERMUNICIPAL COMMUTER RAIL DISTRICTS</string>
+		</array>
+		<array>
+			<string>TrafficCode174</string>
+			<string>COMMUTER RAIL DISTRICTS</string>
+		</array>
+		<array>
+			<string>TrafficCode191</string>
+			<string>STRUCTURES AND MATERIALS NEAR RAILROAD OR RAILWAY</string>
+		</array>
+		<array>
+			<string>TrafficCode192</string>
+			<string>ENGINEER&apos;S OPERATOR PERMIT AND TRAIN OPERATOR PERMIT</string>
+		</array>
+		<array>
+			<string>TrafficCode193</string>
+			<string>HAZARDOUS MATERIALS</string>
+		</array>
+		<array>
+			<string>TrafficCode194</string>
+			<string>PROVISION OF UTILITIES BY CERTAIN RAILWAY CORPORATIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode199</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. ROADWAYS</string>
+		<array>
+			<string>TrafficCode201</string>
+			<string>GENERAL PROVISIONS AND ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>TrafficCode202</string>
+			<string>CONTROL OF TRANSPORTATION ASSETS</string>
+		</array>
+		<array>
+			<string>TrafficCode203</string>
+			<string>MODERNIZATION OF STATE HIGHWAYS, CONTROLLED ACCESS HIGHWAYS</string>
+		</array>
+		<array>
+			<string>TrafficCode204</string>
+			<string>TRAVEL INFORMATION</string>
+		</array>
+		<array>
+			<string>TrafficCode221</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode222</string>
+			<string>FUNDING AND FEDERAL AID</string>
+		</array>
+		<array>
+			<string>TrafficCode223</string>
+			<string>BIDS AND CONTRACTS FOR HIGHWAY PROJECTS</string>
+		</array>
+		<array>
+			<string>TrafficCode224</string>
+			<string>ACQUISITION, CONSTRUCTION, AND MAINTENANCE</string>
+		</array>
+		<array>
+			<string>TrafficCode225</string>
+			<string>STATE HIGHWAY NAMES</string>
+		</array>
+		<array>
+			<string>TrafficCode226</string>
+			<string>EMERGENCY HIGHWAY CALL BOX SYSTEM</string>
+		</array>
+		<array>
+			<string>TrafficCode228</string>
+			<string>STATE HIGHWAY TOLL PROJECTS</string>
+		</array>
+		<array>
+			<string>TrafficCode250</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode251</string>
+			<string>GENERAL COUNTY AUTHORITY RELATING TO ROADS AND BRIDGES</string>
+		</array>
+		<array>
+			<string>TrafficCode252</string>
+			<string>SYSTEMS OF COUNTY ROAD ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>TrafficCode253</string>
+			<string>COUNTY IMPROVEMENT OF SUBDIVISION ROADS</string>
+		</array>
+		<array>
+			<string>TrafficCode254</string>
+			<string>DRAINAGE ON PUBLIC ROADS</string>
+		</array>
+		<array>
+			<string>TrafficCode255</string>
+			<string>COUNTY REGULATION OF SIGHT DISTANCES</string>
+		</array>
+		<array>
+			<string>TrafficCode256</string>
+			<string>FUNDS AND TAXES FOR COUNTY ROADS</string>
+		</array>
+		<array>
+			<string>TrafficCode257</string>
+			<string>ROAD DISTRICTS</string>
+		</array>
+		<array>
+			<string>TrafficCode258</string>
+			<string>CLARIFICATION OF EXISTENCE OF PUBLIC INTEREST IN ROAD BY ADOPTION OF COUNTY ROAD MAP</string>
+		</array>
+		<array>
+			<string>TrafficCode280</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode281</string>
+			<string>ACQUISITION OF PUBLIC INTEREST IN PRIVATE ROAD BY CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>TrafficCode282</string>
+			<string>TOLL UNDERPASS OR TUNNEL IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>TrafficCode283</string>
+			<string>CAUSEWAYS, BRIDGES, AND TUNNELS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>TrafficCode284</string>
+			<string>CAUSEWAYS, BRIDGES, TUNNELS, TURNPIKES, FERRIES, AND HIGHWAYS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>TrafficCode285</string>
+			<string>COUNTY REGULATION OF ROADSIDE VENDOR AND SOLICITOR IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>TrafficCode286</string>
+			<string>ROAD LAWS RELATING TO SPECIFIC COUNTIES</string>
+		</array>
+		<array>
+			<string>TrafficCode311</string>
+			<string>GENERAL PROVISIONS RELATING TO MUNICIPAL STREETS</string>
+		</array>
+		<array>
+			<string>TrafficCode312</string>
+			<string>CONTROL OF HIGHWAY ASSETS</string>
+		</array>
+		<array>
+			<string>TrafficCode313</string>
+			<string>STREET IMPROVEMENTS AND ASSESSMENTS IN CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode314</string>
+			<string>PURCHASE OR CONDEMNATION OF PROPERTY FOR HIGHWAYS BY CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode315</string>
+			<string>ARTIFICIAL LIGHTING</string>
+		</array>
+		<array>
+			<string>TrafficCode316</string>
+			<string>USE OF MUNICIPAL STREETS AND SIDEWALKS FOR PUBLIC CONVENIENCES AND AMENITIES OR FOR PRIVATE USES</string>
+		</array>
+		<array>
+			<string>TrafficCode317</string>
+			<string>ELIMINATION OF GRADE-LEVEL STREET CROSSINGS BY RAILROAD LINES IN MUNICIPALITIES WITH POPULATION OF MORE THAN 100,000</string>
+		</array>
+		<array>
+			<string>TrafficCode341</string>
+			<string>PRIVATE CAUSEWAYS</string>
+		</array>
+		<array>
+			<string>TrafficCode342</string>
+			<string>FERRIES AND CERTAIN TOLL BRIDGES</string>
+		</array>
+		<array>
+			<string>TrafficCode361</string>
+			<string>STATE HIGHWAY TURNPIKE PROJECTS</string>
+		</array>
+		<array>
+			<string>TrafficCode362</string>
+			<string>TURNPIKES AND TOLL PROJECTS</string>
+		</array>
+		<array>
+			<string>TrafficCode363</string>
+			<string>COUNTY TOLL BRIDGES</string>
+		</array>
+		<array>
+			<string>TrafficCode364</string>
+			<string>TOLL BRIDGES IN COUNTIES BORDERING THE RIO GRANDE</string>
+		</array>
+		<array>
+			<string>TrafficCode365</string>
+			<string>ROAD DISTRICT TOLL ROADS</string>
+		</array>
+		<array>
+			<string>TrafficCode366</string>
+			<string>REGIONAL TOLLWAY AUTHORITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode367</string>
+			<string>MUNICIPAL TOLL BRIDGES OVER RIO GRANDE</string>
+		</array>
+		<array>
+			<string>TrafficCode370</string>
+			<string>REGIONAL MOBILITY AUTHORITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode371</string>
+			<string>COMPREHENSIVE DEVELOPMENT AGREEMENTS FOR HIGHWAY TOLL PROJECTS</string>
+		</array>
+		<array>
+			<string>TrafficCode372</string>
+			<string>PROVISIONS APPLICABLE TO MORE THAN ONE TYPE OF TOLL PROJECT</string>
+		</array>
+		<array>
+			<string>TrafficCode373</string>
+			<string>TOLL PROJECTS LOCATED IN TERRITORY OF LOCAL TOLL PROJECT ENTITY</string>
+		</array>
+		<array>
+			<string>TrafficCode391</string>
+			<string>HIGHWAY BEAUTIFICATION ON INTERSTATE AND PRIMARY SYSTEMS AND CERTAIN ROADS</string>
+		</array>
+		<array>
+			<string>TrafficCode392</string>
+			<string>HIGHWAY BEAUTIFICATION ON STATE HIGHWAY RIGHT-OF-WAY</string>
+		</array>
+		<array>
+			<string>TrafficCode393</string>
+			<string>OUTDOOR SIGNS ON PUBLIC RIGHTS-OF-WAY</string>
+		</array>
+		<array>
+			<string>TrafficCode394</string>
+			<string>REGULATION OF OUTDOOR SIGNS ON RURAL ROADS</string>
+		</array>
+		<array>
+			<string>TrafficCode395</string>
+			<string>OUTDOOR SIGNS AND MOTORIST INFORMATION PANELS ON TOLL ROADS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>TrafficCode396</string>
+			<string>AUTOMOBILE WRECKING AND SALVAGE YARDS</string>
+		</array>
+		<array>
+			<string>TrafficCode397</string>
+			<string>AUTOMOBILE WRECKING AND SALVAGE YARDS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>TrafficCode430</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode431</string>
+			<string>TEXAS TRANSPORTATION CORPORATION ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode441</string>
+			<string>ROAD UTILITY DISTRICTS</string>
+		</array>
+		<array>
+			<string>TrafficCode451</string>
+			<string>METROPOLITAN RAPID TRANSIT AUTHORITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode452</string>
+			<string>REGIONAL TRANSPORTATION AUTHORITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode453</string>
+			<string>MUNICIPAL TRANSIT DEPARTMENTS</string>
+		</array>
+		<array>
+			<string>TrafficCode454</string>
+			<string>MUNICIPAL MASS TRANSPORTATION SYSTEMS</string>
+		</array>
+		<array>
+			<string>TrafficCode455</string>
+			<string>GENERAL POWERS AND DUTIES OF DEPARTMENT OF TRANSPORTATION REGARDING MASS TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>TrafficCode456</string>
+			<string>STATE FINANCING OF PUBLIC TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>TrafficCode457</string>
+			<string>COUNTY MASS TRANSIT AUTHORITY</string>
+		</array>
+		<array>
+			<string>TrafficCode458</string>
+			<string>RURAL AND URBAN TRANSIT DISTRICTS</string>
+		</array>
+		<array>
+			<string>TrafficCode460</string>
+			<string>COORDINATED COUNTY TRANSPORTATION AUTHORITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode461</string>
+			<string>STATEWIDE COORDINATION OF PUBLIC TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>TrafficCode462</string>
+			<string>SOUTHERN HIGH-SPEED RAIL COMPACT</string>
+		</array>
+		<array>
+			<string>TrafficCode471</string>
+			<string>RAILROAD AND ROADWAY CROSSINGS</string>
+		</array>
+		<array>
+			<string>TrafficCode472</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. VEHICLES AND TRAFFIC</string>
+		<array>
+			<string>TrafficCode501</string>
+			<string>CERTIFICATE OF TITLE ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode502</string>
+			<string>REGISTRATION OF VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode503</string>
+			<string>DEALER&apos;S AND MANUFACTURER&apos;S VEHICLE LICENSE PLATES</string>
+		</array>
+		<array>
+			<string>TrafficCode504</string>
+			<string>LICENSE PLATES</string>
+		</array>
+		<array>
+			<string>TrafficCode520</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode521</string>
+			<string>DRIVER&apos;S LICENSES AND CERTIFICATES</string>
+		</array>
+		<array>
+			<string>TrafficCode521a</string>
+			<string>ELECTION IDENTIFICATION CERTIFICATE</string>
+		</array>
+		<array>
+			<string>TrafficCode522</string>
+			<string>COMMERCIAL DRIVER&apos;S LICENSES</string>
+		</array>
+		<array>
+			<string>TrafficCode523</string>
+			<string>DRIVER&apos;S LICENSE COMPACT OF 1993</string>
+		</array>
+		<array>
+			<string>TrafficCode524</string>
+			<string>ADMINISTRATIVE SUSPENSION OF DRIVER&apos;S LICENSE FOR FAILURE TO PASS TEST FOR INTOXICATION</string>
+		</array>
+		<array>
+			<string>TrafficCode525</string>
+			<string>MOTORCYCLE AND BICYCLE AWARENESS</string>
+		</array>
+		<array>
+			<string>TrafficCode541</string>
+			<string>DEFINITIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode542</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode543</string>
+			<string>ARREST AND PROSECUTION OF VIOLATORS</string>
+		</array>
+		<array>
+			<string>TrafficCode544</string>
+			<string>TRAFFIC SIGNS, SIGNALS, AND MARKINGS</string>
+		</array>
+		<array>
+			<string>TrafficCode545</string>
+			<string>OPERATION AND MOVEMENT OF VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode546</string>
+			<string>OPERATION OF AUTHORIZED EMERGENCY VEHICLES AND CERTAIN OTHER VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode547</string>
+			<string>VEHICLE EQUIPMENT</string>
+		</array>
+		<array>
+			<string>TrafficCode548</string>
+			<string>COMPULSORY INSPECTION OF VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode550</string>
+			<string>ACCIDENTS AND ACCIDENT REPORTS</string>
+		</array>
+		<array>
+			<string>TrafficCode551</string>
+			<string>OPERATION OF BICYCLES, MOPEDS, AND PLAY VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode552</string>
+			<string>PEDESTRIANS</string>
+		</array>
+		<array>
+			<string>TrafficCode553</string>
+			<string>ENACTMENT AND ENFORCEMENT OF CERTAIN TRAFFIC LAWS IN CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode600</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode601</string>
+			<string>MOTOR VEHICLE SAFETY RESPONSIBILITY ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode621</string>
+			<string>GENERAL PROVISIONS RELATING TO VEHICLE SIZE AND WEIGHT</string>
+		</array>
+		<array>
+			<string>TrafficCode622</string>
+			<string>SPECIAL PROVISIONS AND EXCEPTIONS FOR OVERSIZE OR OVERWEIGHT VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode623</string>
+			<string>PERMITS FOR OVERSIZE OR OVERWEIGHT VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode642</string>
+			<string>IDENTIFYING MARKINGS ON COMMERCIAL MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode643</string>
+			<string>MOTOR CARRIER REGISTRATION</string>
+		</array>
+		<array>
+			<string>TrafficCode644</string>
+			<string>COMMERCIAL MOTOR VEHICLE SAFETY STANDARDS</string>
+		</array>
+		<array>
+			<string>TrafficCode645</string>
+			<string>SINGLE STATE REGISTRATION</string>
+		</array>
+		<array>
+			<string>TrafficCode646</string>
+			<string>MOTOR TRANSPORTATION BROKERS</string>
+		</array>
+		<array>
+			<string>TrafficCode647</string>
+			<string>MOTOR TRANSPORTATION OF MIGRANT AGRICULTURAL WORKERS</string>
+		</array>
+		<array>
+			<string>TrafficCode648</string>
+			<string>FOREIGN COMMERCIAL MOTOR TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>TrafficCode661</string>
+			<string>PROTECTIVE HEADGEAR FOR MOTORCYCLE OPERATORS AND PASSENGERS</string>
+		</array>
+		<array>
+			<string>TrafficCode662</string>
+			<string>MOTORCYCLE OPERATOR TRAINING AND SAFETY</string>
+		</array>
+		<array>
+			<string>TrafficCode663</string>
+			<string>CERTAIN OFF-HIGHWAY VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode680</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode681</string>
+			<string>PRIVILEGED PARKING</string>
+		</array>
+		<array>
+			<string>TrafficCode682</string>
+			<string>ADMINISTRATIVE ADJUDICATION OF VEHICLE PARKING AND STOPPING OFFENSES</string>
+		</array>
+		<array>
+			<string>TrafficCode683</string>
+			<string>ABANDONED MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode686</string>
+			<string>VALET PARKING SERVICES</string>
+		</array>
+		<array>
+			<string>TrafficCode701</string>
+			<string>COUNTY TRAFFIC OFFICERS</string>
+		</array>
+		<array>
+			<string>TrafficCode702</string>
+			<string>CONTRACTS FOR ENFORCEMENT OF CERTAIN ARREST WARRANTS</string>
+		</array>
+		<array>
+			<string>TrafficCode703</string>
+			<string>NONRESIDENT VIOLATOR COMPACT OF 1977</string>
+		</array>
+		<array>
+			<string>TrafficCode705</string>
+			<string>ALLOWING DANGEROUS DRIVER TO BORROW MOTOR VEHICLE</string>
+		</array>
+		<array>
+			<string>TrafficCode706</string>
+			<string>DENIAL OF RENEWAL OF LICENSE FOR FAILURE TO APPEAR</string>
+		</array>
+		<array>
+			<string>TrafficCode707</string>
+			<string>PHOTOGRAPHIC TRAFFIC SIGNAL ENFORCEMENT SYSTEM</string>
+		</array>
+		<array>
+			<string>TrafficCode708</string>
+			<string>DRIVER RESPONSIBILITY PROGRAM</string>
+		</array>
+		<array>
+			<string>TrafficCode720</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode721</string>
+			<string>INSCRIPTION REQUIRED ON STATE, MUNICIPAL, AND COUNTY MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode722</string>
+			<string>AUTOMOBILE CLUB SERVICES</string>
+		</array>
+		<array>
+			<string>TrafficCode723</string>
+			<string>TEXAS TRAFFIC SAFETY ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode724</string>
+			<string>IMPLIED CONSENT</string>
+		</array>
+		<array>
+			<string>TrafficCode725</string>
+			<string>TRANSPORTATION OF LOOSE MATERIALS</string>
+		</array>
+		<array>
+			<string>TrafficCode726</string>
+			<string>TESTING AND INSPECTION OF MOTOR VEHICLES BY CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>TrafficCode727</string>
+			<string>MODIFICATION OF, TAMPERING WITH, AND EQUIPMENT OF MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>TrafficCode728</string>
+			<string>SALE OR TRANSFER OF MOTOR VEHICLES AND MASTER KEYS</string>
+		</array>
+		<array>
+			<string>TrafficCode729</string>
+			<string>OPERATION OF MOTOR VEHICLE BY MINOR</string>
+		</array>
+		<array>
+			<string>TrafficCode730</string>
+			<string>MOTOR VEHICLE RECORDS DISCLOSURE ACT</string>
+		</array>
+		<array>
+			<string>TrafficCode750</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>TrafficCode1001</string>
+			<string>ORGANIZATION OF DEPARTMENT</string>
+		</array>
+		<array>
+			<string>TrafficCode1002</string>
+			<string>RULES</string>
+		</array>
+		<array>
+			<string>TrafficCode1003</string>
+			<string>DEPARTMENT PROCEDURES</string>
+		</array>
+		<array>
+			<string>TrafficCode1004</string>
+			<string>PUBLIC ACCESS</string>
+		</array>
+		<array>
+			<string>TrafficCode1005</string>
+			<string>STANDARDS OF CONDUCT</string>
+		</array>
+	</array>
+</array>
+</plist>

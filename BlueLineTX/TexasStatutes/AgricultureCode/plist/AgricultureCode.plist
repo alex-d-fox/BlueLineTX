@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>STATE AGRICULTURAL POLICY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. DEPARTMENT OF AGRICULTURE</string>
+		<array>
+			<string>11</string>
+			<string>ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>POWERS AND DUTIES</string>
+		</array>
+		<array>
+			<string>12a</string>
+			<string> GENERAL LICENSING PROVISIONS</string>
+		</array>
+		<array>
+			<string>13</string>
+			<string>WEIGHTS AND MEASURES</string>
+		</array>
+		<array>
+			<string>14</string>
+			<string>REGULATION OF PUBLIC GRAIN WAREHOUSE OPERATORS</string>
+		</array>
+		<array>
+			<string>14a</string>
+			<string>OTHER PUBLIC WAREHOUSE OPERATORS</string>
+		</array>
+		<array>
+			<string>15</string>
+			<string>FARMERS MARKET NUTRITION PROGRAMS</string>
+		</array>
+		<array>
+			<string>16</string>
+			<string> FUEL ETHANOL, RENEWABLE METHANE, BIODIESEL, AND RENEWABLE DIESEL PRODUCTION INCENTIVE PROGRAM</string>
+		</array>
+		<array>
+			<string>17</string>
+			<string> SALE AND REGULATION OF CERTAIN FUEL MIXTURES</string>
+		</array>
+		<array>
+			<string>18</string>
+			<string>CERTIFICATION AND AGRICULTURAL PRODUCT STANDARDS</string>
+		</array>
+		<array>
+			<string>19</string>
+			<string> CITRUS BUDWOOD AND CITRUS NURSERY STOCK CERTIFICATION PROGRAMS</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>GRANT PROGRAM FOR DISTRIBUTION OF SURPLUS AGRICULTURAL PRODUCTS</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string> AGRICULTURAL BIOMASS AND LANDFILL DIVERSIONINCENTIVE PROGRAM</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string> CHILDREN'S ACCESS TO NUTRITIOUS FOOD PROGRAM</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. AGRICULTURAL RESEARCH AND PROMOTION</string>
+		<array>
+			<string>41</string>
+			<string>COMMODITY PRODUCERS BOARDS</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string> FOOD AND FIBERS RESEARCH GRANT PROGRAM</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>COUNTY AND RAILWAY AGRICULTURAL EXPERIMENT FARMS AND STATIONS AND COUNTY DEMONSTRATION WORK</string>
+		</array>
+		<array>
+			<string>44</string>
+			<string>AGRICULTURAL DIVERSIFICATION AND MICROENTERPRISE SUPPORT PROGRAMS</string>
+		</array>
+		<array>
+			<string>44a</string>
+			<string>URBAN FARM MICROENTERPRISE SUPPORT PROGRAM</string>
+		</array>
+		<array>
+			<string>45</string>
+			<string> TEXAS-ISRAEL EXCHANGE RESEARCH PROGRAM</string>
+		</array>
+		<array>
+			<string>46</string>
+			<string>"GO TEXAN" PARTNER PROGRAM</string>
+		</array>
+		<array>
+			<string>47</string>
+			<string>TEXAS OYSTER AND SHRIMP PROGRAM</string>
+		</array>
+		<array>
+			<string>48</string>
+			<string>AGRICULTURAL PROJECTS IN CERTAIN URBAN SCHOOLS</string>
+		</array>
+		<array>
+			<string>49</string>
+			<string>AGRICULTURAL TECHNOLOGY PROGRAM</string>
+		</array>
+		<array>
+			<string>50</string>
+			<string>AGRICULTURE AND WILDLIFE RESEARCH PROGRAM</string>
+		</array>
+		<array>
+			<string>50a</string>
+			<string>TEXAS FOOD FOR HEALTH ADVISORY COUNCIL</string>
+		</array>
+		<array>
+			<string>50b</string>
+			<string> TEXAS WINE INDUSTRY DEVELOPMENT ACT</string>
+		</array>
+		<array>
+			<string>50c</string>
+			<string> TEXAS ORGANIC AGRICULTURAL INDUSTRY ADVISORY BOARD</string>
+		</array>
+		<array>
+			<string>50d</string>
+			<string> TEXAS BIOENERGY POLICY COUNCIL AND TEXAS BIOENERGY RESEARCH COMMITTEE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. AGRICULTURAL ORGANIZATIONS</string>
+		<array>
+			<string>51</string>
+			<string>FARMERS' COOPERATIVE SOCIETIES</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>COOPERATIVE MARKETING ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>MUTUAL LOAN CORPORATIONS</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string>COOPERATIVE CREDIT ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string>AGRICULTURAL FINANCE CORPORATIONS</string>
+		</array>
+		<array>
+			<string>58</string>
+			<string>AGRICULTURAL FINANCE AUTHORITY</string>
+		</array>
+		<array>
+			<string>59</string>
+			<string>FARM AND RANCH FINANCE PROGRAM</string>
+		</array>
+		<array>
+			<string>60</string>
+			<string>TEXAS AGRICULTURAL DEVELOPMENT DISTRICTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. PRODUCTION, PROCESSING, AND SALE OF HORTICULTURAL PRODUCTS</string>
+		<array>
+			<string>61</string>
+			<string>INSPECTION, LABELING, AND SALE OF AGRICULTURAL AND VEGETABLE SEED</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>SEED AND PLANT CERTIFICATION</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>COMMERCIAL FERTILIZER</string>
+		</array>
+		<array>
+			<string>64</string>
+			<string>ARBITRATION OF SEED PERFORMANCE DISPUTES</string>
+		</array>
+		<array>
+			<string>71</string>
+			<string>GENERAL CONTROL</string>
+		</array>
+		<array>
+			<string>72</string>
+			<string>MEXICAN FRUIT FLY CONTROL</string>
+		</array>
+		<array>
+			<string>73</string>
+			<string>CITRUS DISEASES AND PESTS</string>
+		</array>
+		<array>
+			<string>74</string>
+			<string>COTTON DISEASES AND PESTS</string>
+		</array>
+		<array>
+			<string>76</string>
+			<string>PESTICIDE AND HERBICIDE REGULATION</string>
+		</array>
+		<array>
+			<string>77</string>
+			<string>FIRE ANT CONTROL</string>
+		</array>
+		<array>
+			<string>78</string>
+			<string>NOXIOUS WEED CONTROL DISTRICTS</string>
+		</array>
+		<array>
+			<string>79</string>
+			<string> INTERSTATE PEST CONTROL COMPACT</string>
+		</array>
+		<array>
+			<string>80</string>
+			<string> OFFICIAL CITRUS PRODUCERS' PEST AND DISEASEMANAGEMENT CORPORATION</string>
+		</array>
+		<array>
+			<string>91</string>
+			<string>GENERAL GRADES AND PACKS OF FRUITS AND VEGETABLES</string>
+		</array>
+		<array>
+			<string>92</string>
+			<string>TOMATO STANDARDIZATION AND INSPECTION</string>
+		</array>
+		<array>
+			<string>93</string>
+			<string>CITRUS FRUIT STANDARDIZATION AND INSPECTION</string>
+		</array>
+		<array>
+			<string>94</string>
+			<string>CITRUS FRUIT MATURITY STANDARDS</string>
+		</array>
+		<array>
+			<string>95</string>
+			<string>CITRUS FRUIT COLORING MATTER</string>
+		</array>
+		<array>
+			<string>101</string>
+			<string>HANDLING AND MARKETING OF PERISHABLE COMMODITIES</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>HANDLING AND MARKETING OF CITRUS FRUIT</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>PRODUCE RECOVERY FUND</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string>GINNING AND COMPRESSING COTTON</string>
+		</array>
+		<array>
+			<string>125</string>
+			<string>AGRICULTURAL HAZARD COMMUNICATION ACT</string>
+		</array>
+		<array>
+			<string>128</string>
+			<string>AGRICULTURAL CHEMICAL AND SEED LIENS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. PRODUCTION, PROCESSING, AND SALE OF ANIMAL PRODUCTS</string>
+		<array>
+			<string>131</string>
+			<string>BEES AND HONEY</string>
+		</array>
+		<array>
+			<string>132</string>
+			<string>EGGS</string>
+		</array>
+		<array>
+			<string>134</string>
+			<string>REGULATION OF AQUACULTURE</string>
+		</array>
+		<array>
+			<string>141</string>
+			<string>COMMERCIAL FEED</string>
+		</array>
+		<array>
+			<string>142</string>
+			<string>ESTRAYS</string>
+		</array>
+		<array>
+			<string>143</string>
+			<string>FENCES;  RANGE RESTRICTIONS</string>
+		</array>
+		<array>
+			<string>144</string>
+			<string>MARKS AND BRANDS</string>
+		</array>
+		<array>
+			<string>146</string>
+			<string>SALE AND SHIPMENT OF LIVESTOCK</string>
+		</array>
+		<array>
+			<string>147</string>
+			<string>LIVESTOCK COMMISSION MERCHANTS</string>
+		</array>
+		<array>
+			<string>148</string>
+			<string>SLAUGHTERING OF LIVESTOCK</string>
+		</array>
+		<array>
+			<string>149</string>
+			<string>SALE OF HORSEMEAT FOR HUMAN CONSUMPTION</string>
+		</array>
+		<array>
+			<string>150</string>
+			<string>IMPORTED MEAT</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string>SALE OF BISON AND BUFFALO PRODUCTS</string>
+		</array>
+		<array>
+			<string>152</string>
+			<string>PREVENTION AND INVESTIGATION OF HORSE THEFT</string>
+		</array>
+		<array>
+			<string>161</string>
+			<string>GENERAL DISEASE AND PEST CONTROL</string>
+		</array>
+		<array>
+			<string>162</string>
+			<string>TUBERCULOSIS CONTROL</string>
+		</array>
+		<array>
+			<string>163</string>
+			<string>BRUCELLOSIS CONTROL</string>
+		</array>
+		<array>
+			<string>164</string>
+			<string>SCABIES CONTROL</string>
+		</array>
+		<array>
+			<string>165</string>
+			<string>CONTROL OF DISEASES OF SWINE</string>
+		</array>
+		<array>
+			<string>167</string>
+			<string>TICK ERADICATION</string>
+		</array>
+		<array>
+			<string>168</string>
+			<string>PULLORUM DISEASE AND FOWL TYPHOID CONTROL</string>
+		</array>
+		<array>
+			<string>181</string>
+			<string>PAYMENT FOR RAW MILK</string>
+		</array>
+		<array>
+			<string>188</string>
+			<string>LIENS FOR ANIMAL FEED</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. SOIL AND WATER CONSERVATION</string>
+		<array>
+			<string>201</string>
+			<string>SOIL AND WATER CONSERVATION</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>WATER SUPPLY ENHANCEMENT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. PROTECTION AND PRESERVATION OF AGRICULTURAL OPERATIONS</string>
+		<array>
+			<string>251</string>
+			<string>EFFECT OF NUISANCE ACTIONS AND GOVERNMENTAL REQUIREMENTS ON PREEXISTING AGRICULTURAL OPERATIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. WEATHER AND CLIMATE</string>
+		<array>
+			<string>301</string>
+			<string>WEATHER MODIFICATION AND CONTROL</string>
+		</array>
+		<array>
+			<string>302</string>
+			<string>WEATHER MODIFICATION AND CONTROL GRANT PROGRAM</string>
+		</array>
+	</array>
+</array>
+</plist>

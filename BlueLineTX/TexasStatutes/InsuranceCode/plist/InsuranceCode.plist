@@ -1,0 +1,1490 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 2. TEXAS DEPARTMENT OF INSURANCE</string>
+		<array>
+			<string>30</string>
+			<string> GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string>ORGANIZATION OF DEPARTMENT</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>ADMINISTRATIVE POWERS AND DUTIES</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>STANDARDS OF CONDUCT</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string>IMMUNITY FROM LIABILITY</string>
+		</array>
+		<array>
+			<string>35</string>
+			<string> ELECTRONIC TRANSACTIONS</string>
+		</array>
+		<array>
+			<string>36</string>
+			<string>DEPARTMENT RULES AND PROCEDURES</string>
+		</array>
+		<array>
+			<string>37</string>
+			<string>RATEMAKING AND POLICY FORM PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>38</string>
+			<string>DATA COLLECTION AND REPORTS</string>
+		</array>
+		<array>
+			<string>39</string>
+			<string>PUBLIC ACCESS</string>
+		</array>
+		<array>
+			<string>40</string>
+			<string>DUTIES OF STATE OFFICE OF ADMINISTRATIVE HEARINGS AND COMMISSIONER IN CERTAIN PROCEEDINGS;  RATE SETTING PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>81</string>
+			<string>GENERAL PROVISIONS REGARDING DISCIPLINE AND ENFORCEMENT</string>
+		</array>
+		<array>
+			<string>82</string>
+			<string>SANCTIONS</string>
+		</array>
+		<array>
+			<string>83</string>
+			<string>EMERGENCY CEASE AND DESIST ORDERS</string>
+		</array>
+		<array>
+			<string>84</string>
+			<string>ADMINISTRATIVE PENALTIES</string>
+		</array>
+		<array>
+			<string>85</string>
+			<string>GENERAL CRIMINAL ENFORCEMENT</string>
+		</array>
+		<array>
+			<string>86</string>
+			<string> REVOCATION OR MODIFICATION OF CERTIFICATE OF AUTHORITY; AUTHORITY TO BRING CERTAIN ACTIONS</string>
+		</array>
+		<array>
+			<string>101</string>
+			<string>UNAUTHORIZED INSURANCE</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>CHARITABLE GIFT ANNUITIES</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string> CONSOLIDATED INSURANCE PROGRAMS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. DEPARTMENT FUNDS, FEES, AND TAXES</string>
+		<array>
+			<string>201</string>
+			<string>COLLECTION OF REVENUE AND ADMINISTRATION OF FUNDS</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>FEES</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>GENERAL PROVISIONS RELATING TO TAXES</string>
+		</array>
+		<array>
+			<string>221</string>
+			<string>PROPERTY AND CASUALTY INSURANCE PREMIUM TAX</string>
+		</array>
+		<array>
+			<string>222</string>
+			<string>LIFE, HEALTH, AND ACCIDENT INSURANCE PREMIUM TAX</string>
+		</array>
+		<array>
+			<string>223</string>
+			<string>TITLE INSURANCE PREMIUM TAX</string>
+		</array>
+		<array>
+			<string>223a</string>
+			<string> CAPTIVE INSURANCE PREMIUM TAX</string>
+		</array>
+		<array>
+			<string>224</string>
+			<string>RECIPROCAL AND INTERINSURANCE EXCHANGE PREMIUM TAX</string>
+		</array>
+		<array>
+			<string>225</string>
+			<string>SURPLUS LINES INSURANCE PREMIUM TAX</string>
+		</array>
+		<array>
+			<string>226</string>
+			<string>UNAUTHORIZED AND INDEPENDENTLY PROCURED INSURANCE PREMIUM TAX</string>
+		</array>
+		<array>
+			<string>227</string>
+			<string>DISPOSITION OF PROCEEDS OF CERTAIN PREMIUM TAXES</string>
+		</array>
+		<array>
+			<string>228</string>
+			<string> PREMIUM TAX CREDIT FOR CERTAIN INVESTMENTS</string>
+		</array>
+		<array>
+			<string>229</string>
+			<string> COOPERATIVE AGREEMENTS WITH OTHER STATES</string>
+		</array>
+		<array>
+			<string>251</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>252</string>
+			<string>FIRE AND ALLIED LINES INSURANCE</string>
+		</array>
+		<array>
+			<string>253</string>
+			<string>CASUALTY INSURANCE AND FIDELITY, GUARANTY, AND SURETY BOND INSURANCE</string>
+		</array>
+		<array>
+			<string>254</string>
+			<string>MOTOR VEHICLE INSURANCE</string>
+		</array>
+		<array>
+			<string>255</string>
+			<string>WORKERS' COMPENSATION INSURANCE</string>
+		</array>
+		<array>
+			<string>256</string>
+			<string>AIRCRAFT INSURANCE</string>
+		</array>
+		<array>
+			<string>257</string>
+			<string>LIFE, HEALTH, AND ACCIDENT INSURANCE</string>
+		</array>
+		<array>
+			<string>258</string>
+			<string>HEALTH MAINTENANCE ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>259</string>
+			<string>THIRD-PARTY ADMINISTRATORS</string>
+		</array>
+		<array>
+			<string>260</string>
+			<string>NONPROFIT LEGAL SERVICES CORPORATIONS</string>
+		</array>
+		<array>
+			<string>261</string>
+			<string>TEXAS INSURANCE EXCHANGE</string>
+		</array>
+		<array>
+			<string>271</string>
+			<string>TITLE INSURANCE MAINTENANCE FEES</string>
+		</array>
+		<array>
+			<string>281</string>
+			<string>RETALIATORY PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4.  REGULATION OF SOLVENCY</string>
+		<array>
+			<string>401</string>
+			<string>AUDITS AND EXAMINATIONS</string>
+		</array>
+		<array>
+			<string>402</string>
+			<string> DISCLOSURE OF MATERIAL TRANSACTIONS</string>
+		</array>
+		<array>
+			<string>403</string>
+			<string> DIVIDENDS</string>
+		</array>
+		<array>
+			<string>404</string>
+			<string> FINANCIAL CONDITION</string>
+		</array>
+		<array>
+			<string>406</string>
+			<string>SPECIAL DEPOSITS REQUIRED UNDER POTENTIALLYHAZARDOUS CONDITIONS</string>
+		</array>
+		<array>
+			<string>421</string>
+			<string> RESERVES IN GENERAL</string>
+		</array>
+		<array>
+			<string>422</string>
+			<string> ASSET PROTECTION ACT</string>
+		</array>
+		<array>
+			<string>423</string>
+			<string> TRANSACTIONS WITH MONEY AND OTHER ASSETS</string>
+		</array>
+		<array>
+			<string>424</string>
+			<string> INVESTMENTS FOR CERTAIN INSURERS</string>
+		</array>
+		<array>
+			<string>425</string>
+			<string> RESERVES AND INVESTMENTS FOR LIFE INSURANCECOMPANIES AND RELATED ENTITIES</string>
+		</array>
+		<array>
+			<string>426</string>
+			<string> RESERVES FOR WORKERS' COMPENSATION INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>427</string>
+			<string> SUBORDINATED INDEBTEDNESS</string>
+		</array>
+		<array>
+			<string>441</string>
+			<string> SUPERVISION AND CONSERVATORSHIP</string>
+		</array>
+		<array>
+			<string>443</string>
+			<string> INSURER RECEIVERSHIP ACT</string>
+		</array>
+		<array>
+			<string>444</string>
+			<string>AGENCY CONTRACTS WITH CERTAIN INSURERS</string>
+		</array>
+		<array>
+			<string>461</string>
+			<string> GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>462</string>
+			<string> TEXAS PROPERTY AND CASUALTY INSURANCE GUARANTY ASSOCIATION</string>
+		</array>
+		<array>
+			<string>463</string>
+			<string> TEXAS LIFE AND HEALTH INSURANCE GUARANTY ASSOCIATION</string>
+		</array>
+		<array>
+			<string>464</string>
+			<string> UNAUTHORIZED INSURANCE GUARANTY FUND ACT</string>
+		</array>
+		<array>
+			<string>481</string>
+			<string> VOLUNTARY DEPOSITS</string>
+		</array>
+		<array>
+			<string>491</string>
+			<string> GENERAL REINSURANCE REQUIREMENTS</string>
+		</array>
+		<array>
+			<string>492</string>
+			<string> REINSURANCE FOR LIFE, HEALTH, AND ACCIDENT INSURANCE COMPANIES AND RELATED ENTITIES</string>
+		</array>
+		<array>
+			<string>493</string>
+			<string> REINSURANCE FOR PROPERTY ANDCASUALTY INSURERS</string>
+		</array>
+		<array>
+			<string>494</string>
+			<string> REINSURANCE OF AIRCRAFT AND SPACE EQUIPMENT RISKS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. PROTECTION OF CONSUMER INTERESTS</string>
+		<array>
+			<string>501</string>
+			<string>OFFICE OF PUBLIC INSURANCE COUNSEL</string>
+		</array>
+		<array>
+			<string>521</string>
+			<string>CONSUMER INFORMATION AND COMPLAINTS</string>
+		</array>
+		<array>
+			<string>522</string>
+			<string>CONSUMER INFORMATION IN SPANISH</string>
+		</array>
+		<array>
+			<string>524</string>
+			<string> HEALTH COVERAGE AWARENESS AND EDUCATION PROGRAM</string>
+		</array>
+		<array>
+			<string>524.v2</string>
+			<string> TEXLINK TO HEALTH COVERAGE PROGRAM</string>
+		</array>
+		<array>
+			<string>541</string>
+			<string>UNFAIR METHODS OF COMPETITION AND UNFAIR OR DECEPTIVE ACTS OR PRACTICES</string>
+		</array>
+		<array>
+			<string>542</string>
+			<string>PROCESSING AND SETTLEMENT OF CLAIMS</string>
+		</array>
+		<array>
+			<string>543</string>
+			<string>PROHIBITED PRACTICES RELATED TO POLICY OR CERTIFICATE OF MEMBERSHIP</string>
+		</array>
+		<array>
+			<string>544</string>
+			<string>PROHIBITED DISCRIMINATION</string>
+		</array>
+		<array>
+			<string>545</string>
+			<string>HIV TESTING</string>
+		</array>
+		<array>
+			<string>546</string>
+			<string>USE OF GENETIC TESTING INFORMATION</string>
+		</array>
+		<array>
+			<string>547</string>
+			<string>FALSE ADVERTISING BY UNAUTHORIZED INSURERS</string>
+		</array>
+		<array>
+			<string>548</string>
+			<string>INSURER INSIDER TRADING AND PROXY REGULATION</string>
+		</array>
+		<array>
+			<string>549</string>
+			<string>PROHIBITED PRACTICES RELATING TO PROPERTY INSURANCE</string>
+		</array>
+		<array>
+			<string>550</string>
+			<string>PROHIBITED PRACTICES RELATING TO PAYMENTS</string>
+		</array>
+		<array>
+			<string>551</string>
+			<string> PRACTICES RELATING TO DECLINATION, CANCELLATION, AND NONRENEWAL OF INSURANCE POLICIES</string>
+		</array>
+		<array>
+			<string>552</string>
+			<string>ILLEGAL PRICING PRACTICES</string>
+		</array>
+		<array>
+			<string>553</string>
+			<string>ENFORCEMENT OF INSURANCE POLICIES REGARDING HOLOCAUST VICTIMS</string>
+		</array>
+		<array>
+			<string>554</string>
+			<string>BURDEN OF PROOF AND PLEADING</string>
+		</array>
+		<array>
+			<string>555</string>
+			<string>FAILURE TO SATISFY JUDGMENT</string>
+		</array>
+		<array>
+			<string>556</string>
+			<string>UNFAIR METHODS OF COMPETITION AND UNFAIR PRACTICES BY FINANCIAL INSTITUTIONS</string>
+		</array>
+		<array>
+			<string>557</string>
+			<string>INSURED PROPERTY SUBJECT TO SECURITY INTEREST</string>
+		</array>
+		<array>
+			<string>558</string>
+			<string>REFUND OF UNEARNED PREMIUM</string>
+		</array>
+		<array>
+			<string>559</string>
+			<string> CREDIT SCORING AND CREDIT INFORMATION</string>
+		</array>
+		<array>
+			<string>560</string>
+			<string> PROHIBITED RATES</string>
+		</array>
+		<array>
+			<string>562</string>
+			<string>UNFAIR METHODS OF COMPETITION ANDUNFAIR OR DECEPTIVE ACTS OR PRACTICES REGARDINGDISCOUNT HEALTH CARE PROGRAMS</string>
+		</array>
+		<array>
+			<string>563</string>
+			<string> PRACTICES RELATING TO CLAIMS REPORTING</string>
+		</array>
+		<array>
+			<string>601</string>
+			<string>PRIVACY</string>
+		</array>
+		<array>
+			<string>602</string>
+			<string>PRIVACY OF HEALTH INFORMATION</string>
+		</array>
+		<array>
+			<string>651</string>
+			<string>FINANCING OF INSURANCE PREMIUMS</string>
+		</array>
+		<array>
+			<string>701</string>
+			<string>INSURANCE FRAUD INVESTIGATIONS</string>
+		</array>
+		<array>
+			<string>703</string>
+			<string>COVERED ENTITY'S ANTIFRAUD ACTION</string>
+		</array>
+		<array>
+			<string>704</string>
+			<string>ANTIFRAUD PROGRAMS</string>
+		</array>
+		<array>
+			<string>705</string>
+			<string>MISREPRESENTATIONS BY POLICYHOLDERS</string>
+		</array>
+		<array>
+			<string>706</string>
+			<string> IDENTITY THEFT INSURANCE</string>
+		</array>
+		<array>
+			<string>751</string>
+			<string> MARKET CONDUCT SURVEILLANCE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. ORGANIZATION OF INSURERS AND RELATED ENTITIES</string>
+		<array>
+			<string>801</string>
+			<string>CERTIFICATE OF AUTHORITY</string>
+		</array>
+		<array>
+			<string>802</string>
+			<string>ANNUAL STATEMENT</string>
+		</array>
+		<array>
+			<string>803</string>
+			<string>LOCATION OF BOOKS, RECORDS, ACCOUNTS, AND OFFICES OUTSIDE OF THIS STATE</string>
+		</array>
+		<array>
+			<string>804</string>
+			<string>SERVICE OF PROCESS</string>
+		</array>
+		<array>
+			<string>805</string>
+			<string>DIRECTORS, OFFICERS, AND OTHER INTERESTED PERSONS</string>
+		</array>
+		<array>
+			<string>821</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>822</string>
+			<string>GENERAL INCORPORATION AND REGULATORY REQUIREMENTS FOR INSURANCE COMPANIES OTHER THAN LIFE, HEALTH, OR ACCIDENT INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>823</string>
+			<string>INSURANCE HOLDING COMPANY SYSTEMS</string>
+		</array>
+		<array>
+			<string>824</string>
+			<string>MERGER AND CONSOLIDATION OF STOCK INSURANCE CORPORATIONS</string>
+		</array>
+		<array>
+			<string>825</string>
+			<string>CONVERSION OF STOCK INSURANCE COMPANY TO MUTUAL INSURANCE COMPANY</string>
+		</array>
+		<array>
+			<string>826</string>
+			<string>CONVERSION OF MUTUAL INSURANCE COMPANY TO STOCK INSURANCE COMPANY</string>
+		</array>
+		<array>
+			<string>827</string>
+			<string>WITHDRAWAL AND RESTRICTION PLANS</string>
+		</array>
+		<array>
+			<string>828</string>
+			<string>PURCHASE OF STOCK FOR TOTAL ASSUMPTION REINSURANCE</string>
+		</array>
+		<array>
+			<string>829</string>
+			<string> CONVERSION OF RECIPROCAL OR INTERINSURANCE EXCHANGE TO STOCK COMPANY THROUGH CREATION OF A MUTUAL HOLDING COMPANY</string>
+		</array>
+		<array>
+			<string>841</string>
+			<string>LIFE, HEALTH, OR ACCIDENT INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>842</string>
+			<string>GROUP HOSPITAL SERVICE CORPORATIONS</string>
+		</array>
+		<array>
+			<string>843</string>
+			<string>HEALTH MAINTENANCE ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>844</string>
+			<string>CERTIFICATION OF CERTAIN NONPROFIT HEALTH CORPORATIONS</string>
+		</array>
+		<array>
+			<string>845</string>
+			<string>STATEWIDE RURAL HEALTH CARE SYSTEM</string>
+		</array>
+		<array>
+			<string>846</string>
+			<string>MULTIPLE EMPLOYER WELFARE ARRANGEMENTS</string>
+		</array>
+		<array>
+			<string>847</string>
+			<string> HEALTH CARE QUALITY ASSURANCE</string>
+		</array>
+		<array>
+			<string>848</string>
+			<string> HEALTH CARE COLLABORATIVES</string>
+		</array>
+		<array>
+			<string>861</string>
+			<string>GENERAL CASUALTY COMPANIES</string>
+		</array>
+		<array>
+			<string>862</string>
+			<string>FIRE AND MARINE INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>881</string>
+			<string>STATEWIDE MUTUAL ASSESSMENT COMPANIES</string>
+		</array>
+		<array>
+			<string>882</string>
+			<string>MUTUAL LIFE INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>883</string>
+			<string>MUTUAL INSURANCE COMPANIES OTHER THAN MUTUAL LIFE INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>884</string>
+			<string>STIPULATED PREMIUM INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>885</string>
+			<string>FRATERNAL BENEFIT SOCIETIES</string>
+		</array>
+		<array>
+			<string>886</string>
+			<string>LOCAL MUTUAL AID ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>887</string>
+			<string>PROVISIONS APPLICABLE TO CERTAIN MUTUAL ASSESSMENT COMPANIES</string>
+		</array>
+		<array>
+			<string>888</string>
+			<string>BURIAL ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>911</string>
+			<string>FARM MUTUAL INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>912</string>
+			<string>COUNTY MUTUAL INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>941</string>
+			<string>LLOYD'S PLAN</string>
+		</array>
+		<array>
+			<string>942</string>
+			<string>RECIPROCAL AND INTERINSURANCE EXCHANGES</string>
+		</array>
+		<array>
+			<string>961</string>
+			<string>NONPROFIT LEGAL SERVICES CORPORATIONS</string>
+		</array>
+		<array>
+			<string>962</string>
+			<string> JOB PROTECTION INSURANCE</string>
+		</array>
+		<array>
+			<string>963</string>
+			<string> AUTOMOBILE CLUBS</string>
+		</array>
+		<array>
+			<string>964</string>
+			<string> CAPTIVE INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>981</string>
+			<string>SURPLUS LINES INSURANCE</string>
+		</array>
+		<array>
+			<string>982</string>
+			<string>FOREIGN AND ALIEN INSURANCE COMPANIES</string>
+		</array>
+		<array>
+			<string>983</string>
+			<string>REDOMESTICATION OF INSURERS AND HEALTH MAINTENANCE ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>984</string>
+			<string>MEXICAN CASUALTY INSURANCE COMPANIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. LIFE INSURANCE AND ANNUITIES</string>
+		<array>
+			<string>1101</string>
+			<string>LIFE INSURANCE</string>
+		</array>
+		<array>
+			<string>1102</string>
+			<string>PAYMENT OF INSURANCE BENEFITS IN CURRENCY</string>
+		</array>
+		<array>
+			<string>1103</string>
+			<string>LIFE INSURANCE POLICY BENEFICIARIES</string>
+		</array>
+		<array>
+			<string>1104</string>
+			<string>LIFE INSURANCE AND ANNUITY CONTRACTS ISSUED TO CERTAIN PERSONS</string>
+		</array>
+		<array>
+			<string>1105</string>
+			<string>STANDARD NONFORFEITURE LAW FOR LIFE INSURANCE</string>
+		</array>
+		<array>
+			<string>1106</string>
+			<string>REINSTATEMENT OF CERTAIN LIFE INSURANCE POLICIES</string>
+		</array>
+		<array>
+			<string>1107</string>
+			<string>STANDARD NONFORFEITURE LAW FOR CERTAIN ANNUITIES</string>
+		</array>
+		<array>
+			<string>1108</string>
+			<string>BENEFITS EXEMPT FROM SEIZURE</string>
+		</array>
+		<array>
+			<string>1109</string>
+			<string>UNCLAIMED LIFE INSURANCE AND ANNUITY CONTRACT PROCEEDS</string>
+		</array>
+		<array>
+			<string>1110</string>
+			<string>INTEREST RATES ON CERTAIN POLICY LOANS</string>
+		</array>
+		<array>
+			<string>1111</string>
+			<string> ACCELERATED TERM LIFE INSURANCE BENEFITS</string>
+		</array>
+		<array>
+			<string>1111a</string>
+			<string> LIFE SETTLEMENT CONTRACTS</string>
+		</array>
+		<array>
+			<string>1112</string>
+			<string> CERTAIN GUARANTEES IN LIFE INSURANCE POLICIES</string>
+		</array>
+		<array>
+			<string>1113</string>
+			<string> MANAGEMENT, CONTROL, AND DISPOSITION OF CERTAIN LIFE INSURANCE AND ANNUITY CONTRACTS</string>
+		</array>
+		<array>
+			<string>1114</string>
+			<string> REPLACEMENT OF CERTAIN LIFE INSURANCE POLICIES AND ANNUITIES</string>
+		</array>
+		<array>
+			<string>1115</string>
+			<string> SUITABILITY OF CERTAIN ANNUITY TRANSACTIONS</string>
+		</array>
+		<array>
+			<string>1116</string>
+			<string> REQUIRED PROVISIONS FOR ANNUITY CONTRACT</string>
+		</array>
+		<array>
+			<string>1117</string>
+			<string> USE OF SENIOR-SPECIFIC CERTIFICATIONS ORPROFESSIONAL DESIGNATIONS</string>
+		</array>
+		<array>
+			<string>1131</string>
+			<string>GROUP LIFE INSURANCE AND WHOLESALE, FRANCHISE, OR EMPLOYEE LIFE INSURANCE</string>
+		</array>
+		<array>
+			<string>1132</string>
+			<string>NOTICE OF RATE INCREASE FOR GROUP LIFE INSURANCE</string>
+		</array>
+		<array>
+			<string>1151</string>
+			<string>INDUSTRIAL LIFE INSURANCE</string>
+		</array>
+		<array>
+			<string>1152</string>
+			<string>SEPARATE ACCOUNTS, VARIABLE CONTRACTS, AND RELATED PRODUCTS</string>
+		</array>
+		<array>
+			<string>1153</string>
+			<string>CREDIT LIFE INSURANCE AND CREDIT ACCIDENT AND HEALTH INSURANCE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. HEALTH INSURANCE AND OTHER HEALTH COVERAGES</string>
+		<array>
+			<string>1201</string>
+			<string>ACCIDENT AND HEALTH INSURANCE</string>
+		</array>
+		<array>
+			<string>1202</string>
+			<string>CANCELLATION AND CONTINUATION OF POLICIES IN GENERAL</string>
+		</array>
+		<array>
+			<string>1203</string>
+			<string>COORDINATION OF BENEFITS PROVISIONS</string>
+		</array>
+		<array>
+			<string>1204</string>
+			<string>PROCEDURES FOR PAYMENT OF CERTAIN HEALTH AND ACCIDENT INSURANCE POLICY OR PLAN BENEFITS</string>
+		</array>
+		<array>
+			<string>1205</string>
+			<string>CERTIFICATION OF CREDITABLE COVERAGE</string>
+		</array>
+		<array>
+			<string>1206</string>
+			<string>DENIAL OF HEALTH BENEFIT PLAN ENROLLMENT BASED ON EXISTING COVERAGE PROHIBITED</string>
+		</array>
+		<array>
+			<string>1207</string>
+			<string>ENROLLMENT OF MEDICAL ASSISTANCE RECIPIENTS AND CHILDREN ELIGIBLE FOR STATE CHILD HEALTH PLAN</string>
+		</array>
+		<array>
+			<string>1208</string>
+			<string>IDENTITY OF AVAILABLE EMPLOYEE OF HEALTH BENEFIT PLAN ISSUER</string>
+		</array>
+		<array>
+			<string>1210</string>
+			<string>NOTICE OF CERTAIN POLICY PROVISIONS</string>
+		</array>
+		<array>
+			<string>1211</string>
+			<string> WAIVERS REGARDING CERTAIN FEDERAL HEALTH PLANS</string>
+		</array>
+		<array>
+			<string>1213</string>
+			<string> ELECTRONIC HEALTH CARE TRANSACTIONS</string>
+		</array>
+		<array>
+			<string>1214</string>
+			<string> ADVERTISING FOR CERTAIN HEALTH BENEFITS</string>
+		</array>
+		<array>
+			<string>1215</string>
+			<string> REPORTING OF CLAIMS INFORMATION</string>
+		</array>
+		<array>
+			<string>1216</string>
+			<string> OUT-OF-COUNTRY COVERAGE PROHIBITED</string>
+		</array>
+		<array>
+			<string>1217</string>
+			<string> STANDARD REQUEST FORM FOR PRIOR AUTHORIZATION OF HEALTH CARE SERVICES</string>
+		</array>
+		<array>
+			<string>1221</string>
+			<string> EMPLOYER CONTRIBUTIONS TO INDIVIDUAL HEALTH INSURANCE POLICIES</string>
+		</array>
+		<array>
+			<string>1251</string>
+			<string>GROUP AND BLANKET HEALTH INSURANCE</string>
+		</array>
+		<array>
+			<string>1252</string>
+			<string>DISCONTINUATION AND REPLACEMENT OF GROUP AND GROUP-TYPE HEALTH BENEFIT PLAN COVERAGE</string>
+		</array>
+		<array>
+			<string>1253</string>
+			<string>CANCELLATION OF GROUP COVERAGE IN CERTAIN CIRCUMSTANCES</string>
+		</array>
+		<array>
+			<string>1254</string>
+			<string>NOTICE OF RATE INCREASE FOR GROUP HEALTH AND ACCIDENT COVERAGE</string>
+		</array>
+		<array>
+			<string>1271</string>
+			<string>BENEFITS PROVIDED BY HEALTH MAINTENANCE ORGANIZATIONS;  EVIDENCE OF COVERAGE;  CHARGES</string>
+		</array>
+		<array>
+			<string>1272</string>
+			<string>DELEGATION OF CERTAIN FUNCTIONS BY HEALTH MAINTENANCE ORGANIZATION</string>
+		</array>
+		<array>
+			<string>1273</string>
+			<string>POINT-OF-SERVICE PLANS</string>
+		</array>
+		<array>
+			<string>1274</string>
+			<string> ELECTRONIC TRANSMISSION OF ELIGIBILITY AND PAYMENT STATUS</string>
+		</array>
+		<array>
+			<string>1301</string>
+			<string>PREFERRED PROVIDER BENEFIT PLANS</string>
+		</array>
+		<array>
+			<string>1305</string>
+			<string> WORKERS' COMPENSATION HEALTH CARE NETWORKS</string>
+		</array>
+		<array>
+			<string>1351</string>
+			<string>HOME HEALTH SERVICES</string>
+		</array>
+		<array>
+			<string>1352</string>
+			<string>BRAIN INJURY</string>
+		</array>
+		<array>
+			<string>1353</string>
+			<string>IMMUNIZATION OR VACCINATION PROTOCOLS UNDER MANAGED CARE PLANS</string>
+		</array>
+		<array>
+			<string>1354</string>
+			<string>ELIGIBILITY FOR BENEFITS FOR ALZHEIMER'S DISEASE</string>
+		</array>
+		<array>
+			<string>1355</string>
+			<string>BENEFITS FOR CERTAIN MENTAL DISORDERS</string>
+		</array>
+		<array>
+			<string>1356</string>
+			<string>LOW-DOSE MAMMOGRAPHY</string>
+		</array>
+		<array>
+			<string>1357</string>
+			<string>MASTECTOMY</string>
+		</array>
+		<array>
+			<string>1358</string>
+			<string>DIABETES</string>
+		</array>
+		<array>
+			<string>1359</string>
+			<string>FORMULAS FOR INDIVIDUALS WITH PHENYLKETONURIA OR OTHER HERITABLE DISEASES</string>
+		</array>
+		<array>
+			<string>1360</string>
+			<string>DIAGNOSIS AND TREATMENT AFFECTING TEMPOROMANDIBULAR JOINT</string>
+		</array>
+		<array>
+			<string>1361</string>
+			<string>DETECTION AND PREVENTION OF OSTEOPOROSIS</string>
+		</array>
+		<array>
+			<string>1362</string>
+			<string>CERTAIN TESTS FOR DETECTION OF PROSTATE CANCER</string>
+		</array>
+		<array>
+			<string>1363</string>
+			<string>CERTAIN TESTS FOR DETECTION OF COLORECTAL CANCER</string>
+		</array>
+		<array>
+			<string>1364</string>
+			<string>COVERAGE PROVISIONS RELATING TO HIV, AIDS, OR HIV-RELATED ILLNESSES</string>
+		</array>
+		<array>
+			<string>1365</string>
+			<string>LOSS OR IMPAIRMENT OF SPEECH OR HEARING</string>
+		</array>
+		<array>
+			<string>1366</string>
+			<string>BENEFITS RELATED TO FERTILITY AND CHILDBIRTH</string>
+		</array>
+		<array>
+			<string>1367</string>
+			<string>COVERAGE OF CHILDREN</string>
+		</array>
+		<array>
+			<string>1368</string>
+			<string>AVAILABILITY OF CHEMICAL DEPENDENCY COVERAGE</string>
+		</array>
+		<array>
+			<string>1369</string>
+			<string>BENEFITS RELATED TO PRESCRIPTION DRUGS AND DEVICES AND RELATED SERVICES</string>
+		</array>
+		<array>
+			<string>1370</string>
+			<string> CERTAIN TESTS FOR DETECTION OF HUMAN PAPILLOMAVIRUS AND CERVICAL CANCER</string>
+		</array>
+		<array>
+			<string>1371</string>
+			<string> COVERAGE FOR CERTAIN PROSTHETIC DEVICES, ORTHOTIC DEVICES, AND RELATED SERVICES</string>
+		</array>
+		<array>
+			<string>1376</string>
+			<string> CERTAIN TESTS FOR EARLY DETECTION OF CARDIOVASCULAR DISEASE</string>
+		</array>
+		<array>
+			<string>1377</string>
+			<string> COVERAGE FOR CERTAIN AMINO ACID-BASED ELEMENTAL FORMULAS</string>
+		</array>
+		<array>
+			<string>1379</string>
+			<string> COVERAGE FOR ROUTINE PATIENT CARE COSTS FOR ENROLLEES PARTICIPATING IN CERTAIN CLINICAL TRIALS</string>
+		</array>
+		<array>
+			<string>1425</string>
+			<string> APPLICATION OF SUBTITLE TO CERTAIN COVERAGE</string>
+		</array>
+		<array>
+			<string>1451</string>
+			<string>ACCESS TO CERTAIN PRACTITIONERS AND FACILITIES</string>
+		</array>
+		<array>
+			<string>1452</string>
+			<string>PHYSICIAN AND PROVIDER CREDENTIALS</string>
+		</array>
+		<array>
+			<string>1453</string>
+			<string>DISCLOSURE OF REIMBURSEMENT GUIDELINES UNDER MANAGED CARE PLAN</string>
+		</array>
+		<array>
+			<string>1454</string>
+			<string>EQUAL HEALTH CARE FOR WOMEN</string>
+		</array>
+		<array>
+			<string>1455</string>
+			<string>TELEMEDICINE AND TELEHEALTH</string>
+		</array>
+		<array>
+			<string>1456</string>
+			<string> DISCLOSURE OF PROVIDER STATUS</string>
+		</array>
+		<array>
+			<string>1457</string>
+			<string> PROVISIONAL CREDENTIALING STATUS</string>
+		</array>
+		<array>
+			<string>1458</string>
+			<string> PROVIDER NETWORK CONTRACT ARRANGEMENTS</string>
+		</array>
+		<array>
+			<string>1460</string>
+			<string>STANDARDS REQUIRED REGARDING CERTAIN PHYSICIAN RANKINGS BY HEALTH BENEFIT PLANS</string>
+		</array>
+		<array>
+			<string>1467</string>
+			<string>OUT-OF-NETWORK CLAIM DISPUTE RESOLUTION</string>
+		</array>
+		<array>
+			<string>1501</string>
+			<string>HEALTH INSURANCE PORTABILITY AND AVAILABILITY ACT</string>
+		</array>
+		<array>
+			<string>1502</string>
+			<string>HEALTH BENEFIT PLANS FOR CHILDREN</string>
+		</array>
+		<array>
+			<string>1503</string>
+			<string>COVERAGE OF CERTAIN STUDENTS</string>
+		</array>
+		<array>
+			<string>1504</string>
+			<string>MEDICAL CHILD SUPPORT</string>
+		</array>
+		<array>
+			<string>1505</string>
+			<string>GROUP HEALTH INSURANCE PLANS FOR PERSONS 65 YEARS OF AGE OR OLDER</string>
+		</array>
+		<array>
+			<string>1506</string>
+			<string> TEXAS HEALTH INSURANCE POOL</string>
+		</array>
+		<array>
+			<string>1507</string>
+			<string> CONSUMER CHOICE OF BENEFITS PLANS</string>
+		</array>
+		<array>
+			<string>1508</string>
+			<string> HEALTHY TEXAS PROGRAM</string>
+		</array>
+		<array>
+			<string>1550</string>
+			<string> CERTAIN REQUIREMENTS FOR INSURERS CONTRACTING WITH GOVERNMENTAL ENTITIES</string>
+		</array>
+		<array>
+			<string>1551</string>
+			<string>TEXAS EMPLOYEES GROUP BENEFITS ACT</string>
+		</array>
+		<array>
+			<string>1552</string>
+			<string>GROUP LONG-TERM CARE INSURANCE FOR STATE EMPLOYEES</string>
+		</array>
+		<array>
+			<string>1560</string>
+			<string> DELIVERY OF PRESCRIPTION DRUGS BY MAIL</string>
+		</array>
+		<array>
+			<string>1575</string>
+			<string>TEXAS PUBLIC SCHOOL EMPLOYEES GROUP BENEFITS PROGRAM</string>
+		</array>
+		<array>
+			<string>1576</string>
+			<string>GROUP LONG-TERM CARE INSURANCE FOR PUBLIC SCHOOL EMPLOYEES</string>
+		</array>
+		<array>
+			<string>1578</string>
+			<string>PURCHASE OF INSURANCE BY ASSOCIATION OF TEACHERS AND SCHOOL ADMINISTRATORS</string>
+		</array>
+		<array>
+			<string>1579</string>
+			<string>TEXAS SCHOOL EMPLOYEES UNIFORM GROUP HEALTH COVERAGE</string>
+		</array>
+		<array>
+			<string>1581</string>
+			<string>EMPLOYER EXPENDITURES FOR SCHOOL EMPLOYEE HEALTH COVERAGE PLANS</string>
+		</array>
+		<array>
+			<string>1601</string>
+			<string>UNIFORM INSURANCE BENEFITS ACT FOR EMPLOYEES OF THE UNIVERSITY OF TEXAS SYSTEM AND THE TEXAS A&amp;M UNIVERSITY SYSTEM</string>
+		</array>
+		<array>
+			<string>1625</string>
+			<string>TRANSFER BETWEEN CERTAIN GOVERNMENTAL PROGRAMS</string>
+		</array>
+		<array>
+			<string>1651</string>
+			<string>LONG-TERM CARE BENEFIT PLANS</string>
+		</array>
+		<array>
+			<string>1652</string>
+			<string>MEDICARE SUPPLEMENT BENEFIT PLANS</string>
+		</array>
+		<array>
+			<string>1653</string>
+			<string> HIGH DEDUCTIBLE HEALTH PLAN</string>
+		</array>
+		<array>
+			<string>1660</string>
+			<string> ELECTRONIC DATA EXCHANGE</string>
+		</array>
+		<array>
+			<string>1661</string>
+			<string> INFORMATION TECHNOLOGY</string>
+		</array>
+		<array>
+			<string>1681</string>
+			<string> HEALTH CARE SHARING MINISTRIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. PROVISIONS APPLICABLE TO LIFE AND HEALTH COVERAGES</string>
+		<array>
+			<string>1701</string>
+			<string>POLICY FORMS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10.  PROPERTY AND CASUALTY INSURANCE</string>
+		<array>
+			<string>1802</string>
+			<string> PROPERTY AND CASUALTY INSURANCE INITIATIVES TASK FORCE</string>
+		</array>
+		<array>
+			<string>1803</string>
+			<string> REPORTS OF INSURANCE COVERAGE FOR STATE AGENCIES</string>
+		</array>
+		<array>
+			<string>1804</string>
+			<string> RATES AND FORMS FOR NATIONAL DEFENSE PROJECTS</string>
+		</array>
+		<array>
+			<string>1805</string>
+			<string> JOINT UNDERWRITING AND ADVISORY ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>1806</string>
+			<string> PROHIBITED PRACTICES AND REBATES RELATED TO POLICIES</string>
+		</array>
+		<array>
+			<string>1807</string>
+			<string> APPLICABILITY TO MARINE INSURANCE</string>
+		</array>
+		<array>
+			<string>1810</string>
+			<string> PROMOTIONAL EVENT PRIZE PROGRAMS</string>
+		</array>
+		<array>
+			<string>1811</string>
+			<string> CERTIFICATES OF PROPERTY AND CASUALTY INSURANCE</string>
+		</array>
+		<array>
+			<string>1812</string>
+			<string> AVAILABILITY OF SPECIMEN POLICIES</string>
+		</array>
+		<array>
+			<string>1901</string>
+			<string> PROFESSIONAL LIABILITY INSURANCE FOR PHYSICIANS AND HEALTH CARE PROVIDERS</string>
+		</array>
+		<array>
+			<string>1902</string>
+			<string> CERTAIN LIABILITY COVERAGE FOR PHYSICIANS AND HEALTH CARE PROVIDERS</string>
+		</array>
+		<array>
+			<string>1903</string>
+			<string> LOSS CONTROL INFORMATION AND SERVICES</string>
+		</array>
+		<array>
+			<string>1951</string>
+			<string> GENERAL PROVISIONS:  AUTOMOBILE INSURANCE</string>
+		</array>
+		<array>
+			<string>1952</string>
+			<string> POLICY PROVISIONS AND FORMS FORAUTOMOBILE INSURANCE</string>
+		</array>
+		<array>
+			<string>1953</string>
+			<string>RATE REGULATION AND RATEMAKING FOR AUTOMOBILE INSURANCE</string>
+		</array>
+		<array>
+			<string>2001</string>
+			<string> GENERAL PROVISIONS:  FIRE INSURANCE AND ALLIED LINES, INCLUDING RESIDENTIAL PROPERTY INSURANCE</string>
+		</array>
+		<array>
+			<string>2002</string>
+			<string> POLICY PROVISIONS AND FORMS FOR FIRE INSURANCE AND ALLIED LINES, INCLUDING RESIDENTIAL PROPERTY INSURANCE</string>
+		</array>
+		<array>
+			<string>2003</string>
+			<string> PROCEDURES FOR EVALUATING FIRE LOSS RISK</string>
+		</array>
+		<array>
+			<string>2004</string>
+			<string> RESIDENTIAL PROPERTY INSURANCE IN UNDERSERVED AREAS</string>
+		</array>
+		<array>
+			<string>2005</string>
+			<string> HOME WARRANTY AND HOMEPROTECTION INSURANCE</string>
+		</array>
+		<array>
+			<string>2006</string>
+			<string> PREMIUM RATE DISCOUNTS</string>
+		</array>
+		<array>
+			<string>2007</string>
+			<string> ASSESSMENT FOR RURAL FIRE PROTECTION</string>
+		</array>
+		<array>
+			<string>2008</string>
+			<string> COVERAGE FOR CERTAIN DAMAGETO PROPERTY BUILT WHOLLY OR PARTIALLY OVER WATER</string>
+		</array>
+		<array>
+			<string>2051</string>
+			<string> GENERAL PROVISIONS:  WORKERS' COMPENSATION INSURANCE</string>
+		</array>
+		<array>
+			<string>2052</string>
+			<string> POLICY PROVISIONS AND FORMS FOR WORKERS'COMPENSATION INSURANCE</string>
+		</array>
+		<array>
+			<string>2053</string>
+			<string> RATES FOR WORKERS' COMPENSATION INSURANCE</string>
+		</array>
+		<array>
+			<string>2054</string>
+			<string> TEXAS MUTUAL INSURANCE COMPANY</string>
+		</array>
+		<array>
+			<string>2055</string>
+			<string> GROUP PURCHASE OF WORKERS' COMPENSATIONINSURANCE COVERAGE</string>
+		</array>
+		<array>
+			<string>2101</string>
+			<string> COVERAGE FOR AIRCRAFT</string>
+		</array>
+		<array>
+			<string>2151</string>
+			<string> TEXAS AUTOMOBILE INSURANCE PLAN ASSOCIATION</string>
+		</array>
+		<array>
+			<string>2152</string>
+			<string> GROUP INSURANCE IN UNDERSERVED AREAS</string>
+		</array>
+		<array>
+			<string>2153</string>
+			<string> GROUP MARKETING OF AUTOMOBILE INSURANCE FOR PERSONS OVER 55 YEARS OF AGE</string>
+		</array>
+		<array>
+			<string>2154</string>
+			<string> VOLUNTEER FIRE DEPARTMENT MOTOR VEHICLE SELF-INSURANCE PROGRAM</string>
+		</array>
+		<array>
+			<string>2171</string>
+			<string> COMMERCIAL GROUP PROPERTY INSURANCE</string>
+		</array>
+		<array>
+			<string>2201</string>
+			<string> RISK RETENTION GROUPS AND PURCHASING GROUPS</string>
+		</array>
+		<array>
+			<string>2202</string>
+			<string> JOINT UNDERWRITING</string>
+		</array>
+		<array>
+			<string>2203</string>
+			<string> MEDICAL LIABILITY INSURANCE JOINT UNDERWRITING ASSOCIATION</string>
+		</array>
+		<array>
+			<string>2204</string>
+			<string> TEXAS INSURANCE EXCHANGE</string>
+		</array>
+		<array>
+			<string>2205</string>
+			<string> TEXAS CHILD-CARE FACILITY LIABILITY POOL</string>
+		</array>
+		<array>
+			<string>2206</string>
+			<string>RISK MANAGEMENT POOLS FOR CERTAIN EDUCATIONAL ENTITIES</string>
+		</array>
+		<array>
+			<string>2207</string>
+			<string> EXCESS LIABILITY POOLS FOR COUNTIES AND CERTAIN EDUCATIONAL ENTITIES</string>
+		</array>
+		<array>
+			<string>2208</string>
+			<string> TEXAS PUBLIC ENTITY EXCESS INSURANCE POOL</string>
+		</array>
+		<array>
+			<string>2209</string>
+			<string> TEXAS NONPROFIT ORGANIZATIONS LIABILITY POOL</string>
+		</array>
+		<array>
+			<string>2210</string>
+			<string> TEXAS WINDSTORM INSURANCE ASSOCIATION</string>
+		</array>
+		<array>
+			<string>2211</string>
+			<string> FAIR PLAN</string>
+		</array>
+		<array>
+			<string>2212</string>
+			<string> SELF-INSURANCE TRUSTS FOR HEALTH CARELIABILITY CLAIMS</string>
+		</array>
+		<array>
+			<string>2213</string>
+			<string> SELF-INSURANCE TRUSTS FOR BANKS AND SAVINGS AND LOAN ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>2251</string>
+			<string> RATES</string>
+		</array>
+		<array>
+			<string>2252</string>
+			<string> RATE ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>2253</string>
+			<string> RATING TERRITORIES</string>
+		</array>
+		<array>
+			<string>2254</string>
+			<string> PREMIUM REFUND FOR CERTAIN PERSONAL LINES</string>
+		</array>
+		<array>
+			<string>2301</string>
+			<string> POLICY FORMS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11. TITLE INSURANCE</string>
+		<array>
+			<string>2501</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2502</string>
+			<string>PROHIBITED CONDUCT</string>
+		</array>
+		<array>
+			<string>2551</string>
+			<string>TITLE INSURERS</string>
+		</array>
+		<array>
+			<string>2552</string>
+			<string>ATTORNEY'S TITLE INSURANCE COMPANIES AND TITLE ATTORNEYS</string>
+		</array>
+		<array>
+			<string>2553</string>
+			<string>FOREIGN OR ALIEN CORPORATIONS</string>
+		</array>
+		<array>
+			<string>2601</string>
+			<string>SUPERVISION, LIQUIDATION, REHABILITATION, REORGANIZATION, OR CONSERVATION OF TITLE INSURANCE COMPANIES AND AGENTS</string>
+		</array>
+		<array>
+			<string>2602</string>
+			<string>TEXAS TITLE INSURANCE GUARANTY ASSOCIATION</string>
+		</array>
+		<array>
+			<string>2651</string>
+			<string>TITLE INSURANCE AGENTS AND DIRECT OPERATIONS</string>
+		</array>
+		<array>
+			<string>2652</string>
+			<string>ESCROW OFFICERS</string>
+		</array>
+		<array>
+			<string>2701</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2702</string>
+			<string>CLOSING AND SETTLEMENT</string>
+		</array>
+		<array>
+			<string>2703</string>
+			<string>POLICY FORMS AND PREMIUM RATES</string>
+		</array>
+		<array>
+			<string>2704</string>
+			<string>ISSUANCE OF POLICY OR CONTRACT;  DETERMINATION OF INSURABILITY</string>
+		</array>
+		<array>
+			<string>2751</string>
+			<string> TITLE INSURANCE FOR PERSONALPROPERTY INTERESTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 12. OTHER COVERAGE</string>
+		<array>
+			<string>3501</string>
+			<string> CREDIT INVOLUNTARY UNEMPLOYMENT INSURANCE</string>
+		</array>
+		<array>
+			<string>3502</string>
+			<string>MORTGAGE GUARANTY INSURANCE</string>
+		</array>
+		<array>
+			<string>3503</string>
+			<string> SURETY BONDS AND RELATED INSTRUMENTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 13. REGULATION OF PROFESSIONALS</string>
+		<array>
+			<string>4001</string>
+			<string>AGENT LICENSING IN GENERAL</string>
+		</array>
+		<array>
+			<string>4002</string>
+			<string>EXAMINATION OF LICENSE APPLICANTS</string>
+		</array>
+		<array>
+			<string>4003</string>
+			<string>LICENSE EXPIRATION AND RENEWAL</string>
+		</array>
+		<array>
+			<string>4004</string>
+			<string>CONTINUING EDUCATION</string>
+		</array>
+		<array>
+			<string>4005</string>
+			<string>CONDUCT, DISCIPLINARY ACTIONS, AND SANCTIONS</string>
+		</array>
+		<array>
+			<string>4006</string>
+			<string>DISABILITY PROBATION OF AGENTS</string>
+		</array>
+		<array>
+			<string>4007</string>
+			<string> NOTICE TO DEPARTMENT BY CERTAIN PROPERTY AND CASUALTY INSURANCE COMPANIES REGARDING AGENTS</string>
+		</array>
+		<array>
+			<string>4008</string>
+			<string> AGENT CERTIFICATION AND EDUCATION PROGRAMS FOR COMPLEX INSURANCE PRODUCTS</string>
+		</array>
+		<array>
+			<string>4051</string>
+			<string>PROPERTY AND CASUALTY AGENTS</string>
+		</array>
+		<array>
+			<string>4052</string>
+			<string>LIFE AND HEALTH INSURANCE COUNSELORS</string>
+		</array>
+		<array>
+			<string>4053</string>
+			<string>MANAGING GENERAL AGENTS</string>
+		</array>
+		<array>
+			<string>4054</string>
+			<string>LIFE, ACCIDENT, AND HEALTH AGENTS</string>
+		</array>
+		<array>
+			<string>4055</string>
+			<string>SPECIALTY AGENTS</string>
+		</array>
+		<array>
+			<string>4056</string>
+			<string>NONRESIDENT AGENTS</string>
+		</array>
+		<array>
+			<string>4101</string>
+			<string>INSURANCE ADJUSTERS</string>
+		</array>
+		<array>
+			<string>4102</string>
+			<string> PUBLIC INSURANCE ADJUSTERS</string>
+		</array>
+		<array>
+			<string>4151</string>
+			<string>THIRD-PARTY ADMINISTRATORS</string>
+		</array>
+		<array>
+			<string>4152</string>
+			<string>REINSURANCE INTERMEDIARIES</string>
+		</array>
+		<array>
+			<string>4153</string>
+			<string>RISK MANAGERS</string>
+		</array>
+		<array>
+			<string>4154</string>
+			<string> NAVIGATORS FOR HEALTH BENEFIT EXCHANGES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 14.  UTILIZATION REVIEW AND INDEPENDENT REVIEW</string>
+		<array>
+			<string>4201</string>
+			<string> UTILIZATION REVIEW AGENTS</string>
+		</array>
+		<array>
+			<string>4202</string>
+			<string> INDEPENDENT REVIEW ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>4203</string>
+			<string> PROHIBITED CONSULTANT ACTIVITIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 15.  INTERSTATE INSURANCE COMPACTS</string>
+		<array>
+			<string>5001</string>
+			<string> INTERSTATE INSURANCE PRODUCT REGULATION COMPACT</string>
+		</array>
+		<array>
+			<string>5002</string>
+			<string> INTERSTATE HEALTH CARE COMPACT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 20.  REGULATION OF OTHER OCCUPATIONS</string>
+		<array>
+			<string>6001</string>
+			<string>FIRE EXTINGUISHER SERVICE AND INSTALLATION</string>
+		</array>
+		<array>
+			<string>6002</string>
+			<string> FIRE DETECTION AND ALARM DEVICE INSTALLATION</string>
+		</array>
+		<array>
+			<string>6003</string>
+			<string>FIRE PROTECTION SPRINKLER SYSTEM SERVICE AND INSTALLATION</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 21.  DISCOUNT HEALTH CARE PROGRAMS</string>
+		<array>
+			<string>7001</string>
+			<string> REGISTRATION OF DISCOUNT HEALTH CAREPROGRAM OPERATORS</string>
+		</array>
+		<array>
+			<string>7002</string>
+			<string> SUPPLEMENTAL PROVISIONS RELATING TO DISCOUNT HEALTH CARE OPERATORS</string>
+		</array>
+	</array>
+</array>
+</plist>

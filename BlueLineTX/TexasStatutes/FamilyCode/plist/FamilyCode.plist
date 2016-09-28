@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. THE MARRIAGE RELATIONSHIP</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>THE MARRIAGE RELATIONSHIP</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>MARITAL PROPERTY RIGHTS AND LIABILITIES</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>PREMARITAL AND MARITAL PROPERTY AGREEMENTS</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>HOMESTEAD RIGHTS</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string>SUIT FOR DISSOLUTION OF MARRIAGE</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>AWARD OF MARITAL PROPERTY</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>MAINTENANCE</string>
+		</array>
+		<array>
+			<string>9</string>
+			<string>POST-DECREE PROCEEDINGS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. CHILD IN RELATION TO THE FAMILY</string>
+		<array>
+			<string>31</string>
+			<string>REMOVAL OF DISABILITIES OF MINORITY</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>CONSENT TO TREATMENT OF CHILD BY NON-PARENT OR CHILD</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>NOTICE OF ABORTION</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string> AUTHORIZATION AGREEMENT FOR NONPARENT RELATIVE</string>
+		</array>
+		<array>
+			<string>41</string>
+			<string>LIABILITY OF PARENTS FOR CONDUCT OF CHILD</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>CIVIL LIABILITY FOR INTERFERENCE WITH POSSESSORY INTEREST IN CHILD</string>
+		</array>
+		<array>
+			<string>45</string>
+			<string>CHANGE OF NAME</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. JUVENILE JUSTICE CODE</string>
+		<array>
+			<string>51</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string> PROCEEDINGS BEFORE AND INCLUDING REFERRAL TO COURT</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string>PROCEEDINGS PRIOR TO JUDICIAL PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>JUDICIAL PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string>PROCEEDINGS CONCERNING CHILDREN WITH MENTAL ILLNESS OR MENTAL RETARDATION</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string>APPEAL</string>
+		</array>
+		<array>
+			<string>57</string>
+			<string>RIGHTS OF VICTIMS</string>
+		</array>
+		<array>
+			<string>58</string>
+			<string>RECORDS;  JUVENILE JUSTICE INFORMATION SYSTEM</string>
+		</array>
+		<array>
+			<string>59</string>
+			<string>PROGRESSIVE SANCTIONS MODEL</string>
+		</array>
+		<array>
+			<string>60</string>
+			<string>UNIFORM INTERSTATE COMPACT ON JUVENILES</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>RIGHTS AND RESPONSIBILITIES OF PARENTS AND OTHER ELIGIBLE PERSONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. PROTECTIVE ORDERS AND FAMILY VIOLENCE</string>
+		<array>
+			<string>71</string>
+			<string>DEFINITIONS</string>
+		</array>
+		<array>
+			<string>81</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>82</string>
+			<string>APPLYING FOR PROTECTIVE ORDER</string>
+		</array>
+		<array>
+			<string>83</string>
+			<string>TEMPORARY EX PARTE ORDERS</string>
+		</array>
+		<array>
+			<string>84</string>
+			<string>HEARING</string>
+		</array>
+		<array>
+			<string>85</string>
+			<string>ISSUANCE OF PROTECTIVE ORDER</string>
+		</array>
+		<array>
+			<string>86</string>
+			<string>LAW ENFORCEMENT DUTIES RELATING TO PROTECTIVE ORDERS</string>
+		</array>
+		<array>
+			<string>87</string>
+			<string>MODIFICATION OF PROTECTIVE ORDERS</string>
+		</array>
+		<array>
+			<string>88</string>
+			<string>UNIFORM INTERSTATE ENFORCEMENT OF PROTECTIVE ORDERS ACT</string>
+		</array>
+		<array>
+			<string>91</string>
+			<string>REPORTING FAMILY VIOLENCE</string>
+		</array>
+		<array>
+			<string>92</string>
+			<string>IMMUNITY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. THE PARENT-CHILD RELATIONSHIP AND THE SUIT AFFECTING THE PARENT-CHILD RELATIONSHIP</string>
+		<array>
+			<string>101</string>
+			<string>DEFINITIONS</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>FILING SUIT</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>VENUE AND TRANSFER OF ORIGINAL PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>104</string>
+			<string>EVIDENCE</string>
+		</array>
+		<array>
+			<string>105</string>
+			<string>SETTINGS, HEARINGS, AND ORDERS</string>
+		</array>
+		<array>
+			<string>106</string>
+			<string>COSTS AND ATTORNEY'S FEES</string>
+		</array>
+		<array>
+			<string>107</string>
+			<string>SPECIAL APPOINTMENTS AND SOCIAL STUDIES</string>
+		</array>
+		<array>
+			<string>108</string>
+			<string>CENTRAL RECORD FILE;  VITAL STATISTICS</string>
+		</array>
+		<array>
+			<string>109</string>
+			<string>APPEALS</string>
+		</array>
+		<array>
+			<string>110</string>
+			<string>COURT FEES</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string>GUIDELINES FOR POSSESSION AND CHILD SUPPORT</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string>RIGHTS AND DUTIES IN PARENT-CHILD RELATIONSHIP</string>
+		</array>
+		<array>
+			<string>152</string>
+			<string>UNIFORM CHILD CUSTODY JURISDICTION AND ENFORCEMENT ACT</string>
+		</array>
+		<array>
+			<string>153</string>
+			<string>CONSERVATORSHIP, POSSESSION, AND ACCESS</string>
+		</array>
+		<array>
+			<string>154</string>
+			<string>CHILD SUPPORT</string>
+		</array>
+		<array>
+			<string>155</string>
+			<string>CONTINUING, EXCLUSIVE JURISDICTION;  TRANSFER</string>
+		</array>
+		<array>
+			<string>156</string>
+			<string>MODIFICATION</string>
+		</array>
+		<array>
+			<string>157</string>
+			<string>ENFORCEMENT</string>
+		</array>
+		<array>
+			<string>158</string>
+			<string>WITHHOLDING FROM EARNINGS FOR CHILD SUPPORT</string>
+		</array>
+		<array>
+			<string>159</string>
+			<string>UNIFORM INTERSTATE FAMILY SUPPORT ACT</string>
+		</array>
+		<array>
+			<string>160</string>
+			<string>UNIFORM PARENTAGE ACT</string>
+		</array>
+		<array>
+			<string>161</string>
+			<string>TERMINATION OF THE PARENT-CHILD RELATIONSHIP</string>
+		</array>
+		<array>
+			<string>162</string>
+			<string>ADOPTION</string>
+		</array>
+		<array>
+			<string>201</string>
+			<string>ASSOCIATE JUDGE</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>FRIEND OF THE COURT</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>DOMESTIC RELATIONS OFFICES</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string>CHILD SUPPORT COLLECTION BY PRIVATE ENTITY</string>
+		</array>
+		<array>
+			<string>231</string>
+			<string>TITLE IV-D SERVICES</string>
+		</array>
+		<array>
+			<string>232</string>
+			<string>SUSPENSION OF LICENSE</string>
+		</array>
+		<array>
+			<string>233</string>
+			<string>CHILD SUPPORT REVIEW PROCESS TO ESTABLISH OR ENFORCE SUPPORT OBLIGATIONS</string>
+		</array>
+		<array>
+			<string>234</string>
+			<string>STATE CASE REGISTRY, DISBURSEMENT UNIT, AND DIRECTORY OF NEW HIRES</string>
+		</array>
+		<array>
+			<string>236</string>
+			<string>COMPETITIVE BIDDING FOR CHILD SUPPORT COLLECTION SERVICES</string>
+		</array>
+		<array>
+			<string>261</string>
+			<string>INVESTIGATION OF REPORT OF CHILD ABUSE OR NEGLECT</string>
+		</array>
+		<array>
+			<string>262</string>
+			<string>PROCEDURES IN SUIT BY GOVERNMENTAL ENTITY TO PROTECT HEALTH AND SAFETY OF CHILD</string>
+		</array>
+		<array>
+			<string>263</string>
+			<string> REVIEW OF PLACEMENT OF CHILDREN UNDER CARE OF DEPARTMENT OF FAMILY AND PROTECTIVE SERVICES</string>
+		</array>
+		<array>
+			<string>264</string>
+			<string>CHILD WELFARE SERVICES</string>
+		</array>
+		<array>
+			<string>265</string>
+			<string>PREVENTION AND EARLY INTERVENTION SERVICES</string>
+		</array>
+		<array>
+			<string>266</string>
+			<string> MEDICAL CARE AND EDUCATIONAL SERVICES FOR CHILDREN IN FOSTER CARE</string>
+		</array>
+	</array>
+</array>
+</plist>

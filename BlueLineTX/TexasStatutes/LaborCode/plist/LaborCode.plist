@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. PROTECTION OF LABORERS</string>
+		<array>
+			<string>21</string>
+			<string>EMPLOYMENT DISCRIMINATION</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>EMPLOYMENT DISCRIMINATION FOR PARTICIPATING IN EMERGENCY EVACUATION</string>
+		</array>
+		<array>
+			<string>51</string>
+			<string>EMPLOYMENT OF CHILDREN</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>MISCELLANEOUS RESTRICTIONS</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>PAYMENT OF WAGES</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>MINIMUM WAGE</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>ACTION ON ASSIGNMENT OF WAGES</string>
+		</array>
+		<array>
+			<string>64</string>
+			<string>REDEMPTION OF EMPLOYER'S EVIDENCES OF INDEBTEDNESS FOR WAGES</string>
+		</array>
+		<array>
+			<string>81</string>
+			<string>WORK AND FAMILY POLICIES</string>
+		</array>
+		<array>
+			<string>82</string>
+			<string>DISCHARGE OF LIABILITY UNDER CERTAIN EMPLOYEE BENEFIT PLANS</string>
+		</array>
+		<array>
+			<string>91</string>
+			<string> PROFESSIONAL EMPLOYER ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>92</string>
+			<string>TEMPORARY COMMON WORKER EMPLOYERS</string>
+		</array>
+		<array>
+			<string>93</string>
+			<string>TEMPORARY EMPLOYMENT SERVICES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. EMPLOYER-EMPLOYEE RELATIONS</string>
+		<array>
+			<string>101</string>
+			<string>LABOR ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>LABOR ARBITRATION</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>DISCLOSURE BY EMPLOYER OF INFORMATION REGARDING CERTAIN EMPLOYEES OR FORMER EMPLOYEES</string>
+		</array>
+		<array>
+			<string>104</string>
+			<string> INFORMATION REGARDING EARNED INCOME TAX CREDIT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. EMPLOYMENT SERVICES AND UNEMPLOYMENT</string>
+		<array>
+			<string>201</string>
+			<string>UNEMPLOYMENT COMPENSATION ACT--GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>TEXAS EMPLOYMENT COMMISSION</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>FINANCING AND FUNDS</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string>CONTRIBUTIONS</string>
+		</array>
+		<array>
+			<string>205</string>
+			<string>REIMBURSEMENTS</string>
+		</array>
+		<array>
+			<string>206</string>
+			<string>UNEMPLOYMENT INSURANCE COVERAGE</string>
+		</array>
+		<array>
+			<string>207</string>
+			<string>BENEFITS</string>
+		</array>
+		<array>
+			<string>208</string>
+			<string>BENEFIT CLAIMS</string>
+		</array>
+		<array>
+			<string>209</string>
+			<string>EXTENDED BENEFITS</string>
+		</array>
+		<array>
+			<string>210</string>
+			<string>BACK PAY AWARDS;  LOST OR MISPLACED WARRANTS</string>
+		</array>
+		<array>
+			<string>211</string>
+			<string>RECIPROCAL ARRANGEMENTS</string>
+		</array>
+		<array>
+			<string>212</string>
+			<string>DISPUTE RESOLUTION</string>
+		</array>
+		<array>
+			<string>213</string>
+			<string>ENFORCEMENT OF TEXAS UNEMPLOYMENT COMPENSATION ACT</string>
+		</array>
+		<array>
+			<string>214</string>
+			<string>OFFENSES, PENALTIES, AND SANCTIONS</string>
+		</array>
+		<array>
+			<string>215</string>
+			<string>SHARED WORK UNEMPLOYMENT COMPENSATION PROGRAM</string>
+		</array>
+		<array>
+			<string>301</string>
+			<string>TEXAS WORKFORCE COMMISSION</string>
+		</array>
+		<array>
+			<string>302</string>
+			<string>DIVISION OF WORKFORCE DEVELOPMENT</string>
+		</array>
+		<array>
+			<string>303</string>
+			<string>SKILLS DEVELOPMENT FUND</string>
+		</array>
+		<array>
+			<string>304</string>
+			<string>COUNSELING FOR DISPLACED HOMEMAKERS OR WORKERS</string>
+		</array>
+		<array>
+			<string>305</string>
+			<string>TEXAS CAREER OPPORTUNITY GRANT PROGRAM</string>
+		</array>
+		<array>
+			<string>306</string>
+			<string>PROJECT RIO (REINTEGRATION OF OFFENDERS)</string>
+		</array>
+		<array>
+			<string>307</string>
+			<string>EMPLOYMENT SERVICE</string>
+		</array>
+		<array>
+			<string>308</string>
+			<string>TEXANS WORK PROGRAM</string>
+		</array>
+		<array>
+			<string>309</string>
+			<string>SELF-SUFFICIENCY FUND</string>
+		</array>
+		<array>
+			<string>310</string>
+			<string>CHILD-CARE RESOURCE AND REFERRAL NETWORK</string>
+		</array>
+		<array>
+			<string>311</string>
+			<string>VOLUNTARY WORKFORCE TRAINING FOR CERTAIN STUDENTS</string>
+		</array>
+		<array>
+			<string>313</string>
+			<string> REQUIREMENTS FOR PROVIDERS OF RELATIVE CHILD CARE</string>
+		</array>
+		<array>
+			<string>314</string>
+			<string> TEXAS BACK TO WORK PROGRAM</string>
+		</array>
+		<array>
+			<string>315</string>
+			<string> ADULT EDUCATION AND LITERACY PROGRAMS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. WORKERS' COMPENSATION</string>
+		<array>
+			<string>401</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>402</string>
+			<string> OPERATION AND ADMINISTRATION OF WORKERS' COMPENSATION SYSTEM</string>
+		</array>
+		<array>
+			<string>403</string>
+			<string> DIVISION FINANCING</string>
+		</array>
+		<array>
+			<string>404</string>
+			<string> OFFICE OF INJURED EMPLOYEE COUNSEL</string>
+		</array>
+		<array>
+			<string>405</string>
+			<string>WORKERS' COMPENSATION RESEARCH</string>
+		</array>
+		<array>
+			<string>406</string>
+			<string>WORKERS' COMPENSATION INSURANCE COVERAGE</string>
+		</array>
+		<array>
+			<string>407</string>
+			<string>SELF-INSURANCE REGULATION</string>
+		</array>
+		<array>
+			<string>407a</string>
+			<string>GROUP SELF-INSURANCE COVERAGE</string>
+		</array>
+		<array>
+			<string>408</string>
+			<string>WORKERS' COMPENSATION BENEFITS</string>
+		</array>
+		<array>
+			<string>409</string>
+			<string>COMPENSATION PROCEDURES</string>
+		</array>
+		<array>
+			<string>410</string>
+			<string>ADJUDICATION OF DISPUTES</string>
+		</array>
+		<array>
+			<string>411</string>
+			<string>WORKERS' HEALTH AND SAFETY</string>
+		</array>
+		<array>
+			<string>412</string>
+			<string>STATE OFFICE OF RISK MANAGEMENT</string>
+		</array>
+		<array>
+			<string>413</string>
+			<string>MEDICAL REVIEW</string>
+		</array>
+		<array>
+			<string>414</string>
+			<string> ENFORCEMENT OF COMPLIANCE AND PRACTICE REQUIREMENTS</string>
+		</array>
+		<array>
+			<string>415</string>
+			<string>ADMINISTRATIVE VIOLATIONS</string>
+		</array>
+		<array>
+			<string>416</string>
+			<string>ACTIONS AGAINST INSURANCE CARRIER FOR BREACH OF DUTY</string>
+		</array>
+		<array>
+			<string>417</string>
+			<string>THIRD-PARTY LIABILITY</string>
+		</array>
+		<array>
+			<string>418</string>
+			<string>CRIMINAL PENALTIES</string>
+		</array>
+		<array>
+			<string>419</string>
+			<string> MISUSE OF DIVISION NAME</string>
+		</array>
+		<array>
+			<string>451</string>
+			<string>DISCRIMINATION PROHIBITED</string>
+		</array>
+		<array>
+			<string>501</string>
+			<string>WORKERS' COMPENSATION INSURANCE COVERAGE FOR STATE EMPLOYEES, INCLUDING EMPLOYEES UNDER THE DIRECTION OR CONTROL OF THE BOARD OF REGENTS OF TEXAS TECH UNIVERSITY</string>
+		</array>
+		<array>
+			<string>502</string>
+			<string> WORKERS' COMPENSATION INSURANCE COVERAGE FOR EMPLOYEES OF THE TEXAS A&amp;M UNIVERSITY SYSTEM AND EMPLOYEES OF INSTITUTIONS OF THE TEXAS A&amp;M UNIVERSITY SYSTEM</string>
+		</array>
+		<array>
+			<string>503</string>
+			<string> WORKERS' COMPENSATION INSURANCE COVERAGE FOR EMPLOYEES OF THE UNIVERSITY OF TEXAS SYSTEM AND EMPLOYEES OF INSTITUTIONS OF THE UNIVERSITY OF TEXAS SYSTEM</string>
+		</array>
+		<array>
+			<string>504</string>
+			<string>WORKERS' COMPENSATION INSURANCE COVERAGE FOR EMPLOYEES OF POLITICAL SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>505</string>
+			<string>WORKERS' COMPENSATION INSURANCE COVERAGE FOR EMPLOYEES OF TEXAS DEPARTMENT OF TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>506</string>
+			<string>MISCELLANEOUS PROVISIONS APPLICABLE TO GOVERNMENT EMPLOYEES</string>
+		</array>
+	</array>
+</array>
+</plist>

@@ -1,0 +1,940 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. ORGANIZATION OF MUNICIPAL GOVERNMENT</string>
+		<array>
+			<string>5</string>
+			<string>TYPES OF MUNICIPALITIES IN GENERAL</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string>TYPE A GENERAL-LAW MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>TYPE B GENERAL-LAW MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>TYPE C GENERAL-LAW MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>9</string>
+			<string>HOME-RULE MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>GENERAL PROVISIONS AFFECTING GOVERNING BODY OF MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>ALDERMANIC FORM OF GOVERNMENT IN TYPE A GENERAL-LAW MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>ALDERMANIC FORM OF GOVERNMENT IN TYPE B GENERAL-LAW MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>COMMISSION FORM OF GOVERNMENT IN GENERAL-LAW MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string>CITY MANAGER FORM OF GOVERNMENT IN GENERAL-LAW MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>FORM OF GOVERNMENT IN HOME-RULE MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>41</string>
+			<string>MUNICIPAL BOUNDARIES</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>EXTRATERRITORIAL JURISDICTION OF MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>MUNICIPAL ANNEXATION</string>
+		</array>
+		<array>
+			<string>51</string>
+			<string>GENERAL POWERS OF MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>ADOPTION OF MUNICIPAL ORDINANCES</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string>CODE OF MUNICIPAL ORDINANCES</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>ENFORCEMENT OF MUNICIPAL ORDINANCES</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>CONSOLIDATION OF MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>ABOLITION OF MUNICIPALITIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. ORGANIZATION OF COUNTY GOVERNMENT</string>
+		<array>
+			<string>71</string>
+			<string>CREATION OF COUNTIES</string>
+		</array>
+		<array>
+			<string>72</string>
+			<string>COUNTY BOUNDARIES</string>
+		</array>
+		<array>
+			<string>73</string>
+			<string>LOCATION OF COUNTY SEAT</string>
+		</array>
+		<array>
+			<string>81</string>
+			<string>COMMISSIONERS COURT</string>
+		</array>
+		<array>
+			<string>82</string>
+			<string>COUNTY CLERK</string>
+		</array>
+		<array>
+			<string>83</string>
+			<string>COUNTY TREASURER</string>
+		</array>
+		<array>
+			<string>84</string>
+			<string>COUNTY AUDITOR</string>
+		</array>
+		<array>
+			<string>85</string>
+			<string>SHERIFF</string>
+		</array>
+		<array>
+			<string>86</string>
+			<string>CONSTABLE</string>
+		</array>
+		<array>
+			<string>87</string>
+			<string>REMOVAL OF COUNTY OFFICERS FROM OFFICE;  FILLING OF VACANCIES</string>
+		</array>
+		<array>
+			<string>88</string>
+			<string> OFFICIAL BONDS OF COUNTY OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>89</string>
+			<string>GENERAL PROVISIONS RELATING TO COUNTY ADMINISTRATION</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. FINANCES</string>
+		<array>
+			<string>101</string>
+			<string>GENERAL FINANCIAL PROVISIONS AFFECTING MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>MUNICIPAL BUDGET</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>AUDIT OF MUNICIPAL FINANCES</string>
+		</array>
+		<array>
+			<string>104</string>
+			<string>MUNICIPAL INVESTMENT OF TRUST FUNDS AND SPECIAL DEPOSITS</string>
+		</array>
+		<array>
+			<string>105</string>
+			<string>DEPOSITORIES FOR MUNICIPAL FUNDS</string>
+		</array>
+		<array>
+			<string>106</string>
+			<string>MUNICIPAL CHILD SAFETY TRUST FUND</string>
+		</array>
+		<array>
+			<string>107</string>
+			<string>OBLIGATIONS FOR CERTAIN LIABILITIES TO PUBLIC PENSION FUNDS OF A MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>108</string>
+			<string> MUNICIPAL BONDS FOR CERTAIN DEFINED AREAS</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string>COUNTY BUDGET</string>
+		</array>
+		<array>
+			<string>112</string>
+			<string>COUNTY FINANCIAL ACCOUNTING</string>
+		</array>
+		<array>
+			<string>113</string>
+			<string>MANAGEMENT OF COUNTY MONEY</string>
+		</array>
+		<array>
+			<string>114</string>
+			<string>COUNTY FINANCIAL REPORTS</string>
+		</array>
+		<array>
+			<string>115</string>
+			<string>AUDIT OF COUNTY FINANCES</string>
+		</array>
+		<array>
+			<string>116</string>
+			<string>DEPOSITORIES FOR COUNTY PUBLIC FUNDS</string>
+		</array>
+		<array>
+			<string>117</string>
+			<string>DEPOSITORIES FOR CERTAIN TRUST FUNDS AND COURT REGISTRY FUNDS</string>
+		</array>
+		<array>
+			<string>118</string>
+			<string>FEES CHARGED BY COUNTY OFFICERS</string>
+		</array>
+		<array>
+			<string>119</string>
+			<string>COUNTY GOVERNMENT LIABILITY INSURANCE POOL</string>
+		</array>
+		<array>
+			<string>130</string>
+			<string>MISCELLANEOUS FINANCIAL PROVISIONS AFFECTING COUNTIES</string>
+		</array>
+		<array>
+			<string>131</string>
+			<string>DEPOSITORY PROVISIONS AFFECTING FUNDS OF MUNICIPALITIES, COUNTIES, AND OTHER LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>132</string>
+			<string>PAYMENT OF FEES AND OTHER COSTS BY CREDIT CARD OR ELECTRONIC MEANS IN MUNICIPALITIES AND COUNTIES</string>
+		</array>
+		<array>
+			<string>133</string>
+			<string>CRIMINAL AND CIVIL FEES PAYABLE TO THE COMPTROLLER</string>
+		</array>
+		<array>
+			<string>140</string>
+			<string>MISCELLANEOUS FINANCIAL PROVISIONS AFFECTING MUNICIPALITIES, COUNTIES, AND OTHER LOCAL GOVERNMENTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. MATTERS AFFECTING PUBLIC OFFICERS AND EMPLOYEES</string>
+		<array>
+			<string>141</string>
+			<string>COMPENSATION AND EXPENSES OF MUNICIPAL OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>142</string>
+			<string>ASSISTANCE, BENEFITS, AND WORKING CONDITIONS OF MUNICIPAL OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>143</string>
+			<string> MUNICIPAL CIVIL SERVICE FOR FIREFIGHTERS AND POLICE OFFICERS</string>
+		</array>
+		<array>
+			<string>144</string>
+			<string>ELECTRONIC FUNDS TRANSFER OF COMPENSATION AND REIMBURSEMENT OF MUNICIPAL OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>145</string>
+			<string>FINANCIAL DISCLOSURE BY AND STANDARDS OF CONDUCT FOR LOCAL GOVERNMENT OFFICERS</string>
+		</array>
+		<array>
+			<string>146</string>
+			<string> LOCAL CONTROL OF MUNICIPAL EMPLOYMENT MATTERS IN CERTAIN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>147</string>
+			<string> LOCAL CONTROL OF FIREFIGHTER AND POLICE OFFICEREMPLOYMENT MATTERS IN CERTAIN MUNICIPALITIES WITH POPULATIONOF ONE MILLION OR MORE</string>
+		</array>
+		<array>
+			<string>150</string>
+			<string>MISCELLANEOUS PROVISIONS AFFECTING MUNICIPAL OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string>COUNTY EMPLOYMENT AUTHORITY</string>
+		</array>
+		<array>
+			<string>152</string>
+			<string>AMOUNT OF COMPENSATION, EXPENSES, AND ALLOWANCES OF COUNTY OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>153</string>
+			<string>COMPENSATION OF COUNTY OFFICERS ON FEE BASIS</string>
+		</array>
+		<array>
+			<string>154</string>
+			<string>COMPENSATION OF DISTRICT, COUNTY, AND PRECINCT OFFICERS ON SALARY BASIS</string>
+		</array>
+		<array>
+			<string>155</string>
+			<string>DEDUCTIONS FROM COMPENSATION OF COUNTY EMPLOYEES</string>
+		</array>
+		<array>
+			<string>156</string>
+			<string>ELECTRONIC FUNDS TRANSFER OF COMPENSATION AND REIMBURSEMENT OF COUNTY OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>157</string>
+			<string>ASSISTANCE, BENEFITS, AND WORKING CONDITIONS OF COUNTY OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>158</string>
+			<string>COUNTY CIVIL SERVICE</string>
+		</array>
+		<array>
+			<string>159</string>
+			<string>FINANCIAL DISCLOSURE BY COUNTY OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>160</string>
+			<string>GRIEVANCE PROCEDURE FOR COUNTY EMPLOYEES</string>
+		</array>
+		<array>
+			<string>161</string>
+			<string> COUNTY ETHICS COMMISSION IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>170</string>
+			<string>MISCELLANEOUS PROVISIONS AFFECTING COUNTY OFFICERS AND EMPLOYEES</string>
+		</array>
+		<array>
+			<string>171</string>
+			<string>REGULATION OF CONFLICTS OF INTEREST OF OFFICERS OF MUNICIPALITIES, COUNTIES, AND CERTAIN OTHER LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>172</string>
+			<string>TEXAS POLITICAL SUBDIVISIONS UNIFORM GROUP BENEFITS PROGRAM</string>
+		</array>
+		<array>
+			<string>173</string>
+			<string>TEMPORARY SALARY PAYMENTS FOR MUNICIPAL AND COUNTY EMPLOYEES CALLED TO ACTIVE DUTY</string>
+		</array>
+		<array>
+			<string>174</string>
+			<string>FIRE AND POLICE EMPLOYEE RELATIONS</string>
+		</array>
+		<array>
+			<string>175</string>
+			<string> RIGHT OF EMPLOYEES OF CERTAIN POLITICAL SUBDIVISIONS TO PURCHASE CONTINUED HEALTH COVERAGE AT RETIREMENT</string>
+		</array>
+		<array>
+			<string>176</string>
+			<string> DISCLOSURE OF CERTAIN RELATIONSHIPS WITH LOCAL GOVERNMENT OFFICERS; PROVIDING PUBLIC ACCESS TO CERTAIN INFORMATION</string>
+		</array>
+		<array>
+			<string>177</string>
+			<string> LIFE, HEALTH, AND ACCIDENT INSURANCE FOR OFFICIALS, EMPLOYEES, AND RETIREES OF POLITICAL SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>178</string>
+			<string> REMOVAL OF SPECIAL DISTRICT BOARD MEMBERS</string>
+		</array>
+		<array>
+			<string>180</string>
+			<string>MISCELLANEOUS PROVISIONS AFFECTING OFFICERS AND EMPLOYEES OF MUNICIPALITIES, COUNTIES, AND CERTAIN OTHER LOCAL GOVERNMENTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. RECORDS</string>
+		<array>
+			<string>191</string>
+			<string>GENERAL RECORDS PROVISIONS AFFECTING COUNTIES</string>
+		</array>
+		<array>
+			<string>192</string>
+			<string>INSTRUMENTS TO BE RECORDED BY COUNTIES</string>
+		</array>
+		<array>
+			<string>193</string>
+			<string>RECORDING AND INDEXING BY COUNTIES</string>
+		</array>
+		<array>
+			<string>195</string>
+			<string>ELECTRONIC FILING OF RECORDS WITH AND RECORDING BY COUNTY CLERK</string>
+		</array>
+		<array>
+			<string>201</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>DESTRUCTION AND ALIENATION OF RECORDS</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>MANAGEMENT AND PRESERVATION OF RECORDS</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string>MICROFILMING OF RECORDS</string>
+		</array>
+		<array>
+			<string>205</string>
+			<string>ELECTRONIC STORAGE OF RECORDS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. REGULATION OF LAND USE, STRUCTURES, BUSINESSES, AND RELATED ACTIVITIES</string>
+		<array>
+			<string>211</string>
+			<string>MUNICIPAL ZONING AUTHORITY</string>
+		</array>
+		<array>
+			<string>212</string>
+			<string>MUNICIPAL REGULATION OF SUBDIVISIONS AND PROPERTY DEVELOPMENT</string>
+		</array>
+		<array>
+			<string>213</string>
+			<string>MUNICIPAL COMPREHENSIVE PLANS</string>
+		</array>
+		<array>
+			<string>214</string>
+			<string>MUNICIPAL REGULATION OF HOUSING AND OTHER STRUCTURES</string>
+		</array>
+		<array>
+			<string>215</string>
+			<string>MUNICIPAL REGULATION OF BUSINESSES AND OCCUPATIONS</string>
+		</array>
+		<array>
+			<string>216</string>
+			<string>REGULATION OF SIGNS BY MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>217</string>
+			<string>MUNICIPAL REGULATION OF NUISANCES AND DISORDERLY CONDUCT</string>
+		</array>
+		<array>
+			<string>229</string>
+			<string>MISCELLANEOUS REGULATORY AUTHORITY OF MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>231</string>
+			<string>COUNTY ZONING AUTHORITY</string>
+		</array>
+		<array>
+			<string>232</string>
+			<string>COUNTY REGULATION OF SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>233</string>
+			<string>COUNTY REGULATION OF HOUSING AND OTHER STRUCTURES</string>
+		</array>
+		<array>
+			<string>234</string>
+			<string>COUNTY REGULATION OF BUSINESSES AND OCCUPATIONS</string>
+		</array>
+		<array>
+			<string>235</string>
+			<string>COUNTY REGULATION OF MATTERS RELATING TO EXPLOSIVES AND WEAPONS</string>
+		</array>
+		<array>
+			<string>236</string>
+			<string> COUNTY REGULATION OF FIREARMS, AMMUNITION, FIREARM SUPPLIES, AND SPORT SHOOTING RANGES</string>
+		</array>
+		<array>
+			<string>240</string>
+			<string>MISCELLANEOUS REGULATORY AUTHORITY OF COUNTIES</string>
+		</array>
+		<array>
+			<string>241</string>
+			<string>MUNICIPAL AND COUNTY ZONING AUTHORITY AROUND AIRPORTS</string>
+		</array>
+		<array>
+			<string>242</string>
+			<string>AUTHORITY OF MUNICIPALITY AND COUNTY TO REGULATE SUBDIVISIONS IN AND OUTSIDE MUNICIPALITY'S EXTRATERRITORIAL JURISDICTION</string>
+		</array>
+		<array>
+			<string>243</string>
+			<string>MUNICIPAL AND COUNTY AUTHORITY TO REGULATE SEXUALLY ORIENTED BUSINESS</string>
+		</array>
+		<array>
+			<string>244</string>
+			<string>LOCATION OF CERTAIN FACILITIES AND SHELTERS</string>
+		</array>
+		<array>
+			<string>245</string>
+			<string>ISSUANCE OF LOCAL PERMITS</string>
+		</array>
+		<array>
+			<string>246</string>
+			<string>CONSTRUCTION OF CERTAIN TELECOMMUNICATIONS FACILITIES</string>
+		</array>
+		<array>
+			<string>250</string>
+			<string>MISCELLANEOUS REGULATORY AUTHORITY OF MUNICIPALITIES AND COUNTIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. ACQUISITION, SALE, OR LEASE OF PROPERTY</string>
+		<array>
+			<string>251</string>
+			<string>MUNICIPAL RIGHT OF EMINENT DOMAIN</string>
+		</array>
+		<array>
+			<string>252</string>
+			<string>PURCHASING AND CONTRACTING AUTHORITY OF MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>253</string>
+			<string>SALE OR LEASE OF PROPERTY BY MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>254</string>
+			<string>ACQUISITION AND DEVELOPMENT OF ISLAND PROPERTY</string>
+		</array>
+		<array>
+			<string>261</string>
+			<string>COUNTY RIGHT OF EMINENT DOMAIN</string>
+		</array>
+		<array>
+			<string>262</string>
+			<string>PURCHASING AND CONTRACTING AUTHORITY OF COUNTIES</string>
+		</array>
+		<array>
+			<string>263</string>
+			<string>SALE OR LEASE OF PROPERTY BY COUNTIES</string>
+		</array>
+		<array>
+			<string>270</string>
+			<string>MISCELLANEOUS PROVISIONS AFFECTING THE ACQUISITION, SALE, OR LEASE OF PROPERTY BY COUNTIES</string>
+		</array>
+		<array>
+			<string>271</string>
+			<string>PURCHASING AND CONTRACTING AUTHORITY OF MUNICIPALITIES, COUNTIES, AND CERTAIN OTHER LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>272</string>
+			<string>SALE OR LEASE OF PROPERTY BY MUNICIPALITIES, COUNTIES, AND CERTAIN OTHER LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>273</string>
+			<string>ACQUISITION OF PROPERTY FOR PUBLIC PURPOSES BY MUNICIPALITIES, COUNTIES, AND OTHER LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>280</string>
+			<string>MISCELLANEOUS PROVISIONS AFFECTING ACQUISITION, SALE, OR LEASE OF PROPERTY BY MUNICIPALITIES AND COUNTIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. PUBLIC BUILDINGS AND GROUNDS</string>
+		<array>
+			<string>281</string>
+			<string>MUNICIPAL CIVIC CENTER AUTHORITIES</string>
+		</array>
+		<array>
+			<string>282</string>
+			<string>MUNICIPAL AUTHORITY OVER PUBLIC GROUNDS</string>
+		</array>
+		<array>
+			<string>283</string>
+			<string>MANAGEMENT OF PUBLIC RIGHT-OF-WAY USED BY TELECOMMUNICATIONS PROVIDER IN MUNICIPALITY</string>
+		</array>
+		<array>
+			<string>291</string>
+			<string>GENERAL BUILDING PROVISIONS AFFECTING COUNTIES</string>
+		</array>
+		<array>
+			<string>292</string>
+			<string>AUXILIARY COUNTY BUILDINGS</string>
+		</array>
+		<array>
+			<string>293</string>
+			<string>COUNTY BUILDING AUTHORITY ACT</string>
+		</array>
+		<array>
+			<string>301</string>
+			<string>RECREATIONAL AND CULTURAL FACILITIES JOINTLY ESTABLISHED BY COUNTIES AND MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>302</string>
+			<string>ENERGY SAVINGS PERFORMANCE CONTRACTS FOR LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>303</string>
+			<string>PUBLIC FACILITY CORPORATIONS</string>
+		</array>
+		<array>
+			<string>304</string>
+			<string>ENERGY AGGREGATION MEASURES FOR LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>305</string>
+			<string>MISCELLANEOUS PUBLIC BUILDING PROVISIONS AFFECTING MUNICIPALITIES AND COUNTIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10. PARKS AND OTHER RECREATIONAL AND CULTURAL RESOURCES</string>
+		<array>
+			<string>306</string>
+			<string>PARK BOARD AND PARK BONDS:  MUNICIPALITIES WITH POPULATION OF MORE THAN 40,000</string>
+		</array>
+		<array>
+			<string>307</string>
+			<string>USE OF TIDELANDS FOR PARK PURPOSES:  GULF COAST MUNICIPALITIES WITH POPULATION OF 60,000 OR MORE</string>
+		</array>
+		<array>
+			<string>308</string>
+			<string>MUNICIPAL BANDS</string>
+		</array>
+		<array>
+			<string>309</string>
+			<string> ARTS AND ENTERTAINMENT DISTRICTS</string>
+		</array>
+		<array>
+			<string>315</string>
+			<string>MISCELLANEOUS PROVISIONS RELATING TO MUNICIPAL PARKS AND OTHER RECREATIONAL AND CULTURAL RESOURCES</string>
+		</array>
+		<array>
+			<string>316</string>
+			<string>COUNTY USE FEES</string>
+		</array>
+		<array>
+			<string>317</string>
+			<string>ABANDONMENT OF COUNTY PARKS</string>
+		</array>
+		<array>
+			<string>318</string>
+			<string>HISTORIC PRESERVATION BY COUNTIES</string>
+		</array>
+		<array>
+			<string>319</string>
+			<string>HORTICULTURAL AND AGRICULTURAL EXHIBITS IN COUNTIES</string>
+		</array>
+		<array>
+			<string>320</string>
+			<string>PARK BOARD AND PARK BONDS:  COUNTIES WITH POPULATION OF 5,000 OR MORE</string>
+		</array>
+		<array>
+			<string>321</string>
+			<string>PARKS BOARD AND PARK BONDS:  ISLAND PARKS OF COASTAL COUNTIES</string>
+		</array>
+		<array>
+			<string>322</string>
+			<string>JOINT PARKS BOARD AND PARK BONDS:  ADJACENT COUNTIES WITH POPULATIONS OF 350,000 OR MORE</string>
+		</array>
+		<array>
+			<string>323</string>
+			<string>COUNTY LIBRARIES</string>
+		</array>
+		<array>
+			<string>324</string>
+			<string>PARK AND RECREATION DISTRICT AND PARK BONDS: COUNTIES WITH FRONTAGE ON GUADALUPE AND COMAL RIVERS</string>
+		</array>
+		<array>
+			<string>325</string>
+			<string>SPORTS FACILITY DISTRICT ESTABLISHED BY COUNTY</string>
+		</array>
+		<array>
+			<string>326</string>
+			<string>LIBRARY DISTRICTS</string>
+		</array>
+		<array>
+			<string>327</string>
+			<string>ZOOLOGICAL OPERATION AND MAINTENANCE BOARDS</string>
+		</array>
+		<array>
+			<string>330</string>
+			<string> MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>331</string>
+			<string>MUNICIPAL AND COUNTY AUTHORITY TO ACQUIRE AND MAINTAIN PARKS, MUSEUMS, AND HISTORIC SITES</string>
+		</array>
+		<array>
+			<string>332</string>
+			<string>MUNICIPAL AND COUNTY RECREATIONAL PROGRAMS AND FACILITIES</string>
+		</array>
+		<array>
+			<string>333</string>
+			<string>JOINT MUNICIPAL-COUNTY MUSEUMS</string>
+		</array>
+		<array>
+			<string>334</string>
+			<string>SPORTS AND COMMUNITY VENUES</string>
+		</array>
+		<array>
+			<string>335</string>
+			<string>SPORTS AND COMMUNITY VENUE DISTRICTS</string>
+		</array>
+		<array>
+			<string>336</string>
+			<string> MULTI-JURISDICTIONAL LIBRARY DISTRICTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11. PUBLIC SAFETY</string>
+		<array>
+			<string>341</string>
+			<string>MUNICIPAL LAW ENFORCEMENT</string>
+		</array>
+		<array>
+			<string>342</string>
+			<string>MUNICIPAL FIRE PROTECTION</string>
+		</array>
+		<array>
+			<string>343</string>
+			<string>MUNICIPAL PROVISION OF SCHOOL CROSSING GUARDS</string>
+		</array>
+		<array>
+			<string>344</string>
+			<string>FIRE CONTROL, PREVENTION, AND EMERGENCY MEDICAL SERVICES DISTRICTS</string>
+		</array>
+		<array>
+			<string>351</string>
+			<string>COUNTY JAILS AND LAW ENFORCEMENT</string>
+		</array>
+		<array>
+			<string>352</string>
+			<string>COUNTY FIRE PROTECTION</string>
+		</array>
+		<array>
+			<string>353</string>
+			<string> COUNTY HAZARDOUS MATERIALS SERVICES</string>
+		</array>
+		<array>
+			<string>361</string>
+			<string>MUNICIPAL AND COUNTY AUTHORITY RELATING TO JAILS</string>
+		</array>
+		<array>
+			<string>362</string>
+			<string>LAW ENFORCEMENT SERVICES PROVIDED THROUGH COOPERATION OF MUNICIPALITIES, COUNTIES, AND CERTAIN OTHER LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>363</string>
+			<string>CRIME CONTROL AND PREVENTION DISTRICTS</string>
+		</array>
+		<array>
+			<string>370</string>
+			<string>MISCELLANEOUS PROVISIONS RELATING TO MUNICIPAL AND COUNTY HEALTH AND PUBLIC SAFETY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 12. PLANNING AND DEVELOPMENT</string>
+		<array>
+			<string>371</string>
+			<string>MUNICIPAL PLANNING AND GROWTH</string>
+		</array>
+		<array>
+			<string>372</string>
+			<string>IMPROVEMENT DISTRICTS IN MUNICIPALITIES AND COUNTIES</string>
+		</array>
+		<array>
+			<string>373</string>
+			<string>COMMUNITY DEVELOPMENT IN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>373a</string>
+			<string> HOMESTEAD PRESERVATION DISTRICTS AND REINVESTMENT ZONES</string>
+		</array>
+		<array>
+			<string>373b</string>
+			<string> COMMUNITY LAND TRUSTS</string>
+		</array>
+		<array>
+			<string>374</string>
+			<string>URBAN RENEWAL IN MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>375</string>
+			<string>MUNICIPAL MANAGEMENT DISTRICTS IN GENERAL</string>
+		</array>
+		<array>
+			<string>376</string>
+			<string> CONTRACTUAL ASSESSMENTS FOR ENERGY EFFICIENCY IMPROVEMENTS</string>
+		</array>
+		<array>
+			<string>377</string>
+			<string>MUNICIPAL DEVELOPMENT DISTRICTS</string>
+		</array>
+		<array>
+			<string>378</string>
+			<string>NEIGHBORHOOD EMPOWERMENT ZONE</string>
+		</array>
+		<array>
+			<string>379</string>
+			<string>NORTH AMERICAN FREE TRADE AGREEMENT IMPACT ZONE</string>
+		</array>
+		<array>
+			<string>379a</string>
+			<string>MUNICIPAL DEVELOPMENT CORPORATIONS</string>
+		</array>
+		<array>
+			<string>379b</string>
+			<string>DEFENSE BASE DEVELOPMENT AUTHORITIES</string>
+		</array>
+		<array>
+			<string>379c</string>
+			<string>URBAN LAND BANK DEMONSTRATION PROGRAM</string>
+		</array>
+		<array>
+			<string>379d</string>
+			<string> URBAN LAND BANK PROGRAMIN MUNICIPALITY WITH POPULATION OF 1.9 MILLION OR MORE</string>
+		</array>
+		<array>
+			<string>379e</string>
+			<string> URBAN LAND BANK PROGRAM</string>
+		</array>
+		<array>
+			<string>380</string>
+			<string>MISCELLANEOUS PROVISIONS RELATING TO MUNICIPAL PLANNING AND DEVELOPMENT</string>
+		</array>
+		<array>
+			<string>381</string>
+			<string>COUNTY DEVELOPMENT AND GROWTH</string>
+		</array>
+		<array>
+			<string>382</string>
+			<string> IMPROVEMENT PROJECTS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>383</string>
+			<string>COUNTY DEVELOPMENT DISTRICTS</string>
+		</array>
+		<array>
+			<string>385</string>
+			<string>SMITH COUNTY ECONOMIC DEVELOPMENT DISTRICT</string>
+		</array>
+		<array>
+			<string>386</string>
+			<string>COMMERCIAL AND INDUSTRIAL DEVELOPMENT ZONES</string>
+		</array>
+		<array>
+			<string>387</string>
+			<string>COUNTY ASSISTANCE DISTRICT</string>
+		</array>
+		<array>
+			<string>391</string>
+			<string>REGIONAL PLANNING COMMISSIONS</string>
+		</array>
+		<array>
+			<string>392</string>
+			<string>HOUSING AUTHORITIES ESTABLISHED BY MUNICIPALITIES AND COUNTIES</string>
+		</array>
+		<array>
+			<string>393</string>
+			<string>HOUSING COOPERATION AMONG MUNICIPALITIES, COUNTIES, AND CERTAIN OTHER LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>394</string>
+			<string>HOUSING FINANCE CORPORATIONS IN MUNICIPALITIES AND COUNTIES</string>
+		</array>
+		<array>
+			<string>395</string>
+			<string>FINANCING CAPITAL IMPROVEMENTS REQUIRED BY NEW DEVELOPMENT IN MUNICIPALITIES, COUNTIES, AND CERTAIN OTHER LOCAL GOVERNMENTS</string>
+		</array>
+		<array>
+			<string>397</string>
+			<string> STRATEGIC PLANNING RELATING TO MILITARY BASES AND DEFENSE FACILITIES</string>
+		</array>
+		<array>
+			<string>397a</string>
+			<string> REGIONAL MILITARY SUSTAINABILITY COMMISSIONS RELATING TO CERTAIN MILITARY INSTALLATIONS</string>
+		</array>
+		<array>
+			<string>398</string>
+			<string> MEASURES TO SUPPORT MUNICIPAL AND COUNTY SPECIAL EVENTS</string>
+		</array>
+		<array>
+			<string>399</string>
+			<string> MUNICIPAL AND COUNTY WATER AND ENERGY IMPROVEMENT REGIONS</string>
+		</array>
+		<array>
+			<string>501</string>
+			<string> PROVISIONS GOVERNING DEVELOPMENT CORPORATIONS</string>
+		</array>
+		<array>
+			<string>502</string>
+			<string> PROVISIONS APPLICABLE TO TYPE A ANDTYPE B CORPORATIONS</string>
+		</array>
+		<array>
+			<string>503</string>
+			<string> TEXAS SMALL BUSINESS INDUSTRIALDEVELOPMENT CORPORATION</string>
+		</array>
+		<array>
+			<string>504</string>
+			<string> TYPE A CORPORATIONS</string>
+		</array>
+		<array>
+			<string>505</string>
+			<string> TYPE B CORPORATIONS</string>
+		</array>
+		<array>
+			<string>506</string>
+			<string> COUNTY ALLIANCE CORPORATIONS</string>
+		</array>
+		<array>
+			<string>507</string>
+			<string> SPACEPORT DEVELOPMENT CORPORATIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 13. WATER AND UTILITIES</string>
+		<array>
+			<string>551</string>
+			<string>WATER CONTROL BY MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>552</string>
+			<string>MUNICIPAL UTILITIES</string>
+		</array>
+		<array>
+			<string>561</string>
+			<string>WATER CONTROL BY COUNTIES</string>
+		</array>
+		<array>
+			<string>562</string>
+			<string>COUNTY WATER SUPPLY</string>
+		</array>
+		<array>
+			<string>563</string>
+			<string>WATER, WASTEWATER, OR SOLID WASTE SYSTEMS IN COUNTIES WITH POPULATION OF 10,000 OR LESS</string>
+		</array>
+		<array>
+			<string>571</string>
+			<string>SEAWALLS AND LEVEES IN COASTAL MUNICIPALITIES AND COUNTIES</string>
+		</array>
+		<array>
+			<string>572</string>
+			<string>PUBLIC UTILITY AGENCIES FOR PROVISION OF WATER OR SEWER SERVICE</string>
+		</array>
+		<array>
+			<string>573</string>
+			<string>AUTHORITY OF CERTAIN COUNTIES AND DISTRICTS TO REGULATE STORMWATER MANAGEMENT</string>
+		</array>
+		<array>
+			<string>580</string>
+			<string>MISCELLANEOUS PROVISIONS RELATING TO MUNICIPAL AND COUNTY WATER</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 14. PARKING AND TRANSPORTATION</string>
+		<array>
+			<string>601</string>
+			<string>MUNICIPAL AUTHORITY RELATING TO PARKING</string>
+		</array>
+		<array>
+			<string>615</string>
+			<string>MISCELLANEOUS PARKING AND TRANSPORTATION PROVISIONS AFFECTING COUNTIES</string>
+		</array>
+	</array>
+</array>
+</plist>

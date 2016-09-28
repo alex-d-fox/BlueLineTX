@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. THE INSURANCE CODE OF 1951</string>
+		<array>
+			<string>1</string>
+			<string>THE BOARD, ITS POWERS AND DUTIES</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>LIFE, HEALTH AND ACCIDENT INSURANCE</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>TAXES AND FEES</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>RATING AND POLICY FORMS</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+</array>
+</plist>

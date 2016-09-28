@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1.  GENERAL PROVISIONS</string>
+		<array>
+			<string>21</string>
+			<string> PURPOSE AND CONSTRUCTION</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string> DEFINITIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2.  ESTATES OF DECEDENTS; DURABLE POWERS OF ATTORNEY</string>
+		<array>
+			<string>31</string>
+			<string> GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string> JURISDICTION</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string> VENUE</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string> MATTERS RELATING TO CERTAIN OTHER TYPES OF PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>51</string>
+			<string> NOTICES AND PROCESS IN PROBATE PROCEEDINGS IN GENERAL</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>FILING AND RECORDKEEPING</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string> OTHER COURT DUTIES AND PROCEDURES</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string> PLEADINGS AND EVIDENCE IN GENERAL</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string> COMPLAINTS AND CONTESTS</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string> CHANGE AND RESIGNATION OF RESIDENT AGENT OF PERSONAL REPRESENTATIVE FOR SERVICE OF PROCESS</string>
+		</array>
+		<array>
+			<string>101</string>
+			<string> ESTATE ASSETS IN GENERAL</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string> PROBATE ASSETS:  DECEDENT'S HOMESTEAD</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string> NONPROBATE ASSETS IN GENERAL</string>
+		</array>
+		<array>
+			<string>112</string>
+			<string>COMMUNITY PROPERTY WITH RIGHT OF SURVIVORSHIP</string>
+		</array>
+		<array>
+			<string>113</string>
+			<string> MULTIPLE-PARTY ACCOUNTS</string>
+		</array>
+		<array>
+			<string>121</string>
+			<string> SURVIVAL REQUIREMENTS</string>
+		</array>
+		<array>
+			<string>122</string>
+			<string> DISCLAIMERS AND ASSIGNMENTS</string>
+		</array>
+		<array>
+			<string>123</string>
+			<string>DISSOLUTION OF MARRIAGE</string>
+		</array>
+		<array>
+			<string>124</string>
+			<string>VALUATION AND TAXATION OF ESTATE PROPERTY</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string> EXAMINATION OF DOCUMENTS AND SAFE DEPOSIT BOXES</string>
+		</array>
+		<array>
+			<string>152</string>
+			<string> EMERGENCY INTERVENTION</string>
+		</array>
+		<array>
+			<string>201</string>
+			<string> DESCENT AND DISTRIBUTION</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string> DETERMINATION OF HEIRSHIP</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string> NONJUDICIAL EVIDENCE OF HEIRSHIP</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string> GENETIC TESTING IN PROCEEDINGS TO DECLARE HEIRSHIP</string>
+		</array>
+		<array>
+			<string>205</string>
+			<string> SMALL ESTATE AFFIDAVIT</string>
+		</array>
+		<array>
+			<string>251</string>
+			<string> FUNDAMENTAL REQUIREMENTS AND PROVISIONS RELATING TO WILLS</string>
+		</array>
+		<array>
+			<string>252</string>
+			<string> SAFEKEEPING AND CUSTODY OF WILLS</string>
+		</array>
+		<array>
+			<string>253</string>
+			<string> CHANGE AND REVOCATION OF WILLS</string>
+		</array>
+		<array>
+			<string>254</string>
+			<string> VALIDITY OF CERTAIN PROVISIONS IN, AND CONTRACTS RELATING TO, WILLS</string>
+		</array>
+		<array>
+			<string>255</string>
+			<string>CONSTRUCTION AND INTERPRETATION OF WILLS</string>
+		</array>
+		<array>
+			<string>256</string>
+			<string> PROBATE OF WILLS GENERALLY</string>
+		</array>
+		<array>
+			<string>257</string>
+			<string> PROBATE OF WILL AS MUNIMENT OF TITLE</string>
+		</array>
+		<array>
+			<string>258</string>
+			<string> CITATIONS AND NOTICES RELATING TO PROBATE OF WILL</string>
+		</array>
+		<array>
+			<string>301</string>
+			<string> APPLICATION FOR LETTERS TESTAMENTARY OR OF ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>303</string>
+			<string> CITATIONS AND NOTICES IN GENERAL ON OPENING OF ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>304</string>
+			<string>PERSONS WHO MAY SERVE AS PERSONAL REPRESENTATIVES</string>
+		</array>
+		<array>
+			<string>305</string>
+			<string>QUALIFICATION OF PERSONAL REPRESENTATIVES</string>
+		</array>
+		<array>
+			<string>306</string>
+			<string> GRANTING ANDISSUANCE OF LETTERS</string>
+		</array>
+		<array>
+			<string>307</string>
+			<string>VALIDITY OF CERTAIN ACTS OF EXECUTORS AND ADMINISTRATORS</string>
+		</array>
+		<array>
+			<string>308</string>
+			<string> NOTICE TO BENEFICIARIES AND CLAIMANTS</string>
+		</array>
+		<array>
+			<string>309</string>
+			<string> INVENTORY, APPRAISEMENT, AND LIST OF CLAIMS</string>
+		</array>
+		<array>
+			<string>310</string>
+			<string>ALLOCATION OF ESTATE INCOME AND EXPENSES</string>
+		</array>
+		<array>
+			<string>351</string>
+			<string> POWERS AND DUTIES OF PERSONAL REPRESENTATIVES IN GENERAL</string>
+		</array>
+		<array>
+			<string>352</string>
+			<string>COMPENSATION AND EXPENSES OF PERSONAL REPRESENTATIVES AND OTHERS</string>
+		</array>
+		<array>
+			<string>353</string>
+			<string> EXEMPT PROPERTY AND FAMILY ALLOWANCE</string>
+		</array>
+		<array>
+			<string>354</string>
+			<string> SUMMARY PROCEEDINGS FOR, OR WITHDRAWAL FROM ADMINISTRATION OF, CERTAIN ESTATES</string>
+		</array>
+		<array>
+			<string>355</string>
+			<string> PRESENTMENT AND PAYMENT OF CLAIMS</string>
+		</array>
+		<array>
+			<string>356</string>
+			<string>SALE OF ESTATE PROPERTY</string>
+		</array>
+		<array>
+			<string>357</string>
+			<string>RENTING ESTATE PROPERTY</string>
+		</array>
+		<array>
+			<string>358</string>
+			<string>MATTERS RELATING TO MINERAL PROPERTIES</string>
+		</array>
+		<array>
+			<string>359</string>
+			<string> ANNUAL ACCOUNT AND OTHER EXHIBITS AND REPORTS</string>
+		</array>
+		<array>
+			<string>360</string>
+			<string>PARTITION AND DISTRIBUTION OF ESTATE</string>
+		</array>
+		<array>
+			<string>361</string>
+			<string>DEATH, RESIGNATION, OR REMOVAL OF PERSONAL REPRESENTATIVES; APPOINTMENT OF SUCCESSORS</string>
+		</array>
+		<array>
+			<string>362</string>
+			<string> CLOSING ADMINISTRATION OF ESTATE</string>
+		</array>
+		<array>
+			<string>401</string>
+			<string> CREATION</string>
+		</array>
+		<array>
+			<string>402</string>
+			<string> ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>403</string>
+			<string> EXEMPTIONS AND ALLOWANCES; CLAIMS</string>
+		</array>
+		<array>
+			<string>404</string>
+			<string> ACCOUNTINGS, SUCCESSORS, AND OTHER REMEDIES</string>
+		</array>
+		<array>
+			<string>405</string>
+			<string> CLOSING AND DISTRIBUTIONS</string>
+		</array>
+		<array>
+			<string>451</string>
+			<string> ORDER OF NO ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>452</string>
+			<string> TEMPORARY ADMINISTRATION OF ESTATES</string>
+		</array>
+		<array>
+			<string>453</string>
+			<string> ADMINISTRATION OF COMMUNITY PROPERTY</string>
+		</array>
+		<array>
+			<string>454</string>
+			<string> ADMINISTRATION OF ESTATE OF PERSON PRESUMED DEAD</string>
+		</array>
+		<array>
+			<string>455</string>
+			<string>PUBLIC PROBATE ADMINISTRATOR</string>
+		</array>
+		<array>
+			<string>501</string>
+			<string> ANCILLARY PROBATE OF FOREIGN WILL</string>
+		</array>
+		<array>
+			<string>502</string>
+			<string> ORIGINAL PROBATE OF FOREIGN WILL</string>
+		</array>
+		<array>
+			<string>503</string>
+			<string>RECORDING OF FOREIGN TESTAMENTARY INSTRUMENT</string>
+		</array>
+		<array>
+			<string>504</string>
+			<string> CONTEST OF OR OTHER CHALLENGE TO FOREIGN TESTAMENTARY INSTRUMENT</string>
+		</array>
+		<array>
+			<string>505</string>
+			<string>FOREIGN PERSONAL REPRESENTATIVES, TRUSTEES, AND FIDUCIARIES</string>
+		</array>
+		<array>
+			<string>551</string>
+			<string> PAYMENT OF CERTAIN ESTATES TO STATE</string>
+		</array>
+		<array>
+			<string>751</string>
+			<string> GENERAL PROVISIONS REGARDING DURABLE POWERS OF ATTORNEY</string>
+		</array>
+		<array>
+			<string>752</string>
+			<string>STATUTORY DURABLE POWER OF ATTORNEY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. GUARDIANSHIP AND RELATED PROCEDURES</string>
+		<array>
+			<string>1001</string>
+			<string>PURPOSE AND CONSTRUCTION</string>
+		</array>
+		<array>
+			<string>1002</string>
+			<string>DEFINITIONS</string>
+		</array>
+		<array>
+			<string>1021</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>1022</string>
+			<string> JURISDICTION</string>
+		</array>
+		<array>
+			<string>1023</string>
+			<string>VENUE</string>
+		</array>
+		<array>
+			<string>1051</string>
+			<string>NOTICES AND PROCESS IN GUARDIANSHIP PROCEEDINGS IN GENERAL</string>
+		</array>
+		<array>
+			<string>1052</string>
+			<string>FILING AND RECORDKEEPING</string>
+		</array>
+		<array>
+			<string>1053</string>
+			<string>OTHER COURT DUTIES AND PROCEDURES</string>
+		</array>
+		<array>
+			<string>1054</string>
+			<string>COURT OFFICERS AND COURT-APPOINTED PERSONS</string>
+		</array>
+		<array>
+			<string>1055</string>
+			<string>TRIAL AND HEARING MATTERS</string>
+		</array>
+		<array>
+			<string>1056</string>
+			<string>EXECUTION, ATTACHMENT, AND BILL OF REVIEW</string>
+		</array>
+		<array>
+			<string>1057</string>
+			<string>CHANGE AND RESIGNATION OF RESIDENT AGENT OF GUARDIAN FOR SERVICE OF PROCESS</string>
+		</array>
+		<array>
+			<string>1101</string>
+			<string>GENERAL PROCEDURE TO APPOINT GUARDIAN</string>
+		</array>
+		<array>
+			<string>1102</string>
+			<string>COURT-INITIATED PROCEDURE TO APPOINT GUARDIAN</string>
+		</array>
+		<array>
+			<string>1103</string>
+			<string>PROCEDURE TO APPOINT GUARDIAN FOR CERTAIN MINORS REQUIRING GUARDIANSHIPS AS ADULTS</string>
+		</array>
+		<array>
+			<string>1104</string>
+			<string>SELECTION OF AND ELIGIBILITY TO SERVE AS GUARDIAN</string>
+		</array>
+		<array>
+			<string>1105</string>
+			<string>QUALIFICATION OF GUARDIANS</string>
+		</array>
+		<array>
+			<string>1106</string>
+			<string>LETTERS OF GUARDIANSHIP</string>
+		</array>
+		<array>
+			<string>1151</string>
+			<string>RIGHTS, POWERS, AND DUTIES UNDER GUARDIANSHIP</string>
+		</array>
+		<array>
+			<string>1152</string>
+			<string>GUARDIANSHIP PENDING APPEAL OF APPOINTMENT</string>
+		</array>
+		<array>
+			<string>1153</string>
+			<string>NOTICE TO CLAIMANTS</string>
+		</array>
+		<array>
+			<string>1154</string>
+			<string>INVENTORY, APPRAISEMENT, AND LIST OF CLAIMS</string>
+		</array>
+		<array>
+			<string>1155</string>
+			<string>COMPENSATION, EXPENSES, AND COURT COSTS</string>
+		</array>
+		<array>
+			<string>1156</string>
+			<string>EDUCATION AND MAINTENANCE ALLOWANCES PAID FROM WARD'S ESTATE</string>
+		</array>
+		<array>
+			<string>1157</string>
+			<string>PRESENTMENT AND PAYMENT OF CLAIMS</string>
+		</array>
+		<array>
+			<string>1158</string>
+			<string>SALE OR PARTITION OF WARD'S PROPERTY</string>
+		</array>
+		<array>
+			<string>1159</string>
+			<string>RENTING ESTATE PROPERTY</string>
+		</array>
+		<array>
+			<string>1160</string>
+			<string>MATTERS RELATING TO MINERAL PROPERTIES</string>
+		</array>
+		<array>
+			<string>1161</string>
+			<string>INVESTMENTS AND LOANS OF ESTATES OF WARDS</string>
+		</array>
+		<array>
+			<string>1162</string>
+			<string> TAX-MOTIVATED, CHARITABLE, NONPROFIT, AND OTHER GIFTS</string>
+		</array>
+		<array>
+			<string>1163</string>
+			<string>ANNUAL ACCOUNT AND OTHER EXHIBITS AND REPORTS</string>
+		</array>
+		<array>
+			<string>1164</string>
+			<string>LIABILITY OF GUARDIAN OR GUARDIANSHIP PROGRAM</string>
+		</array>
+		<array>
+			<string>1201</string>
+			<string>EVALUATION OF GUARDIANSHIP</string>
+		</array>
+		<array>
+			<string>1202</string>
+			<string>MODIFICATION OR TERMINATION OF GUARDIANSHIP</string>
+		</array>
+		<array>
+			<string>1203</string>
+			<string>RESIGNATION, REMOVAL, OR DEATH OF GUARDIAN; APPOINTMENT OF SUCCESSOR</string>
+		</array>
+		<array>
+			<string>1204</string>
+			<string>FINAL SETTLEMENT, ACCOUNTING, AND DISCHARGE</string>
+		</array>
+		<array>
+			<string>1251</string>
+			<string>TEMPORARY GUARDIANSHIPS</string>
+		</array>
+		<array>
+			<string>1252</string>
+			<string> GUARDIANSHIPS FOR NONRESIDENT WARDS</string>
+		</array>
+		<array>
+			<string>1253</string>
+			<string>INTERSTATE GUARDIANSHIPS</string>
+		</array>
+		<array>
+			<string>1301</string>
+			<string> MANAGEMENT TRUSTS</string>
+		</array>
+		<array>
+			<string>1302</string>
+			<string>POOLED TRUST SUBACCOUNTS</string>
+		</array>
+		<array>
+			<string>1351</string>
+			<string>SALE OF PROPERTY OF CERTAIN INCAPACITATED PERSONS</string>
+		</array>
+		<array>
+			<string>1352</string>
+			<string>MORTGAGE OF MINOR'S INTEREST IN RESIDENCE HOMESTEAD</string>
+		</array>
+		<array>
+			<string>1353</string>
+			<string>MANAGEMENT AND CONTROL OF INCAPACITATED SPOUSE'S PROPERTY</string>
+		</array>
+		<array>
+			<string>1354</string>
+			<string>RECEIVERSHIP FOR ESTATES OFCERTAIN INCAPACITATED PERSONS</string>
+		</array>
+		<array>
+			<string>1355</string>
+			<string> PAYMENT OF CERTAIN CLAIMS WITHOUT GUARDIANSHIP</string>
+		</array>
+		<array>
+			<string>1356</string>
+			<string>COURT APPROVAL OF CERTAIN ARTS ANDENTERTAINMENT, ADVERTISEMENT, AND SPORTS CONTRACTS</string>
+		</array>
+	</array>
+</array>
+</plist>

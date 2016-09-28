@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. UNIFORM COMMERCIAL CODE</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>SALES</string>
+		</array>
+		<array>
+			<string>2a</string>
+			<string>LEASES</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>NEGOTIABLE INSTRUMENTS</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>BANK DEPOSITS AND COLLECTIONS</string>
+		</array>
+		<array>
+			<string>4a</string>
+			<string>FUNDS TRANSFERS</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>LETTERS OF CREDIT</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string> DOCUMENTS OF TITLE</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>INVESTMENT SECURITIES</string>
+		</array>
+		<array>
+			<string>9</string>
+			<string>SECURED TRANSACTIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. COMPETITION AND TRADE PRACTICES</string>
+		<array>
+			<string>15</string>
+			<string>MONOPOLIES, TRUSTS AND CONSPIRACIES IN RESTRAINT OF TRADE</string>
+		</array>
+		<array>
+			<string>16</string>
+			<string> TRADEMARKS</string>
+		</array>
+		<array>
+			<string>17</string>
+			<string>DECEPTIVE TRADE PRACTICES</string>
+		</array>
+		<array>
+			<string>20</string>
+			<string>REGULATION OF CONSUMER CREDIT REPORTING AGENCIES</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string> REGULATION OF CERTAIN RESIDENTIAL FORECLOSURE CONSULTING SERVICES</string>
+		</array>
+		<array>
+			<string>21a</string>
+			<string> EXECUTION OF DEEDS IN CERTAIN TRANSACTIONS INVOLVING RESIDENTIAL REAL ESTATE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. INSOLVENCY, FRAUDULENT TRANSFERS, AND FRAUD</string>
+		<array>
+			<string>23</string>
+			<string>ASSIGNMENTS FOR THE BENEFIT OF CREDITORS</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>UNIFORM FRAUDULENT TRANSFER ACT</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>STATUTE OF FRAUDS</string>
+		</array>
+		<array>
+			<string>27</string>
+			<string>FRAUD</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4.  BUSINESS OPPORTUNITIES AND AGREEMENTS</string>
+		<array>
+			<string>51</string>
+			<string> BUSINESS OPPORTUNITIES</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>INVENTION DEVELOPMENT SERVICES</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string>STORE LEASES</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>COMPENSATION AGREEMENTS FOR SALES REPRESENTATIVES</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string> AGREEMENT FOR PAYMENT OF CONSTRUCTION SUBCONTRACTOR</string>
+		</array>
+		<array>
+			<string>57</string>
+			<string> AGRICULTURAL, CONSTRUCTION, INDUSTRIAL, MINING, FORESTRY, LANDSCAPING, AND OUTDOOR POWER EQUIPMENT DEALER AGREEMENTS</string>
+		</array>
+		<array>
+			<string>58</string>
+			<string> DISASTER REMEDIATION CONTRACTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5.  REGULATION OF BUSINESSES AND SERVICES</string>
+		<array>
+			<string>71</string>
+			<string> ASSUMED BUSINESS OR PROFESSIONAL NAME</string>
+		</array>
+		<array>
+			<string>72</string>
+			<string> BUSINESS RECORDS</string>
+		</array>
+		<array>
+			<string>91</string>
+			<string> PRIVATE PASSENGER VEHICLE RENTAL COMPANIES</string>
+		</array>
+		<array>
+			<string>92</string>
+			<string> RENTAL-PURCHASE AGREEMENTS</string>
+		</array>
+		<array>
+			<string>101</string>
+			<string> INTERNATIONAL MATCHMAKING ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>SEXUALLY ORIENTED BUSINESSES</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string> APPRAISALS IMPROPERLY INDUCED BY MORTGAGE LENDERS</string>
+		</array>
+		<array>
+			<string>104</string>
+			<string>RESTRICTIONS ON CHARGES BY MOTOR FUEL FRANCHISORS</string>
+		</array>
+		<array>
+			<string>105</string>
+			<string> REFUELING SERVICES FOR PERSONS WITH DISABILITIES</string>
+		</array>
+		<array>
+			<string>106</string>
+			<string> INTERNET DATING SAFETY ACT</string>
+		</array>
+		<array>
+			<string>107</string>
+			<string> PAY-TO-PARK AND VALET PARKING SERVICES</string>
+		</array>
+		<array>
+			<string>108</string>
+			<string> CERTAIN CHARGES OR SECURITY DEPOSITS FOR CANINE HANDLERS PROHIBITED</string>
+		</array>
+		<array>
+			<string>109</string>
+			<string> COMPUTER TECHNICIANS REQUIRED TO REPORT CHILD PORNOGRAPHY</string>
+		</array>
+		<array>
+			<string>109.v2</string>
+			<string> BUSINESS ENTITIES ENGAGED IN PUBLICATION OF CRIMINAL RECORD INFORMATION</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6.  SALE OR TRANSFER OF GOODS</string>
+		<array>
+			<string>201</string>
+			<string> SALE OF ITEMS AT FLEA MARKETS</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string> SALES OF MOTOR VEHICLES WITH STOPLAMP COVERINGS</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string> EXPORTING ARTICLES WITHOUT INSPECTION</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string> SALE OF PLASTIC BULK MERCHANDISE CONTAINER</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7.  RECEIPTS, DOCUMENTS OF TITLE, AND OTHER INSTRUMENTS</string>
+		<array>
+			<string>251</string>
+			<string> WAREHOUSE RECEIPTS</string>
+		</array>
+		<array>
+			<string>252</string>
+			<string> BILLS OF LADING</string>
+		</array>
+		<array>
+			<string>253</string>
+			<string> PROTESTED OUT-OF-STATE DRAFTS</string>
+		</array>
+		<array>
+			<string>254</string>
+			<string> NOTE OR LIEN IDENTIFYING A PATENT RIGHT </string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8.  SECURITY INSTRUMENTS</string>
+		<array>
+			<string>261</string>
+			<string> UTILITY SECURITY INSTRUMENTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9.  APPLICABILITY OF LAW TO COMMERCIAL TRANSACTIONS</string>
+		<array>
+			<string>271</string>
+			<string> RIGHTS OF PARTIES TO CHOOSE LAW APPLICABLETO CERTAIN TRANSACTIONS</string>
+		</array>
+		<array>
+			<string>272</string>
+			<string> LAW APPLICABLE TO CERTAIN CONTRACTS FOR CONSTRUCTION OR REPAIR OF REAL PROPERTY IMPROVEMENTS</string>
+		</array>
+		<array>
+			<string>273</string>
+			<string> LAW OR FORUM APPLICABLE TO CERTAIN CONTRACTS FOR DISPOSITION OF GOODS</string>
+		</array>
+		<array>
+			<string>274</string>
+			<string>LAW APPLICABLE TO CONTRACT MADE OVER INTERNET</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10.  USE OF TELECOMMUNICATIONS</string>
+		<array>
+			<string>301</string>
+			<string> TELEPHONE SOLICITATION PRACTICES</string>
+		</array>
+		<array>
+			<string>302</string>
+			<string> REGULATION OF TELEPHONE SOLICITATION</string>
+		</array>
+		<array>
+			<string>303</string>
+			<string> TELEPHONE SOLICITATION FOR CERTAIN LAW ENFORCEMENT-RELATED CHARITABLE ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>304</string>
+			<string> TELEMARKETING</string>
+		</array>
+		<array>
+			<string>305</string>
+			<string> TELEPHONIC COMMUNICATIONS MADE FORPURPOSE OF SOLICITATION</string>
+		</array>
+		<array>
+			<string>306</string>
+			<string> PROTECTION OF CONSUMER TELEPHONE RECORDS</string>
+		</array>
+		<array>
+			<string>321</string>
+			<string>REGULATION OF CERTAIN ELECTRONIC MAIL</string>
+		</array>
+		<array>
+			<string>322</string>
+			<string> UNIFORM ELECTRONIC TRANSACTIONS ACT</string>
+		</array>
+		<array>
+			<string>323</string>
+			<string> PROVISION OF SOFTWARE OR SERVICES TO BLOCK OR SCREEN INTERNET MATERIAL</string>
+		</array>
+		<array>
+			<string>324</string>
+			<string> CONSUMER PROTECTION AGAINST COMPUTER SPYWARE</string>
+		</array>
+		<array>
+			<string>325</string>
+			<string> INTERNET FRAUD</string>
+		</array>
+		<array>
+			<string>326</string>
+			<string> AUTOMATED SALES SUPPRESSION DEVICES; PHANTOM-WARE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11.  PERSONAL IDENTITY INFORMATION</string>
+		<array>
+			<string>501</string>
+			<string> PROTECTION OF DRIVER'S LICENSE AND SOCIAL SECURITY NUMBERS</string>
+		</array>
+		<array>
+			<string>502</string>
+			<string>PROTECTION OF IDENTIFYING FINANCIAL INFORMATION</string>
+		</array>
+		<array>
+			<string>503</string>
+			<string> BIOMETRIC IDENTIFIERS</string>
+		</array>
+		<array>
+			<string>504</string>
+			<string> PROHIBITED USE OF CRIME VICTIM OR MOTOR VEHICLE ACCIDENT INFORMATION</string>
+		</array>
+		<array>
+			<string>505</string>
+			<string> USE OF ZIP CODE TO VERIFY CUSTOMER'S IDENTITY</string>
+		</array>
+		<array>
+			<string>521</string>
+			<string> UNAUTHORIZED USE OF IDENTIFYING INFORMATION</string>
+		</array>
+		<array>
+			<string>522</string>
+			<string>IDENTITY THEFT BY ELECTRONIC DEVICE</string>
+		</array>
+		<array>
+			<string>523</string>
+			<string> PROVISIONS RELATING TO VICTIMS OF IDENTITY THEFT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 12.  RIGHTS AND DUTIES OF CONSUMERS AND MERCHANTS</string>
+		<array>
+			<string>601</string>
+			<string>CANCELLATION OF CERTAIN CONSUMER TRANSACTIONS</string>
+		</array>
+		<array>
+			<string>602</string>
+			<string> DELIVERY OF UNSOLICITED GOODS</string>
+		</array>
+		<array>
+			<string>603</string>
+			<string> REGULATION OF CONSUMER CONTRACTS CREATED BY ACCEPTANCE OF CHECK OR OTHER DRAFT</string>
+		</array>
+		<array>
+			<string>604</string>
+			<string>SALE OR ISSUANCE OF STORED VALUE CARD</string>
+		</array>
+		<array>
+			<string>605</string>
+			<string> CONSUMER REBATE RESPONSE AND GRACE PERIOD FOR CORRECTIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 13.  CONTESTS AND OTHER PROMOTIONS</string>
+		<array>
+			<string>621</string>
+			<string> CONTESTS AND GIFT GIVEAWAYS</string>
+		</array>
+		<array>
+			<string>622</string>
+			<string> SWEEPSTAKES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 14.  RECORDINGS</string>
+		<array>
+			<string>641</string>
+			<string> UNAUTHORIZED RECORDINGS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 15.  CURRENCY AND TRADE</string>
+		<array>
+			<string>661</string>
+			<string>EUROPEAN UNION CURRENCY CONVERSION</string>
+		</array>
+		<array>
+			<string>671</string>
+			<string> CITY OF LAREDO PORT OF ENTRY AUTHORITY</string>
+		</array>
+		<array>
+			<string>681</string>
+			<string> FOREIGN TRADE ZONES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 16.  ADVERTISING AND MARKETING</string>
+		<array>
+			<string>721</string>
+			<string> USE OF NAMES OR PICTURES IN ADVERTISEMENTS</string>
+		</array>
+		<array>
+			<string>761</string>
+			<string> CREDIT CARD MARKETING AT POSTSECONDARY EDUCATIONAL INSTITUTIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 99.  MISCELLANEOUS COMMERCIAL PROVISIONS</string>
+		<array>
+			<string>2001</string>
+			<string>DESTRUCTION OF DIE, MOLD, OR FORM</string>
+		</array>
+		<array>
+			<string>2002</string>
+			<string> LIQUEFIED PETROLEUM GAS CONTAINERS</string>
+		</array>
+		<array>
+			<string>2004</string>
+			<string>INTRASTATE MANUFACTURE OF CERTAIN INCANDESCENT LIGHT BULBS</string>
+		</array>
+	</array>
+</array>
+</plist>

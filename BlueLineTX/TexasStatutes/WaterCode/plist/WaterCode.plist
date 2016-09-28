@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. WATER ADMINISTRATION</string>
+		<array>
+			<string>5</string>
+			<string> TEXAS COMMISSION ON ENVIRONMENTAL QUALITY</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string>TEXAS WATER DEVELOPMENT BOARD</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>ENFORCEMENT</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>MULTI-STATE WATER RESOURCES PLANNING COMMISSION</string>
+		</array>
+		<array>
+			<string>10</string>
+			<string>WATER CONSERVATION ADVISORY COUNCIL</string>
+		</array>
+		<array>
+			<string>11</string>
+			<string>WATER RIGHTS</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO WATER RIGHTS</string>
+		</array>
+		<array>
+			<string>13</string>
+			<string>WATER RATES AND SERVICES</string>
+		</array>
+		<array>
+			<string>15</string>
+			<string>TEXAS WATER ASSISTANCE PROGRAM</string>
+		</array>
+		<array>
+			<string>16</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO WATER DEVELOPMENT</string>
+		</array>
+		<array>
+			<string>17</string>
+			<string>PUBLIC FUNDING</string>
+		</array>
+		<array>
+			<string>20</string>
+			<string>TEXAS WATER RESOURCES FINANCE AUTHORITY</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>WATER QUALITY CONTROL</string>
+		</array>
+		<array>
+			<string>27</string>
+			<string>INJECTION WELLS</string>
+		</array>
+		<array>
+			<string>28</string>
+			<string>WATER WELLS AND DRILLED OR MINED SHAFTS</string>
+		</array>
+		<array>
+			<string>28a</string>
+			<string> REGISTRATION AND INSPECTION OF CERTAIN AGGREGATE PRODUCTION OPERATIONS</string>
+		</array>
+		<array>
+			<string>29</string>
+			<string> OIL AND GAS WASTE HAULERS</string>
+		</array>
+		<array>
+			<string>30</string>
+			<string>REGIONAL WASTE DISPOSAL</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string>SUBSURFACE EXCAVATIONS</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string> SUBSURFACE AREA DRIP DISPERSAL SYSTEM</string>
+		</array>
+		<array>
+			<string>35</string>
+			<string>GROUNDWATER STUDIES</string>
+		</array>
+		<array>
+			<string>36</string>
+			<string>GROUNDWATER CONSERVATION DISTRICTS</string>
+		</array>
+		<array>
+			<string>37</string>
+			<string>OCCUPATIONAL LICENSING AND REGISTRATION</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. RIVER COMPACTS</string>
+		<array>
+			<string>41</string>
+			<string>RIO GRANDE COMPACT</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>PECOS RIVER COMPACT</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>CANADIAN RIVER COMPACT</string>
+		</array>
+		<array>
+			<string>44</string>
+			<string>SABINE RIVER COMPACT</string>
+		</array>
+		<array>
+			<string>46</string>
+			<string>RED RIVER COMPACT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. GENERAL LAW DISTRICTS</string>
+		<array>
+			<string>49</string>
+			<string>PROVISIONS APPLICABLE TO ALL DISTRICTS</string>
+		</array>
+		<array>
+			<string>50</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO DISTRICTS</string>
+		</array>
+		<array>
+			<string>51</string>
+			<string>WATER CONTROL AND IMPROVEMENT DISTRICTS</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>UNDERGROUND WATER CONSERVATION DISTRICTS</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string>FRESH WATER SUPPLY DISTRICTS</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>MUNICIPAL UTILITY DISTRICTS</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string>WATER IMPROVEMENT DISTRICTS</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string>DRAINAGE DISTRICTS</string>
+		</array>
+		<array>
+			<string>57</string>
+			<string>LEVEE IMPROVEMENT DISTRICTS</string>
+		</array>
+		<array>
+			<string>58</string>
+			<string>IRRIGATION DISTRICTS</string>
+		</array>
+		<array>
+			<string>59</string>
+			<string>REGIONAL DISTRICTS</string>
+		</array>
+		<array>
+			<string>60</string>
+			<string>NAVIGATION DISTRICTS--GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>ARTICLE III, SECTION 52, NAVIGATION DISTRICTS</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>ARTICLE XVI, SECTION 59, NAVIGATION DISTRICTS</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>SELF-LIQUIDATING NAVIGATION DISTRICTS</string>
+		</array>
+		<array>
+			<string>65</string>
+			<string>SPECIAL UTILITY DISTRICTS</string>
+		</array>
+		<array>
+			<string>66</string>
+			<string>STORMWATER CONTROL DISTRICTS</string>
+		</array>
+		<array>
+			<string>67</string>
+			<string>NONPROFIT WATER SUPPLY OR SEWER SERVICE CORPORATIONS</string>
+		</array>
+		<array>
+			<string>68</string>
+			<string> SHIP CHANNEL SECURITY DISTRICTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. SPECIAL LAW DISTRICTS</string>
+		<array>
+			<string>152</string>
+			<string>RIVER AUTHORITIES ENGAGED IN DISTRIBUTION AND SALE OF ELECTRIC ENERGY</string>
+		</array>
+	</array>
+</array>
+</plist>

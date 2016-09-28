@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>DEFINITIONS AND OTHER GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>PURPOSES AND POWER OF DOMESTIC ENTITY</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>FORMATION AND GOVERNANCE</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>FILINGS</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>NAMES OF ENTITIES;  REGISTERED AGENTS AND REGISTERED OFFICES</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string> MEETINGS AND VOTING FOR DOMESTIC ENTITIES</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>LIABILITY</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>INDEMNIFICATION AND INSURANCE</string>
+		</array>
+		<array>
+			<string>9</string>
+			<string>FOREIGN ENTITIES</string>
+		</array>
+		<array>
+			<string>10</string>
+			<string>MERGERS, INTEREST EXCHANGES, CONVERSIONS, AND SALES OF ASSETS</string>
+		</array>
+		<array>
+			<string>11</string>
+			<string>WINDING UP AND TERMINATION OF DOMESTIC ENTITY</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>ADMINISTRATIVE POWERS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. CORPORATIONS</string>
+		<array>
+			<string>20</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>FOR-PROFIT CORPORATIONS</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>NONPROFIT CORPORATIONS</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>SPECIAL-PURPOSE CORPORATIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. LIMITED LIABILITY COMPANIES</string>
+		<array>
+			<string>101</string>
+			<string>LIMITED LIABILITY COMPANIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. PARTNERSHIPS</string>
+		<array>
+			<string>151</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>152</string>
+			<string>GENERAL PARTNERSHIPS</string>
+		</array>
+		<array>
+			<string>153</string>
+			<string>LIMITED PARTNERSHIPS</string>
+		</array>
+		<array>
+			<string>154</string>
+			<string>PROVISIONS APPLICABLE TO BOTH GENERAL AND LIMITED PARTNERSHIPS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. REAL ESTATE INVESTMENT TRUSTS</string>
+		<array>
+			<string>200</string>
+			<string>REAL ESTATE INVESTMENT TRUSTS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. ASSOCIATIONS</string>
+		<array>
+			<string>251</string>
+			<string>COOPERATIVE ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>252</string>
+			<string>UNINCORPORATED NONPROFIT ASSOCIATIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. PROFESSIONAL ENTITIES</string>
+		<array>
+			<string>301</string>
+			<string>PROVISIONS RELATING TO PROFESSIONAL ENTITIES</string>
+		</array>
+		<array>
+			<string>302</string>
+			<string>PROVISIONS RELATING TO PROFESSIONAL ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>303</string>
+			<string>PROVISIONS RELATING TO PROFESSIONAL CORPORATIONS</string>
+		</array>
+		<array>
+			<string>304</string>
+			<string>PROVISIONS RELATING TO PROFESSIONAL LIMITED LIABILITY COMPANIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. MISCELLANEOUS AND TRANSITION PROVISIONS</string>
+		<array>
+			<string>401</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>402</string>
+			<string>MISCELLANEOUS AND TRANSITION PROVISIONS</string>
+		</array>
+	</array>
+</array>
+</plist>

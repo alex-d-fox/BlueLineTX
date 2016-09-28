@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. PROPERTY TAX CODE</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>STATE ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string>LOCAL ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>11</string>
+			<string>TAXABLE PROPERTY AND EXEMPTIONS</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>TAXABLE SITUS</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>RENDITIONS AND OTHER REPORTS</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>APPRAISAL METHODS AND PROCEDURES</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>CENTRAL APPRAISAL</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string>LOCAL APPRAISAL</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>ASSESSMENT</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string>COLLECTIONS</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>TAX LIENS AND PERSONAL LIABILITY</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>DELINQUENCY</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string>TAX SALES AND REDEMPTION</string>
+		</array>
+		<array>
+			<string>41</string>
+			<string>LOCAL REVIEW</string>
+		</array>
+		<array>
+			<string>41a</string>
+			<string> APPEAL THROUGH BINDING ARBITRATION</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>JUDICIAL REVIEW</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>SUIT AGAINST APPRAISAL OFFICE</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. STATE TAXATION</string>
+		<array>
+			<string>101</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string>COLLECTION PROCEDURES</string>
+		</array>
+		<array>
+			<string>112</string>
+			<string>TAXPAYERS' SUITS</string>
+		</array>
+		<array>
+			<string>113</string>
+			<string>TAX LIENS</string>
+		</array>
+		<array>
+			<string>141</string>
+			<string>MULTISTATE TAX COMPACT</string>
+		</array>
+		<array>
+			<string>142</string>
+			<string>SIMPLIFIED SALES AND USE TAX ADMINISTRATION ACT</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string>LIMITED SALES, EXCISE, AND USE TAX</string>
+		</array>
+		<array>
+			<string>152</string>
+			<string>TAXES ON SALE, RENTAL, AND USE OF MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>154</string>
+			<string>CIGARETTE TAX</string>
+		</array>
+		<array>
+			<string>155</string>
+			<string>CIGARS AND TOBACCO PRODUCTS TAX</string>
+		</array>
+		<array>
+			<string>156</string>
+			<string>HOTEL OCCUPANCY TAX</string>
+		</array>
+		<array>
+			<string>158</string>
+			<string>MANUFACTURED HOUSING SALES AND USE TAX</string>
+		</array>
+		<array>
+			<string>159</string>
+			<string>CONTROLLED SUBSTANCES TAX</string>
+		</array>
+		<array>
+			<string>160</string>
+			<string>TAXES ON SALES AND USE OF BOATS AND BOAT MOTORS</string>
+		</array>
+		<array>
+			<string>161</string>
+			<string>FIREWORKS TAX</string>
+		</array>
+		<array>
+			<string>162</string>
+			<string>MOTOR FUEL TAXES</string>
+		</array>
+		<array>
+			<string>171</string>
+			<string>FRANCHISE TAX</string>
+		</array>
+		<array>
+			<string>181</string>
+			<string>CEMENT PRODUCTION TAX</string>
+		</array>
+		<array>
+			<string>182</string>
+			<string>MISCELLANEOUS GROSS RECEIPTS TAXES</string>
+		</array>
+		<array>
+			<string>183</string>
+			<string> MIXED BEVERAGE TAXES</string>
+		</array>
+		<array>
+			<string>191</string>
+			<string>MISCELLANEOUS OCCUPATION TAXES</string>
+		</array>
+		<array>
+			<string>201</string>
+			<string>GAS PRODUCTION TAX</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>OIL PRODUCTION TAX</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>SULPHUR PRODUCTION TAX</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string>TAX CREDIT FOR NEW FIELD DISCOVERIES</string>
+		</array>
+		<array>
+			<string>211</string>
+			<string>INHERITANCE TAXES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. LOCAL TAXATION</string>
+		<array>
+			<string>301</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>302</string>
+			<string>TAXATION POWERS OF MUNICIPALITIES</string>
+		</array>
+		<array>
+			<string>311</string>
+			<string>TAX INCREMENT FINANCING ACT</string>
+		</array>
+		<array>
+			<string>312</string>
+			<string>PROPERTY REDEVELOPMENT AND TAX ABATEMENT ACT</string>
+		</array>
+		<array>
+			<string>313</string>
+			<string>TEXAS ECONOMIC DEVELOPMENT ACT</string>
+		</array>
+		<array>
+			<string>320</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>321</string>
+			<string>MUNICIPAL SALES AND USE TAX ACT</string>
+		</array>
+		<array>
+			<string>322</string>
+			<string>SALES AND USE TAXES FOR SPECIAL PURPOSE TAXING AUTHORITIES</string>
+		</array>
+		<array>
+			<string>323</string>
+			<string>COUNTY SALES AND USE TAX ACT</string>
+		</array>
+		<array>
+			<string>324</string>
+			<string>COUNTY HEALTH SERVICES SALES AND USE TAX</string>
+		</array>
+		<array>
+			<string>325</string>
+			<string>COUNTY SALES AND USE TAX FOR LANDFILL AND CRIMINAL DETENTION CENTER</string>
+		</array>
+		<array>
+			<string>327</string>
+			<string>MUNICIPAL SALES AND USE TAX FOR STREET MAINTENANCE</string>
+		</array>
+		<array>
+			<string>351</string>
+			<string>MUNICIPAL HOTEL OCCUPANCY TAXES</string>
+		</array>
+		<array>
+			<string>352</string>
+			<string>COUNTY HOTEL OCCUPANCY TAXES</string>
+		</array>
+	</array>
+</array>
+</plist>

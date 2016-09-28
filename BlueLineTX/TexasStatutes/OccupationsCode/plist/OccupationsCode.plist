@@ -1,0 +1,815 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. GENERAL PROVISIONS RELATING TO LICENSING</string>
+		<array>
+			<string>51</string>
+			<string>TEXAS DEPARTMENT OF LICENSING AND REGULATION</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>TRANSFER OF LICENSE</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string>CONSEQUENCES OF CRIMINAL CONVICTION</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string> EXAMINATION ON RELIGIOUS HOLY DAY; EXAMINATION ACCOMMODATIONS FOR PERSON WITH DYSLEXIA</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string> LICENSING OF MILITARY SERVICE MEMBERS, MILITARY VETERANS, AND MILITARY SPOUSES</string>
+		</array>
+		<array>
+			<string>55.v2</string>
+			<string> LICENSING OF MILITARY SERVICE MEMBERS, MILITARY VETERANS, AND MILITARY SPOUSES</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string>ACTION AGAINST RECIPIENTS OF STUDENT FINANCIAL ASSISTANCE</string>
+		</array>
+		<array>
+			<string>57</string>
+			<string>REQUIREMENTS FOR LICENSING AGENCIES</string>
+		</array>
+		<array>
+			<string>58</string>
+			<string>USE OF GENETIC INFORMATION</string>
+		</array>
+		<array>
+			<string>59</string>
+			<string>INFORMATION RELATING TO LICENSING</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. HEALTH PROFESSIONS</string>
+		<array>
+			<string>101</string>
+			<string>HEALTH PROFESSIONS COUNCIL</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>SOLICITATION OF PATIENTS</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>RIGHT TO OBJECT TO PARTICIPATION IN ABORTION PROCEDURE</string>
+		</array>
+		<array>
+			<string>104</string>
+			<string>HEALING ART PRACTITIONERS</string>
+		</array>
+		<array>
+			<string>105</string>
+			<string>UNPROFESSIONAL CONDUCT BY HEALTH CARE PROVIDER</string>
+		</array>
+		<array>
+			<string>106</string>
+			<string>GENERAL REGULATORY AUTHORITY REGARDING HEALTH CARE PRACTITIONERS' USE OF INTERNET</string>
+		</array>
+		<array>
+			<string>107</string>
+			<string>INTRACTABLE PAIN TREATMENT</string>
+		</array>
+		<array>
+			<string>108</string>
+			<string>LICENSE SUSPENSION OR REVOCATION REQUIRED FOR CERTAIN DRUG FELONY CONVICTIONS</string>
+		</array>
+		<array>
+			<string>109</string>
+			<string>RELEASE OF SEX OFFENDER TREATMENT INFORMATION</string>
+		</array>
+		<array>
+			<string>110</string>
+			<string>COUNCIL ON SEX OFFENDER TREATMENT</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string>TELEMEDICINE AND TELEHEALTH</string>
+		</array>
+		<array>
+			<string>112</string>
+			<string> GENERAL LICENSING REQUIREMENTS APPLICABLETO MULTIPLE HEALTH CARE PRACTITIONERS</string>
+		</array>
+		<array>
+			<string>114</string>
+			<string> REPORTING REQUIREMENTS APPLICABLE TO MULTIPLE HEALTH OCCUPATION REGULATORY AGENCIES</string>
+		</array>
+		<array>
+			<string>115</string>
+			<string> HEALTH OR VETERINARY SERVICES PROVIDED IN CATASTROPHIC CIRCUMSTANCES</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>152</string>
+			<string>STATE BOARD OF MEDICAL EXAMINERS</string>
+		</array>
+		<array>
+			<string>153</string>
+			<string>POWERS AND DUTIES</string>
+		</array>
+		<array>
+			<string>154</string>
+			<string>PUBLIC INTEREST INFORMATION AND COMPLAINT PROCEDURES</string>
+		</array>
+		<array>
+			<string>155</string>
+			<string>LICENSE TO PRACTICE MEDICINE</string>
+		</array>
+		<array>
+			<string>156</string>
+			<string>REGISTRATION OF PHYSICIANS</string>
+		</array>
+		<array>
+			<string>157</string>
+			<string>AUTHORITY OF PHYSICIAN TO DELEGATE CERTAIN MEDICAL ACTS</string>
+		</array>
+		<array>
+			<string>158</string>
+			<string>AUTHORITY OF PHYSICIAN TO PROVIDE CERTAIN DRUGS AND SUPPLIES</string>
+		</array>
+		<array>
+			<string>159</string>
+			<string>PHYSICIAN-PATIENT COMMUNICATION</string>
+		</array>
+		<array>
+			<string>160</string>
+			<string>REPORT AND CONFIDENTIALITY REQUIREMENTS</string>
+		</array>
+		<array>
+			<string>162</string>
+			<string>REGULATION OF PRACTICE OF MEDICINE</string>
+		</array>
+		<array>
+			<string>163</string>
+			<string>DISTRICT REVIEW COMMITTEES</string>
+		</array>
+		<array>
+			<string>164</string>
+			<string>DISCIPLINARY ACTIONS AND PROCEDURES</string>
+		</array>
+		<array>
+			<string>165</string>
+			<string>PENALTIES</string>
+		</array>
+		<array>
+			<string>166</string>
+			<string> BILLING OF ANATOMIC PATHOLOGY SERVICES</string>
+		</array>
+		<array>
+			<string>167</string>
+			<string> TEXAS PHYSICIAN HEALTH PROGRAM</string>
+		</array>
+		<array>
+			<string>168</string>
+			<string> REGULATION OF PAIN MANAGEMENT CLINICS</string>
+		</array>
+		<array>
+			<string>201</string>
+			<string>CHIROPRACTORS</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>PODIATRISTS</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>MIDWIVES</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string>PHYSICIAN ASSISTANTS</string>
+		</array>
+		<array>
+			<string>205</string>
+			<string>ACUPUNCTURE</string>
+		</array>
+		<array>
+			<string>206</string>
+			<string>SURGICAL ASSISTANTS</string>
+		</array>
+		<array>
+			<string>251</string>
+			<string>GENERAL PROVISIONS RELATING TO PRACTICE OF DENTISTRY</string>
+		</array>
+		<array>
+			<string>252</string>
+			<string>STATE BOARD OF DENTAL EXAMINERS</string>
+		</array>
+		<array>
+			<string>253</string>
+			<string>EXECUTIVE DIRECTOR AND PERSONNEL</string>
+		</array>
+		<array>
+			<string>254</string>
+			<string>BOARD POWERS AND DUTIES</string>
+		</array>
+		<array>
+			<string>255</string>
+			<string>PUBLIC INTEREST INFORMATION AND COMPLAINT PROCEDURES</string>
+		</array>
+		<array>
+			<string>256</string>
+			<string>LICENSING OF DENTISTS AND DENTAL HYGIENISTS</string>
+		</array>
+		<array>
+			<string>257</string>
+			<string>LICENSE RENEWAL</string>
+		</array>
+		<array>
+			<string>258</string>
+			<string>PRACTICE BY DENTIST</string>
+		</array>
+		<array>
+			<string>259</string>
+			<string>PROHIBITED OR RESTRICTED COMMERCIAL OR PROFESSIONAL ACTIVITIES</string>
+		</array>
+		<array>
+			<string>260</string>
+			<string>OPERATION OF CERTAIN DENTAL PRACTICES</string>
+		</array>
+		<array>
+			<string>261</string>
+			<string>CONFIDENTIALITY AND IMMUNITY OF DENTAL PEER REVIEW COMMITTEE</string>
+		</array>
+		<array>
+			<string>262</string>
+			<string>REGULATION OF DENTAL HYGIENISTS</string>
+		</array>
+		<array>
+			<string>263</string>
+			<string>LICENSE DENIAL AND DISCIPLINARY PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>264</string>
+			<string>PENALTIES AND ENFORCEMENT PROVISIONS</string>
+		</array>
+		<array>
+			<string>265</string>
+			<string>REGULATION OF DENTAL ASSISTANTS</string>
+		</array>
+		<array>
+			<string>266</string>
+			<string>REGULATION OF DENTAL LABORATORIES</string>
+		</array>
+		<array>
+			<string>267</string>
+			<string>LICENSING OF FACULTY MEMBERS OF DENTAL OR DENTAL HYGIENE SCHOOLS</string>
+		</array>
+		<array>
+			<string>301</string>
+			<string>NURSES</string>
+		</array>
+		<array>
+			<string>303</string>
+			<string>NURSING PEER REVIEW</string>
+		</array>
+		<array>
+			<string>304</string>
+			<string>NURSE LICENSURE COMPACT</string>
+		</array>
+		<array>
+			<string>305</string>
+			<string> NCSBN ADVANCED PRACTICE REGISTERED NURSE COMPACT</string>
+		</array>
+		<array>
+			<string>351</string>
+			<string>OPTOMETRISTS AND THERAPEUTIC OPTOMETRISTS</string>
+		</array>
+		<array>
+			<string>352</string>
+			<string>OPTICIANS</string>
+		</array>
+		<array>
+			<string>353</string>
+			<string>CONTACT LENS PRESCRIPTION ACT</string>
+		</array>
+		<array>
+			<string>401</string>
+			<string>SPEECH-LANGUAGE PATHOLOGISTS AND AUDIOLOGISTS</string>
+		</array>
+		<array>
+			<string>402</string>
+			<string>HEARING INSTRUMENT FITTERS AND DISPENSERS</string>
+		</array>
+		<array>
+			<string>403</string>
+			<string> LICENSED DYSLEXIA PRACTITIONERS AND LICENSED DYSLEXIA THERAPISTS</string>
+		</array>
+		<array>
+			<string>451</string>
+			<string>ATHLETIC TRAINERS</string>
+		</array>
+		<array>
+			<string>452</string>
+			<string>EXECUTIVE COUNCIL OF PHYSICAL THERAPY AND OCCUPATIONAL THERAPY EXAMINERS</string>
+		</array>
+		<array>
+			<string>453</string>
+			<string>PHYSICAL THERAPISTS</string>
+		</array>
+		<array>
+			<string>454</string>
+			<string>OCCUPATIONAL THERAPISTS</string>
+		</array>
+		<array>
+			<string>455</string>
+			<string>MASSAGE THERAPY</string>
+		</array>
+		<array>
+			<string>501</string>
+			<string>PSYCHOLOGISTS</string>
+		</array>
+		<array>
+			<string>502</string>
+			<string>MARRIAGE AND FAMILY THERAPISTS</string>
+		</array>
+		<array>
+			<string>503</string>
+			<string>LICENSED PROFESSIONAL COUNSELORS</string>
+		</array>
+		<array>
+			<string>504</string>
+			<string>CHEMICAL DEPENDENCY COUNSELORS</string>
+		</array>
+		<array>
+			<string>505</string>
+			<string>SOCIAL WORKERS</string>
+		</array>
+		<array>
+			<string>551</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>552</string>
+			<string>TEXAS STATE BOARD OF PHARMACY</string>
+		</array>
+		<array>
+			<string>553</string>
+			<string>EXECUTIVE DIRECTOR AND OTHER BOARD PERSONNEL</string>
+		</array>
+		<array>
+			<string>554</string>
+			<string>BOARD POWERS AND DUTIES;  RULEMAKING AUTHORITY</string>
+		</array>
+		<array>
+			<string>555</string>
+			<string>PUBLIC INTEREST INFORMATION AND COMPLAINT PROCEDURES</string>
+		</array>
+		<array>
+			<string>556</string>
+			<string>ADMINISTRATIVE INSPECTIONS AND WARRANTS</string>
+		</array>
+		<array>
+			<string>557</string>
+			<string>PHARMACIST-INTERNS</string>
+		</array>
+		<array>
+			<string>558</string>
+			<string>LICENSE TO PRACTICE PHARMACY</string>
+		</array>
+		<array>
+			<string>559</string>
+			<string>RENEWAL OF LICENSE TO PRACTICE PHARMACY</string>
+		</array>
+		<array>
+			<string>560</string>
+			<string>LICENSING OF PHARMACIES</string>
+		</array>
+		<array>
+			<string>561</string>
+			<string>RENEWAL OF PHARMACY LICENSE</string>
+		</array>
+		<array>
+			<string>562</string>
+			<string>PRACTICE BY LICENSE HOLDER</string>
+		</array>
+		<array>
+			<string>563</string>
+			<string>PRESCRIPTION REQUIREMENTS;  DELEGATION OF ADMINISTRATION AND PROVISION OF DANGEROUS DRUGS</string>
+		</array>
+		<array>
+			<string>564</string>
+			<string>PROGRAM TO AID IMPAIRED PHARMACISTS AND PHARMACY STUDENTS;  PHARMACY PEER REVIEW</string>
+		</array>
+		<array>
+			<string>565</string>
+			<string>DISCIPLINARY ACTIONS AND PROCEDURES; REINSTATEMENT OF LICENSE</string>
+		</array>
+		<array>
+			<string>566</string>
+			<string>PENALTIES AND ENFORCEMENT PROVISIONS</string>
+		</array>
+		<array>
+			<string>568</string>
+			<string> PHARMACY TECHNICIANS AND PHARMACY TECHNICIAN TRAINEES</string>
+		</array>
+		<array>
+			<string>569</string>
+			<string>REPORTING REQUIREMENTS FOR PROFESSIONAL LIABILITY INSURERS</string>
+		</array>
+		<array>
+			<string>601</string>
+			<string>MEDICAL RADIOLOGIC TECHNOLOGISTS</string>
+		</array>
+		<array>
+			<string>602</string>
+			<string>MEDICAL PHYSICISTS</string>
+		</array>
+		<array>
+			<string>603</string>
+			<string>PERFUSIONISTS</string>
+		</array>
+		<array>
+			<string>604</string>
+			<string>RESPIRATORY CARE PRACTITIONERS</string>
+		</array>
+		<array>
+			<string>605</string>
+			<string>ORTHOTISTS AND PROSTHETISTS</string>
+		</array>
+		<array>
+			<string>651</string>
+			<string>CEMETERY AND CREMATORY SERVICES, FUNERAL DIRECTING, AND EMBALMING</string>
+		</array>
+		<array>
+			<string>701</string>
+			<string>DIETITIANS</string>
+		</array>
+		<array>
+			<string>702</string>
+			<string>HEALTH SPAS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4.  PROFESSIONS RELATED TO ANIMALS</string>
+		<array>
+			<string>801</string>
+			<string>VETERINARIANS</string>
+		</array>
+		<array>
+			<string>802</string>
+			<string> DOG OR CAT BREEDERS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. REGULATION OF FINANCIAL AND LEGAL SERVICES</string>
+		<array>
+			<string>901</string>
+			<string>ACCOUNTANTS</string>
+		</array>
+		<array>
+			<string>951</string>
+			<string>PREPAID LEGAL SERVICES</string>
+		</array>
+		<array>
+			<string>952</string>
+			<string>LAWYER REFERRAL SERVICES</string>
+		</array>
+		<array>
+			<string>953</string>
+			<string>REGULATION OF FOR-PROFIT LEGAL SERVICE CONTRACT COMPANIES</string>
+		</array>
+		<array>
+			<string>954</string>
+			<string>PETROLEUM AND MINERAL LAND SERVICES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. REGULATION OF ENGINEERING, ARCHITECTURE, LAND SURVEYING, AND RELATED PRACTICES</string>
+		<array>
+			<string>1001</string>
+			<string>ENGINEERS</string>
+		</array>
+		<array>
+			<string>1002</string>
+			<string>GEOSCIENTISTS</string>
+		</array>
+		<array>
+			<string>1051</string>
+			<string>TEXAS BOARD OF ARCHITECTURAL EXAMINERS;  GENERAL PROVISIONS AFFECTING ARCHITECTS, LANDSCAPE ARCHITECTS, AND INTERIOR DESIGNERS;  PROVISIONS AFFECTING ONLY ARCHITECTS</string>
+		</array>
+		<array>
+			<string>1052</string>
+			<string>LANDSCAPE ARCHITECTS</string>
+		</array>
+		<array>
+			<string>1053</string>
+			<string>INTERIOR DESIGNERS</string>
+		</array>
+		<array>
+			<string>1071</string>
+			<string>LAND SURVEYORS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. PRACTICES AND PROFESSIONS RELATED TO REAL PROPERTY AND HOUSING</string>
+		<array>
+			<string>1101</string>
+			<string>REAL ESTATE BROKERS AND SALESPERSONS</string>
+		</array>
+		<array>
+			<string>1102</string>
+			<string>REAL ESTATE INSPECTORS</string>
+		</array>
+		<array>
+			<string>1103</string>
+			<string>REAL ESTATE APPRAISERS</string>
+		</array>
+		<array>
+			<string>1104</string>
+			<string> APPRAISAL MANAGEMENT COMPANIES</string>
+		</array>
+		<array>
+			<string>1105</string>
+			<string> SELF-DIRECTED AND SEMI-INDEPENDENT STATUS OFTEXAS REAL ESTATE COMMISSION</string>
+		</array>
+		<array>
+			<string>1151</string>
+			<string>PROPERTY TAX PROFESSIONALS</string>
+		</array>
+		<array>
+			<string>1152</string>
+			<string>PROPERTY TAX CONSULTANTS</string>
+		</array>
+		<array>
+			<string>1201</string>
+			<string>MANUFACTURED HOUSING</string>
+		</array>
+		<array>
+			<string>1202</string>
+			<string>INDUSTRIALIZED HOUSING AND BUILDINGS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. REGULATION OF ENVIRONMENTAL AND INDUSTRIAL TRADES</string>
+		<array>
+			<string>1301</string>
+			<string>PLUMBERS</string>
+		</array>
+		<array>
+			<string>1302</string>
+			<string>AIR CONDITIONING AND REFRIGERATION CONTRACTORS</string>
+		</array>
+		<array>
+			<string>1303</string>
+			<string>RESIDENTIAL SERVICE COMPANIES</string>
+		</array>
+		<array>
+			<string>1304</string>
+			<string> SERVICE CONTRACT PROVIDERS AND ADMINISTRATORS</string>
+		</array>
+		<array>
+			<string>1305</string>
+			<string>ELECTRICIANS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. REGULATION OF BARBERS, COSMETOLOGISTS, AND RELATED OCCUPATIONS</string>
+		<array>
+			<string>1601</string>
+			<string>BARBERS</string>
+		</array>
+		<array>
+			<string>1602</string>
+			<string>COSMETOLOGISTS</string>
+		</array>
+		<array>
+			<string>1603</string>
+			<string> REGULATION OF BARBERING AND COSMETOLOGY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10. OCCUPATIONS RELATED TO LAW ENFORCEMENT AND SECURITY</string>
+		<array>
+			<string>1701</string>
+			<string>LAW ENFORCEMENT OFFICERS</string>
+		</array>
+		<array>
+			<string>1702</string>
+			<string>PRIVATE SECURITY</string>
+		</array>
+		<array>
+			<string>1703</string>
+			<string>POLYGRAPH EXAMINERS</string>
+		</array>
+		<array>
+			<string>1704</string>
+			<string>REGULATION OF BAIL BOND SURETIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11. REGULATION OF SALES AND SOLICITATION</string>
+		<array>
+			<string>1801</string>
+			<string>COMMISSION MERCHANTS</string>
+		</array>
+		<array>
+			<string>1802</string>
+			<string>AUCTIONEERS</string>
+		</array>
+		<array>
+			<string>1803</string>
+			<string>SOLICITATION FOR PUBLIC SAFETY ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>1804</string>
+			<string>SOLICITATION FOR VETERANS ORGANIZATIONS</string>
+		</array>
+		<array>
+			<string>1805</string>
+			<string>SALE OF SECONDHAND BUSINESS MACHINES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 12. PRACTICES AND TRADES RELATED TO WATER, HEALTH, AND SAFETY</string>
+		<array>
+			<string>1901</string>
+			<string>WATER WELL DRILLERS</string>
+		</array>
+		<array>
+			<string>1902</string>
+			<string>WATER WELL PUMP INSTALLERS</string>
+		</array>
+		<array>
+			<string>1903</string>
+			<string>IRRIGATORS</string>
+		</array>
+		<array>
+			<string>1904</string>
+			<string> WATER TREATMENT SPECIALISTS</string>
+		</array>
+		<array>
+			<string>1951</string>
+			<string>STRUCTURAL PEST CONTROL</string>
+		</array>
+		<array>
+			<string>1952</string>
+			<string>CODE ENFORCEMENT OFFICERS</string>
+		</array>
+		<array>
+			<string>1953</string>
+			<string>SANITARIANS</string>
+		</array>
+		<array>
+			<string>1954</string>
+			<string>ASBESTOS HEALTH PROTECTION</string>
+		</array>
+		<array>
+			<string>1955</string>
+			<string>LEAD-BASED PAINT ABATEMENT</string>
+		</array>
+		<array>
+			<string>1956</string>
+			<string> METAL RECYCLING ENTITIES</string>
+		</array>
+		<array>
+			<string>1957</string>
+			<string>INDUSTRIAL HYGIENISTS</string>
+		</array>
+		<array>
+			<string>1958</string>
+			<string>MOLD ASSESSORS AND REMEDIATORS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 13. SPORTS, AMUSEMENTS, AND ENTERTAINMENT</string>
+		<array>
+			<string>2001</string>
+			<string>BINGO</string>
+		</array>
+		<array>
+			<string>2002</string>
+			<string>CHARITABLE RAFFLES</string>
+		</array>
+		<array>
+			<string>2003</string>
+			<string>INSPECTION AND REGULATION OF GAMBLING VESSELS</string>
+		</array>
+		<array>
+			<string>2051</string>
+			<string>ATHLETE AGENTS</string>
+		</array>
+		<array>
+			<string>2052</string>
+			<string>COMBATIVE SPORTS</string>
+		</array>
+		<array>
+			<string>2101</string>
+			<string>CONSIGNMENT OF ART WORKS</string>
+		</array>
+		<array>
+			<string>2102</string>
+			<string>COLLECTION OF ROYALTIES ON NONDRAMATIC MUSICAL WORKS</string>
+		</array>
+		<array>
+			<string>2103</string>
+			<string>LICENSING AND PERFORMING FEES FOR CERTAIN RECORDINGS</string>
+		</array>
+		<array>
+			<string>2104</string>
+			<string>REGULATION OF OUTDOOR MUSIC FESTIVALS</string>
+		</array>
+		<array>
+			<string>2151</string>
+			<string>REGULATION OF AMUSEMENT RIDES</string>
+		</array>
+		<array>
+			<string>2152</string>
+			<string>REGULATION OF CIRCUSES, CARNIVALS, AND ZOOS</string>
+		</array>
+		<array>
+			<string>2153</string>
+			<string>COIN-OPERATED MACHINES</string>
+		</array>
+		<array>
+			<string>2154</string>
+			<string>REGULATION OF FIREWORKS AND FIREWORKS DISPLAYS</string>
+		</array>
+		<array>
+			<string>2155</string>
+			<string>HOTELS AND BOARDINGHOUSES</string>
+		</array>
+		<array>
+			<string>2156</string>
+			<string>THEATERS</string>
+		</array>
+		<array>
+			<string>2157</string>
+			<string>REGULATION OF MOTION PICTURE THEATERS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 14. REGULATION OF MOTOR VEHICLES AND TRANSPORTATION</string>
+		<array>
+			<string>2301</string>
+			<string>SALE OR LEASE OF MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>2302</string>
+			<string>SALVAGE VEHICLE DEALERS</string>
+		</array>
+		<array>
+			<string>2303</string>
+			<string>VEHICLE STORAGE FACILITIES</string>
+		</array>
+		<array>
+			<string>2304</string>
+			<string>NONMECHANICAL REPAIRS TO MOTOR VEHICLES</string>
+		</array>
+		<array>
+			<string>2305</string>
+			<string>RECORDS OF CERTAIN VEHICLE REPAIRS, SALES, AND PURCHASES</string>
+		</array>
+		<array>
+			<string>2306</string>
+			<string>VEHICLE PROTECTION PRODUCT WARRANTORS</string>
+		</array>
+		<array>
+			<string>2307</string>
+			<string>INSURER INTERESTS IN REPAIR FACILITIES</string>
+		</array>
+		<array>
+			<string>2308</string>
+			<string> VEHICLE TOWING AND BOOTING</string>
+		</array>
+		<array>
+			<string>2309</string>
+			<string> USED AUTOMOTIVE PARTS RECYCLERS</string>
+		</array>
+		<array>
+			<string>2351</string>
+			<string>STEVEDORES</string>
+		</array>
+		<array>
+			<string>2352</string>
+			<string>BOAT MANUFACTURERS, DISTRIBUTORS, AND DEALERS</string>
+		</array>
+		<array>
+			<string>2401</string>
+			<string>TRANSPORTATION SERVICE PROVIDERS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 15. OCCUPATIONS RELATED TO EMPLOYMENT</string>
+		<array>
+			<string>2501</string>
+			<string>PERSONNEL SERVICES</string>
+		</array>
+	</array>
+</array>
+</plist>

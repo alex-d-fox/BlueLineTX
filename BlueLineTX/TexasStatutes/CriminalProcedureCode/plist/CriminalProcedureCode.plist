@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. CODE OF CRIMINAL PROCEDURE</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>GENERAL DUTIES OF OFFICERS</string>
+		</array>
+		<array>
+			<string>3</string>
+			<string>DEFINITIONS</string>
+		</array>
+		<array>
+			<string>4</string>
+			<string>COURTS AND CRIMINAL JURISDICTION</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>FAMILY VIOLENCE PREVENTION</string>
+		</array>
+		<array>
+			<string>6</string>
+			<string> PREVENTING OFFENSES BY THE ACT OF MAGISTRATES AND OTHER OFFICERS; EDUCATION CONCERNING CONSEQUENCES OF CERTAIN OFFENSES</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>PROCEEDINGS BEFORE MAGISTRATES TO PREVENT OFFENSES</string>
+		</array>
+		<array>
+			<string>7a</string>
+			<string> PROTECTIVE ORDER FOR VICTIMS OF SEXUAL ASSAULT OR ABUSE, STALKING, OR TRAFFICKING</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>SUPPRESSION OF RIOTS AND OTHER DISTURBANCES</string>
+		</array>
+		<array>
+			<string>9</string>
+			<string>OFFENSES INJURIOUS TO PUBLIC HEALTH</string>
+		</array>
+		<array>
+			<string>10</string>
+			<string>OBSTRUCTIONS OF PUBLIC HIGHWAYS</string>
+		</array>
+		<array>
+			<string>11</string>
+			<string>HABEAS CORPUS</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>LIMITATION</string>
+		</array>
+		<array>
+			<string>13</string>
+			<string>VENUE</string>
+		</array>
+		<array>
+			<string>14</string>
+			<string>ARREST WITHOUT WARRANT</string>
+		</array>
+		<array>
+			<string>15</string>
+			<string>ARREST UNDER WARRANT</string>
+		</array>
+		<array>
+			<string>16</string>
+			<string>THE COMMITMENT OR DISCHARGE OF THE ACCUSED</string>
+		</array>
+		<array>
+			<string>17</string>
+			<string>BAIL</string>
+		</array>
+		<array>
+			<string>17a</string>
+			<string>CORPORATIONS AND ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>18</string>
+			<string>SEARCH WARRANTS</string>
+		</array>
+		<array>
+			<string>19</string>
+			<string>ORGANIZATION OF THE GRAND JURY</string>
+		</array>
+		<array>
+			<string>20</string>
+			<string>DUTIES AND POWERS OF THE GRAND JURY</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>INDICTMENT AND INFORMATION</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>FORFEITURE OF BAIL</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>THE CAPIAS</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>SUBPOENA AND ATTACHMENT</string>
+		</array>
+		<array>
+			<string>24a</string>
+			<string> RESPONDING TO SUBPOENAS AND CERTAIN OTHER COURT ORDERS; PRESERVING CERTAIN INFORMATION</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string>SERVICE OF A COPY OF THE INDICTMENT</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>ARRAIGNMENT</string>
+		</array>
+		<array>
+			<string>27</string>
+			<string>THE PLEADING IN CRIMINAL ACTIONS</string>
+		</array>
+		<array>
+			<string>28</string>
+			<string>MOTIONS, PLEADINGS AND EXCEPTIONS</string>
+		</array>
+		<array>
+			<string>29</string>
+			<string>CONTINUANCE</string>
+		</array>
+		<array>
+			<string>30</string>
+			<string>DISQUALIFICATION OF THE JUDGE</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string>CHANGE OF VENUE</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>DISMISSING PROSECUTIONS</string>
+		</array>
+		<array>
+			<string>32a</string>
+			<string>SPEEDY TRIAL</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>THE MODE OF TRIAL</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string>SPECIAL VENIRE IN CAPITAL CASES</string>
+		</array>
+		<array>
+			<string>35</string>
+			<string>FORMATION OF THE JURY</string>
+		</array>
+		<array>
+			<string>36</string>
+			<string>THE TRIAL BEFORE THE JURY</string>
+		</array>
+		<array>
+			<string>37</string>
+			<string>THE VERDICT</string>
+		</array>
+		<array>
+			<string>38</string>
+			<string>EVIDENCE IN CRIMINAL ACTIONS</string>
+		</array>
+		<array>
+			<string>39</string>
+			<string>DEPOSITIONS AND DISCOVERY</string>
+		</array>
+		<array>
+			<string>40</string>
+			<string>NEW TRIALS</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>JUDGMENT AND SENTENCE</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>EXECUTION OF JUDGMENT</string>
+		</array>
+		<array>
+			<string>44</string>
+			<string>APPEAL AND WRIT OF ERROR</string>
+		</array>
+		<array>
+			<string>45</string>
+			<string>JUSTICE AND MUNICIPAL COURTS</string>
+		</array>
+		<array>
+			<string>46</string>
+			<string>INSANITY AS DEFENSE</string>
+		</array>
+		<array>
+			<string>46a</string>
+			<string>AIDS AND HIV TESTING IN COUNTY AND MUNICIPAL JAILS</string>
+		</array>
+		<array>
+			<string>46b</string>
+			<string>INCOMPETENCY TO STAND TRIAL</string>
+		</array>
+		<array>
+			<string>46c</string>
+			<string> INSANITY DEFENSE</string>
+		</array>
+		<array>
+			<string>47</string>
+			<string>DISPOSITION OF STOLEN PROPERTY</string>
+		</array>
+		<array>
+			<string>48</string>
+			<string>PARDON AND PAROLE</string>
+		</array>
+		<array>
+			<string>49</string>
+			<string>INQUESTS UPON DEAD BODIES</string>
+		</array>
+		<array>
+			<string>50</string>
+			<string>FIRE INQUESTS</string>
+		</array>
+		<array>
+			<string>51</string>
+			<string>FUGITIVES FROM JUSTICE</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>COURT OF INQUIRY</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>MISCELLANEOUS PROVISIONS</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string>EXPUNCTION OF CRIMINAL RECORDS</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string>RIGHTS OF CRIME VICTIMS</string>
+		</array>
+		<array>
+			<string>57</string>
+			<string>CONFIDENTIALITY OF IDENTIFYING INFORMATION OF SEX OFFENSE VICTIMS</string>
+		</array>
+		<array>
+			<string>57b</string>
+			<string> CONFIDENTIALITY OF IDENTIFYING INFORMATION OF FAMILY VIOLENCE VICTIMS</string>
+		</array>
+		<array>
+			<string>57c</string>
+			<string>SEALING OF COURT RECORDS CONTAINING MEDICAL INFORMATION FOR CERTAIN CHILD VICTIMS</string>
+		</array>
+		<array>
+			<string>57d</string>
+			<string> CONFIDENTIALITY OF IDENTIFYING INFORMATION OF VICTIMS OF TRAFFICKING OF PERSONS</string>
+		</array>
+		<array>
+			<string>59</string>
+			<string>FORFEITURE OF CONTRABAND</string>
+		</array>
+		<array>
+			<string>60</string>
+			<string>CRIMINAL HISTORY RECORD SYSTEM</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>COMPILATION OF INFORMATION PERTAINING TO CRIMINAL COMBINATIONS AND CRIMINAL STREET GANGS</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string> SEX OFFENDER REGISTRATION PROGRAM</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>MISSING CHILDREN AND MISSING PERSONS</string>
+		</array>
+		<array>
+			<string>64</string>
+			<string>MOTION FOR FORENSIC DNA TESTING</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. CODE OF CRIMINAL PROCEDURE</string>
+		<array>
+			<string>101</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>COSTS PAID BY DEFENDANTS</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>COLLECTION AND RECORDKEEPING</string>
+		</array>
+		<array>
+			<string>104</string>
+			<string>CERTAIN EXPENSES PAID BY STATE OR COUNTY</string>
+		</array>
+	</array>
+</array>
+</plist>

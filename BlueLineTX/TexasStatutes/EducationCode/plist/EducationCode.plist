@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. PUBLIC EDUCATION</string>
+		<array>
+			<string>4</string>
+			<string>PUBLIC EDUCATION MISSION, OBJECTIVES, AND GOALS</string>
+		</array>
+		<array>
+			<string>5</string>
+			<string>DEFINITIONS</string>
+		</array>
+		<array>
+			<string>7</string>
+			<string>STATE ORGANIZATION</string>
+		</array>
+		<array>
+			<string>8</string>
+			<string>REGIONAL EDUCATION SERVICE CENTERS</string>
+		</array>
+		<array>
+			<string>11</string>
+			<string>SCHOOL DISTRICTS</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>CHARTERS</string>
+		</array>
+		<array>
+			<string>13</string>
+			<string>CREATION, CONSOLIDATION, AND ABOLITION OF A DISTRICT</string>
+		</array>
+		<array>
+			<string>18</string>
+			<string> JOB CORPS DIPLOMA PROGRAMS</string>
+		</array>
+		<array>
+			<string>19</string>
+			<string>SCHOOLS IN THE TEXAS DEPARTMENT OF CRIMINAL JUSTICE</string>
+		</array>
+		<array>
+			<string>21</string>
+			<string>EDUCATORS</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>SCHOOL DISTRICT EMPLOYEES AND VOLUNTEERS</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string>ADMISSION, TRANSFER, AND ATTENDANCE</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>PARENTAL RIGHTS AND RESPONSIBILITIES</string>
+		</array>
+		<array>
+			<string>28</string>
+			<string>COURSES OF STUDY;  ADVANCEMENT</string>
+		</array>
+		<array>
+			<string>29</string>
+			<string>EDUCATIONAL PROGRAMS</string>
+		</array>
+		<array>
+			<string>30</string>
+			<string>STATE AND REGIONAL PROGRAMS AND SERVICES</string>
+		</array>
+		<array>
+			<string>30a</string>
+			<string> STATE VIRTUAL SCHOOL NETWORK</string>
+		</array>
+		<array>
+			<string>31</string>
+			<string> INSTRUCTIONAL MATERIALS</string>
+		</array>
+		<array>
+			<string>32</string>
+			<string>COMPUTERS AND COMPUTER-RELATED EQUIPMENT</string>
+		</array>
+		<array>
+			<string>33</string>
+			<string>SERVICE PROGRAMS AND EXTRACURRICULAR ACTIVITIES</string>
+		</array>
+		<array>
+			<string>34</string>
+			<string>TRANSPORTATION</string>
+		</array>
+		<array>
+			<string>37</string>
+			<string>DISCIPLINE;  LAW AND ORDER</string>
+		</array>
+		<array>
+			<string>38</string>
+			<string>HEALTH AND SAFETY</string>
+		</array>
+		<array>
+			<string>39</string>
+			<string>PUBLIC SCHOOL SYSTEM ACCOUNTABILITY</string>
+		</array>
+		<array>
+			<string>41</string>
+			<string>EQUALIZED WEALTH LEVEL</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>FOUNDATION SCHOOL PROGRAM</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>PERMANENT SCHOOL FUND AND AVAILABLE SCHOOL FUND</string>
+		</array>
+		<array>
+			<string>44</string>
+			<string>FISCAL MANAGEMENT</string>
+		</array>
+		<array>
+			<string>45</string>
+			<string>SCHOOL DISTRICT FUNDS</string>
+		</array>
+		<array>
+			<string>46</string>
+			<string>ASSISTANCE WITH INSTRUCTIONAL FACILITIES AND PAYMENT OF EXISTING DEBT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. HIGHER EDUCATION</string>
+		<array>
+			<string>51</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO HIGHER EDUCATION</string>
+		</array>
+		<array>
+			<string>51a</string>
+			<string> ONLINE INSTITUTION RESUMES FOR INSTITUTIONS OF HIGHER EDUCATION</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>STUDENT LOAN PROGRAM</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string> HIGHER EDUCATION FACILITY AUTHORITIES FOR PUBLIC SCHOOLS</string>
+		</array>
+		<array>
+			<string>53a</string>
+			<string> HIGHER EDUCATION FACILITY AUTHORITIES FOR PRIVATE SCHOOLS</string>
+		</array>
+		<array>
+			<string>53b</string>
+			<string> HIGHER EDUCATION LOAN AUTHORITIES</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>TUITION AND FEES</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string>FINANCING PERMANENT IMPROVEMENTS</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string>STUDENT FINANCIAL ASSISTANCE</string>
+		</array>
+		<array>
+			<string>57</string>
+			<string>GUARANTEED STUDENT LOANS</string>
+		</array>
+		<array>
+			<string>58</string>
+			<string>COMPENSATION OF RESIDENT PHYSICIANS</string>
+		</array>
+		<array>
+			<string>58a</string>
+			<string> PROGRAMS SUPPORTING GRADUATE MEDICAL EDUCATION</string>
+		</array>
+		<array>
+			<string>59</string>
+			<string>MEDICAL MALPRACTICE COVERAGE FOR CERTAIN INSTITUTIONS</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>TEXAS HIGHER EDUCATION COORDINATING BOARD</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string> CONSTITUTIONAL AND STATUTORY FUNDS TO SUPPORT INSTITUTIONS OF HIGHER EDUCATION</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>PERMANENT FUNDS FOR HEALTH-RELATED INSTITUTIONS OF HIGHER EDUCATION</string>
+		</array>
+		<array>
+			<string>65</string>
+			<string>ADMINISTRATION OF THE UNIVERSITY OF TEXAS SYSTEM</string>
+		</array>
+		<array>
+			<string>66</string>
+			<string>PERMANENT UNIVERSITY FUND</string>
+		</array>
+		<array>
+			<string>67</string>
+			<string>THE UNIVERSITY OF TEXAS AT AUSTIN</string>
+		</array>
+		<array>
+			<string>68</string>
+			<string>THE UNIVERSITY OF TEXAS AT ARLINGTON</string>
+		</array>
+		<array>
+			<string>69</string>
+			<string>THE UNIVERSITY OF TEXAS AT EL PASO</string>
+		</array>
+		<array>
+			<string>70</string>
+			<string>THE UNIVERSITY OF TEXAS AT DALLAS</string>
+		</array>
+		<array>
+			<string>71</string>
+			<string>THE UNIVERSITY OF TEXAS AT SAN ANTONIO</string>
+		</array>
+		<array>
+			<string>72</string>
+			<string>THE UNIVERSITY OF TEXAS OF THE PERMIAN BASIN</string>
+		</array>
+		<array>
+			<string>73</string>
+			<string>THE UNIVERSITY OF TEXAS AT HOUSTON</string>
+		</array>
+		<array>
+			<string>74</string>
+			<string>OTHER MEDICAL, DENTAL, AND NURSING UNITS OF THE UNIVERSITY OF TEXAS SYSTEM</string>
+		</array>
+		<array>
+			<string>75</string>
+			<string>OTHER UNITS OF THE UNIVERSITY OF TEXAS SYSTEM</string>
+		</array>
+		<array>
+			<string>76</string>
+			<string>THE UNIVERSITY OF TEXAS AT TYLER</string>
+		</array>
+		<array>
+			<string>77</string>
+			<string>THE UNIVERSITY OF TEXAS--PAN AMERICAN</string>
+		</array>
+		<array>
+			<string>78</string>
+			<string>THE UNIVERSITY OF TEXAS AT BROWNSVILLE</string>
+		</array>
+		<array>
+			<string>79</string>
+			<string> UNIVERSITY TO BE ESTABLISHED IN SOUTH TEXAS</string>
+		</array>
+		<array>
+			<string>85</string>
+			<string>ADMINISTRATION OF THE TEXAS A &amp; M UNIVERSITY SYSTEM</string>
+		</array>
+		<array>
+			<string>86</string>
+			<string>TEXAS A &amp; M UNIVERSITY</string>
+		</array>
+		<array>
+			<string>87</string>
+			<string>OTHER ACADEMIC INSTITUTIONS IN THE TEXAS A &amp; M UNIVERSITY SYSTEM</string>
+		</array>
+		<array>
+			<string>88</string>
+			<string>AGENCIES AND SERVICES OF THE TEXAS A &amp; M UNIVERSITY SYSTEM</string>
+		</array>
+		<array>
+			<string>89</string>
+			<string> THE TEXAS A&amp;M UNIVERSITY SYSTEM HEALTH SCIENCE CENTER</string>
+		</array>
+		<array>
+			<string>95</string>
+			<string>ADMINISTRATION OF THE TEXAS STATE UNIVERSITY SYSTEM</string>
+		</array>
+		<array>
+			<string>96</string>
+			<string>INSTITUTIONS OF THE TEXAS STATE UNIVERSITY SYSTEM</string>
+		</array>
+		<array>
+			<string>101</string>
+			<string>STEPHEN F. AUSTIN STATE UNIVERSITY</string>
+		</array>
+		<array>
+			<string>102</string>
+			<string>WEST TEXAS STATE UNIVERSITY</string>
+		</array>
+		<array>
+			<string>103</string>
+			<string>MIDWESTERN STATE UNIVERSITY</string>
+		</array>
+		<array>
+			<string>105</string>
+			<string>UNIVERSITY OF NORTH TEXAS SYSTEM</string>
+		</array>
+		<array>
+			<string>106</string>
+			<string>TEXAS SOUTHERN UNIVERSITY</string>
+		</array>
+		<array>
+			<string>107</string>
+			<string>TEXAS WOMAN'S UNIVERSITY</string>
+		</array>
+		<array>
+			<string>109</string>
+			<string>TEXAS TECH UNIVERSITY SYSTEM</string>
+		</array>
+		<array>
+			<string>109a</string>
+			<string> ANGELO STATE UNIVERSITY</string>
+		</array>
+		<array>
+			<string>110</string>
+			<string> TEXAS TECH UNIVERSITY HEALTH SCIENCES INSTITUTIONS</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string>THE UNIVERSITY OF HOUSTON</string>
+		</array>
+		<array>
+			<string>114</string>
+			<string>CHIROPRACTIC COLLEGE</string>
+		</array>
+		<array>
+			<string>115</string>
+			<string>PUBLIC UNIVERSITY FOR CENTRAL TEXAS</string>
+		</array>
+		<array>
+			<string>130</string>
+			<string>JUNIOR COLLEGE DISTRICTS</string>
+		</array>
+		<array>
+			<string>131</string>
+			<string>SOUTHWEST COLLEGIATE INSTITUTE FOR THE DEAF</string>
+		</array>
+		<array>
+			<string>132</string>
+			<string>CAREER SCHOOLS AND COLLEGES</string>
+		</array>
+		<array>
+			<string>133</string>
+			<string>APPRENTICESHIP SYSTEM OF ADULT CAREER AND TECHNOLOGY EDUCATION</string>
+		</array>
+		<array>
+			<string>134</string>
+			<string> JOBS AND EDUCATION FOR TEXANS (JET) GRANT PROGRAM</string>
+		</array>
+		<array>
+			<string>135</string>
+			<string>TEXAS STATE TECHNICAL COLLEGE SYSTEM</string>
+		</array>
+		<array>
+			<string>136</string>
+			<string>TEXAS INNOVATIVE ADULT CAREER EDUCATION GRANT PROGRAM</string>
+		</array>
+		<array>
+			<string>141</string>
+			<string>RESEARCH ENHANCEMENT PROGRAM</string>
+		</array>
+		<array>
+			<string>142</string>
+			<string> NORMAN HACKERMAN ADVANCED RESEARCH PROGRAM; ADVANCED TECHNOLOGY PROGRAM</string>
+		</array>
+		<array>
+			<string>145</string>
+			<string>OVERHEAD COST RECOVERY</string>
+		</array>
+		<array>
+			<string>149</string>
+			<string>GEO-TECHNOLOGY RESEARCH INSTITUTE</string>
+		</array>
+		<array>
+			<string>150</string>
+			<string>TRANSPORTATION RESEARCH</string>
+		</array>
+		<array>
+			<string>151</string>
+			<string>BORDER HEALTH INSTITUTE</string>
+		</array>
+		<array>
+			<string>153</string>
+			<string>CENTERS FOR TECHNOLOGY DEVELOPMENT AND TRANSFER</string>
+		</array>
+		<array>
+			<string>154</string>
+			<string>CONSORTIUM OF ALZHEIMER'S DISEASE CENTERS</string>
+		</array>
+		<array>
+			<string>155</string>
+			<string> SEVERE STORM RESEARCH AND PLANNING CENTER</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. COMPACTS</string>
+		<array>
+			<string>160</string>
+			<string>REGIONAL EDUCATION COMPACT</string>
+		</array>
+		<array>
+			<string>161</string>
+			<string>COMPACT FOR EDUCATION</string>
+		</array>
+		<array>
+			<string>162</string>
+			<string> INTERSTATE COMPACT ON EDUCATIONAL OPPORTUNITY FOR MILITARY CHILDREN</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. OTHER EDUCATION</string>
+		<array>
+			<string>1001</string>
+			<string>DRIVER AND TRAFFIC SAFETY EDUCATION</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6.  BENEFITS CONSORTIUMS</string>
+		<array>
+			<string>2000</string>
+			<string> BENEFITS CONSORTIUMS FOR CERTAINPRIVATE EDUCATIONAL INSTITUTIONS</string>
+		</array>
+	</array>
+</array>
+</plist>

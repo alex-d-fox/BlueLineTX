@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<array>
+	<array>
+		<string>TITLE 1. GENERAL PROVISIONS</string>
+		<array>
+			<string>1</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>2</string>
+			<string>NATURE OF PROPERTY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 2. CONVEYANCES</string>
+		<array>
+			<string>5</string>
+			<string>CONVEYANCES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 3. PUBLIC RECORDS</string>
+		<array>
+			<string>11</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO PUBLIC RECORDS</string>
+		</array>
+		<array>
+			<string>12</string>
+			<string>RECORDING OF INSTRUMENTS</string>
+		</array>
+		<array>
+			<string>13</string>
+			<string>EFFECTS OF RECORDING</string>
+		</array>
+		<array>
+			<string>14</string>
+			<string>UNIFORM FEDERAL LIEN REGISTRATION ACT</string>
+		</array>
+		<array>
+			<string>15</string>
+			<string> UNIFORM REAL PROPERTY ELECTRONIC RECORDING ACT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 4. ACTIONS AND REMEDIES</string>
+		<array>
+			<string>21</string>
+			<string>EMINENT DOMAIN</string>
+		</array>
+		<array>
+			<string>22</string>
+			<string>TRESPASS TO TRY TITLE</string>
+		</array>
+		<array>
+			<string>23</string>
+			<string>PARTITION</string>
+		</array>
+		<array>
+			<string>24</string>
+			<string>FORCIBLE ENTRY AND DETAINER</string>
+		</array>
+		<array>
+			<string>25</string>
+			<string>TRIAL OF RIGHT OF PROPERTY</string>
+		</array>
+		<array>
+			<string>26</string>
+			<string>USE OF A DECEASED INDIVIDUAL'S NAME, VOICE, SIGNATURE, PHOTOGRAPH, OR LIKENESS</string>
+		</array>
+		<array>
+			<string>27</string>
+			<string>RESIDENTIAL CONSTRUCTION LIABILITY</string>
+		</array>
+		<array>
+			<string>28</string>
+			<string>PROMPT PAYMENT TO CONTRACTORS AND SUBCONTRACTORS</string>
+		</array>
+		<array>
+			<string>29</string>
+			<string>FORCED SALE OF OWNER'S INTEREST IN CERTAIN REAL PROPERTY AS REIMBURSEMENT FOR PROPERTY TAXES PAID BY CO-OWNER ON OWNER'S BEHALF</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 5. EXEMPT PROPERTY AND LIENS</string>
+		<array>
+			<string>41</string>
+			<string>INTERESTS IN LAND</string>
+		</array>
+		<array>
+			<string>42</string>
+			<string>PERSONAL PROPERTY</string>
+		</array>
+		<array>
+			<string>43</string>
+			<string>EXEMPT PUBLIC PROPERTY</string>
+		</array>
+		<array>
+			<string>44</string>
+			<string>TAXATION OF RETIREMENT BENEFITS BY ANOTHER STATE</string>
+		</array>
+		<array>
+			<string>51</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO LIENS</string>
+		</array>
+		<array>
+			<string>52</string>
+			<string>JUDGMENT LIEN</string>
+		</array>
+		<array>
+			<string>53</string>
+			<string>MECHANIC'S, CONTRACTOR'S, OR MATERIALMAN'S LIEN</string>
+		</array>
+		<array>
+			<string>54</string>
+			<string>LANDLORD'S LIENS</string>
+		</array>
+		<array>
+			<string>55</string>
+			<string>HOSPITAL AND EMERGENCY MEDICAL SERVICES LIENS</string>
+		</array>
+		<array>
+			<string>56</string>
+			<string>LIENS AGAINST MINERAL PROPERTY</string>
+		</array>
+		<array>
+			<string>57</string>
+			<string>RAILROAD LABORER'S LIEN</string>
+		</array>
+		<array>
+			<string>58</string>
+			<string>FARM, FACTORY, AND STORE WORKER'S LIENS</string>
+		</array>
+		<array>
+			<string>59</string>
+			<string>SELF-SERVICE STORAGE FACILITY LIENS</string>
+		</array>
+		<array>
+			<string>60</string>
+			<string>NEWSPAPER EMPLOYEE'S LIEN</string>
+		</array>
+		<array>
+			<string>61</string>
+			<string>MOTOR VEHICLE MORTGAGEE'S LIEN</string>
+		</array>
+		<array>
+			<string>62</string>
+			<string>BROKER'S AND APPRAISER'S LIEN ON COMMERCIAL REAL ESTATE</string>
+		</array>
+		<array>
+			<string>63</string>
+			<string>MANUFACTURED HOME LIEN</string>
+		</array>
+		<array>
+			<string>64</string>
+			<string> ASSIGNMENT OF RENTS TO LIENHOLDER</string>
+		</array>
+		<array>
+			<string>65</string>
+			<string> AUTHORITY OF CO-OWNER TO ENCUMBER RESIDENTIAL PROPERTY</string>
+		</array>
+		<array>
+			<string>70</string>
+			<string>MISCELLANEOUS LIENS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 6. UNCLAIMED PROPERTY</string>
+		<array>
+			<string>71</string>
+			<string>ESCHEAT OF PROPERTY</string>
+		</array>
+		<array>
+			<string>72</string>
+			<string>ABANDONMENT OF PERSONAL PROPERTY</string>
+		</array>
+		<array>
+			<string>73</string>
+			<string>PROPERTY HELD BY FINANCIAL INSTITUTIONS</string>
+		</array>
+		<array>
+			<string>74</string>
+			<string>REPORT, DELIVERY, AND CLAIMS PROCESS</string>
+		</array>
+		<array>
+			<string>75</string>
+			<string>TEXAS MINERALS</string>
+		</array>
+		<array>
+			<string>76</string>
+			<string>REPORT, DELIVERY, AND CLAIMS PROCESS FOR CERTAIN PROPERTY</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 7. CONDOMINIUMS</string>
+		<array>
+			<string>81</string>
+			<string>CONDOMINIUMS CREATED BEFORE ADOPTION OF UNIFORM CONDOMINIUM ACT</string>
+		</array>
+		<array>
+			<string>82</string>
+			<string>UNIFORM CONDOMINIUM ACT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 8. LANDLORD AND TENANT</string>
+		<array>
+			<string>91</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO LANDLORDS AND TENANTS</string>
+		</array>
+		<array>
+			<string>92</string>
+			<string>RESIDENTIAL TENANCIES</string>
+		</array>
+		<array>
+			<string>93</string>
+			<string>COMMERCIAL TENANCIES</string>
+		</array>
+		<array>
+			<string>94</string>
+			<string>MANUFACTURED HOME TENANCIES</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 9. TRUSTS</string>
+		<array>
+			<string>101</string>
+			<string>PROVISIONS GENERALLY APPLICABLE TO TRUSTS</string>
+		</array>
+		<array>
+			<string>111</string>
+			<string>GENERAL PROVISIONS</string>
+		</array>
+		<array>
+			<string>112</string>
+			<string>CREATION, VALIDITY, MODIFICATION, AND TERMINATION OF TRUSTS</string>
+		</array>
+		<array>
+			<string>113</string>
+			<string>ADMINISTRATION</string>
+		</array>
+		<array>
+			<string>114</string>
+			<string>LIABILITIES, RIGHTS, AND REMEDIES OF TRUSTEES, BENEFICIARIES, AND THIRD PERSONS</string>
+		</array>
+		<array>
+			<string>115</string>
+			<string>JURISDICTION, VENUE, AND PROCEEDINGS</string>
+		</array>
+		<array>
+			<string>116</string>
+			<string>UNIFORM PRINCIPAL AND INCOME ACT</string>
+		</array>
+		<array>
+			<string>117</string>
+			<string>UNIFORM PRUDENT INVESTOR ACT</string>
+		</array>
+		<array>
+			<string>121</string>
+			<string>EMPLOYEES' TRUSTS</string>
+		</array>
+		<array>
+			<string>123</string>
+			<string>ATTORNEY GENERAL PARTICIPATION IN PROCEEDINGS INVOLVING CHARITABLE TRUSTS</string>
+		</array>
+		<array>
+			<string>124</string>
+			<string> PARTITION OF MINERAL INTERESTS OF CHARITABLE TRUST</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 10. MISCELLANEOUS BENEFICIAL PROPERTY INTERESTS</string>
+		<array>
+			<string>141</string>
+			<string>TRANSFERS TO MINORS</string>
+		</array>
+		<array>
+			<string>142</string>
+			<string>MANAGEMENT OF PROPERTY RECOVERED IN SUIT BY A NEXT FRIEND OR GUARDIAN AD LITEM</string>
+		</array>
+		<array>
+			<string>161</string>
+			<string>MANAGEMENT AND CONTROL OF SECURITIES</string>
+		</array>
+		<array>
+			<string>162</string>
+			<string>CONSTRUCTION PAYMENTS, LOAN RECEIPTS, AND MISAPPLICATION OF TRUST FUNDS</string>
+		</array>
+		<array>
+			<string>163</string>
+			<string> MANAGEMENT, INVESTMENT, AND EXPENDITURE OF INSTITUTIONAL FUNDS</string>
+		</array>
+		<array>
+			<string>181</string>
+			<string>POWERS OF APPOINTMENT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 11. RESTRICTIVE COVENANTS</string>
+		<array>
+			<string>201</string>
+			<string>RESTRICTIVE COVENANTS APPLICABLE TO CERTAIN SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>202</string>
+			<string>CONSTRUCTION AND ENFORCEMENT OF RESTRICTIVE COVENANTS</string>
+		</array>
+		<array>
+			<string>203</string>
+			<string>ENFORCEMENT OF LAND USE RESTRICTIONS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>204</string>
+			<string>POWERS OF PROPERTY OWNERS' ASSOCIATION RELATING TO RESTRICTIVE COVENANTS IN CERTAIN SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>205</string>
+			<string>RESTRICTIVE COVENANTS APPLICABLE TO REVISED SUBDIVISIONS IN CERTAIN COUNTIES</string>
+		</array>
+		<array>
+			<string>206</string>
+			<string>EXTENSION OF RESTRICTIONS IMPOSING REGULAR ASSESSMENTS IN CERTAIN SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>207</string>
+			<string>DISCLOSURE OF INFORMATION BY PROPERTY OWNERS' ASSOCIATIONS</string>
+		</array>
+		<array>
+			<string>208</string>
+			<string>AMENDMENT AND TERMINATION OF RESTRICTIVE COVENANTS IN HISTORIC NEIGHBORHOODS</string>
+		</array>
+		<array>
+			<string>209</string>
+			<string>TEXAS RESIDENTIAL PROPERTY OWNERS PROTECTION ACT</string>
+		</array>
+		<array>
+			<string>210</string>
+			<string> EXTENSION OR MODIFICATION OF RESIDENTIAL RESTRICTIVE COVENANTS BY PETITION IN CERTAIN SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>211</string>
+			<string> AMENDMENT AND ENFORCEMENT OF RESTRICTIONS IN CERTAIN SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>212</string>
+			<string> EXTENSION OF RESTRICTIONS BY MAJORITY VOTE IN CERTAIN SUBDIVISIONS</string>
+		</array>
+		<array>
+			<string>215</string>
+			<string> MASTER MIXED-USE PROPERTY OWNERS' ASSOCIATIONS</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 12. MISCELLANEOUS SHARED REAL PROPERTY INTERESTS</string>
+		<array>
+			<string>221</string>
+			<string>TEXAS TIMESHARE ACT</string>
+		</array>
+		<array>
+			<string>222</string>
+			<string>TEXAS MEMBERSHIP CAMPING RESORT ACT</string>
+		</array>
+	</array>
+	<array>
+		<string>TITLE 15. FAIR HOUSING PRACTICES</string>
+		<array>
+			<string>301</string>
+			<string>TEXAS FAIR HOUSING ACT</string>
+		</array>
+	</array>
+</array>
+</plist>
